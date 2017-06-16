@@ -1,15 +1,20 @@
 <p align="center">
-  <img width="400" src="./assets/img/Vue.js_Logo.svg"  alt="vuejs">
+  <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Vue.js_Logo.svg"  alt="vuejs">
 </p>
+
+## Resources
+1. [Best Free Vue.js Learning Resources](http://whatpixel.com/vuejs-learning-resources/)
 
 ## Tutorials 
 1. [A Vue.js introduction for people who know just enough jQuery to get by - FCC](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77)
 2. [5 Practical Examples For Learning Vue.js - tutorialzine](https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js)
+3. [Vue.js build set-up from scratch with webpack, vue-loader and hot reload](https://skyronic.com/blog/vue-project-scratch)
 
 
 ## Blogs
 1. [scotch.io](https://scotch.io/tutorials?q=&hits_per_page=12&page=0&dFR%5Btags%5D%5B0%5D=vue.js&is_v=1)
 2. [coligo.io](https://coligo.io/)
+3. [alligator.io](https://alligator.io/vuejs/)
 
 
 ## Videos
