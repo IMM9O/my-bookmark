@@ -5,7 +5,7 @@
 ## Resources
 1. [ReactJS Redux, the Right Way.](https://reactjs.co/)
 
-## Tutorials 
+## Articles 
 1. [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 2. [React’s Five Fingers of Death. Master these five concepts, then master React.](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)
 
