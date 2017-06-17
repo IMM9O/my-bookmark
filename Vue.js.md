@@ -21,7 +21,7 @@
 1. [Vue.js 2.0 In 60 Minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y&t=464s)
 2. [[2017] Vue.js in less than 30 minutes for beginners - Tutorial - 2.0](https://www.youtube.com/watch?v=VPUdtEf3oXI&t=29s)
 
-## Series
+## Courses 
 1. [Vue JS 2 Tutorial - The Net Ninja](https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
 2. [Develop Basic Web Apps with Vue.js - egghead](https://egghead.io/lessons/vue-create-a-basic-component-using-vue-js) 
 3. [Learn Vue 2: Step By Step - laracasts](https://laracasts.com/series/learn-vue-2-step-by-step)

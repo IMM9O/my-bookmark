@@ -18,4 +18,4 @@
 ## Videos
 
 
-## Series
+## Courses
