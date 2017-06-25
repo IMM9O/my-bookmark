@@ -17,6 +17,14 @@
 * [5 Practical Examples For Learning Vue.js - tutorialzine](https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js)
 * [Vue.js build set-up from scratch with webpack, vue-loader and hot reload](https://skyronic.com/blog/vue-project-scratch)
 
+### Article Series:(css-Tricks)
+* [Rendering, Directives, and Events](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
+* [Components, Props, and Slots](https://css-tricks.com/intro-to-vue-2-components-props-slots/)
+* [Vue-cli](https://css-tricks.com/intro-to-vue-3-vue-cli-lifecycle-hooks/)
+* [Vuex](https://css-tricks.com/intro-to-vue-4-vuex/)
+* [Animations](https://css-tricks.com/intro-to-vue-5-animations/)
+
+
 
 ## Videos
 * [Vue.js 2.0 In 60 Minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y&t=464s)
@@ -27,6 +35,6 @@
 
 
 ## Courses
-* [Vue JS 2 Tutorial - The Net Ninja](https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
-* [Develop Basic Web Apps with Vue.js - egghead](https://egghead.io/lessons/vue-create-a-basic-component-using-vue-js) 
+* [Vue JS 2 Tutorial - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
+* [Develop Basic Web Apps with Vue.js - egghead](https://egghead.io/courses/develop-web-apps-with-vue-js) 
 * [Learn Vue 2: Step By Step - laracasts](https://laracasts.com/series/learn-vue-2-step-by-step)
