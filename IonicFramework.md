@@ -5,22 +5,24 @@
 </p>
 
 ## Resources
-1. [260+ Ionic Framework Resources.](http://mcgivery.com/100-ionic-framework-resources/)
-2. [60+ Ionic Framework 2 Resources.](http://mcgivery.com/15-ionic-framework-2-resources/)
+* [260+ Ionic Framework Resources.](http://mcgivery.com/100-ionic-framework-resources/)
+* [60+ Ionic Framework 2 Resources.](http://mcgivery.com/15-ionic-framework-2-resources/)
+
+
+## Community Blogs
+* [official blog](http://blog.ionic.io/)
+* [devdactic](https://devdactic.com/devblog/)
+* [mcgivery](http://mcgivery.com/)
+* [gonehybrid](https://www.gonehybrid.com/)
+* [joshmorony](https://www.joshmorony.com/)
+* [the polyglot developer](https://www.thepolyglotdeveloper.com/)
+* [Paul Halliday <i class="fa fa-youtube-play" aria-hidden="true"></i>](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg)
+
 
 ## Articles 
-1. [The 9 Most Common Mistakes That Ionic Developers Make](https://www.toptal.com/ionic/most-common-ionic-development-mistakes)
-2. [Preparing for Release and Publishing Your Ionic App](https://github.com/hughred22/YouTube-Video-Listing-Ionic-Mobile-App/wiki/Preparing-for-Release-and-Publishing-Your-Ionic-App)
+* [The 9 Most Common Mistakes That Ionic Developers Make](https://www.toptal.com/ionic/most-common-ionic-development-mistakes)
+* [Preparing for Release and Publishing Your Ionic App](https://github.com/hughred22/YouTube-Video-Listing-Ionic-Mobile-App/wiki/Preparing-for-Release-and-Publishing-Your-Ionic-App)
 
-
-## Blogs
-1. [official blog](http://blog.ionic.io/)
-2. [devdactic](https://devdactic.com/devblog/)
-3. [mcgivery](http://mcgivery.com/)
-4. [gonehybrid](https://www.gonehybrid.com/)
-5. [joshmorony](https://www.joshmorony.com/)
-6. [the polyglot developer](https://www.thepolyglotdeveloper.com/)
-7. [Paul Halliday <i class="fa fa-youtube-play" aria-hidden="true"></i>](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg)
 
 
 ## Videos
