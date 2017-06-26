@@ -1,8 +1,10 @@
 
 ## Resources
-01. [Web Dev path chart](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
+* The big picture
+01. [Web developer Roadmap 2016/2017](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
 02. [Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
 03. [2016 JavaScript Rising Stars](https://risingstars2016.js.org/)
+
 04. [Grab Front End Guide](https://github.com/grab/front-end-guide#new-age-javascript)
 05. [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)
 06. [From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b)
