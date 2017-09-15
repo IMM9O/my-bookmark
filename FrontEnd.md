@@ -1,6 +1,6 @@
 
 ## Resources
-* The big picture
+### The big picture
 * [Web developer Roadmap 2016/2017](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
 * [Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
 * [2016 JavaScript Rising Stars](https://risingstars2016.js.org/)
