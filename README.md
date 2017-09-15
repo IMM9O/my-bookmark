@@ -1,7 +1,7 @@
 # Web Developer bookmark
 
 
-## Programing in Genrall 
+## Programing in Genral
 
 * [Design Pattern](SoftwareDesignPattern.md)
 * [Algorithms]()
