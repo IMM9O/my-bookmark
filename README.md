@@ -3,8 +3,10 @@
 
 ## Programing in Genral
 
+* [Genral Topics](Genral.md)
 * [Design Pattern](SoftwareDesignPattern.md)
-* [Algorithms]()
+* [Data Structures & Algorithms]()
+
 
 
 ## FronEnd Programing

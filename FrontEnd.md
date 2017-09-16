@@ -7,12 +7,12 @@
 
    * [Web developer Roadmap 2016/2017](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
    * [Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
-   * [2016 JavaScript Rising Stars](https://risingstars2016.js.org/)
-   * [Grab Front End Guide](https://github.com/grab/front-end-guide#new-age-javascript)
+   * [Grab Front End Guide](https://github.com/grab/front-end-guide)
    * [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)
    * [From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b)
    * [100+ FREE Resources to Learn Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
    * [200+ Best Free Tools & Resources for Front-End Web Developers — Medium](https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643#.oq3s5llo4)
+   * [2016 JavaScript Rising Stars](https://risingstars2016.js.org/)
 
 ## Articles
 
@@ -40,6 +40,9 @@
    * [Bring Your Forms Up to Date With CSS3 and HTML5 Validation](https://webdesign.tutsplus.com/tutorials/bring-your-forms-up-to-date-with-css3-and-html5-validation--webdesign-4738)
    * [HTML5 Form Validation](https://www.sitepoint.com/html5-form-validation/)
    * [Animating List Items](https://cssanimation.rocks/list-items/)
+   * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+   * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+   * [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 
 
 ## Videos ( Mono and Crash Coursess)
