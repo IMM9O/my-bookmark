@@ -43,7 +43,7 @@
    * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
    * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
    * [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
-   * [What is the best way to 'master' HTML and CSS?](https://www.quora.com/What-is-the-best-way-to-master-HTML-and-CSS(
+   * [What is the best way to 'master' HTML and CSS?](https://www.quora.com/What-is-the-best-way-to-master-HTML-and-CSS)
 
 
 ## Videos ( Mono and Crash Coursess)
