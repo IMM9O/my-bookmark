@@ -1,15 +1,17 @@
 # Web Developer bookmark
 
 
-## Programing in Genral
+## Architecture
 
-* [Design Pattern](SoftwareDesignPattern.md)
+* [Design Pattern](DesignPattern.md)
 * [Algorithms]()
 
 
 ## FronEnd Programing
 
 * [Front End Deveolpment](FrontEnd.md)
+    * [HTML & CSS](HTML&CSS.md)
+    * [JavaScript](JavaScript.md)
     * [Angular Fraamework](Angular.md)
     * [React Fraamework](React.md)
     * [Vue Fraamework](Vue.js.md)
