@@ -3,8 +3,8 @@
 
 ## Architecture
 
+* [Genral Topics](Genral.md)
 * [Design Pattern](DesignPattern.md)
-* [Algorithms]()
 
 
 ## FronEnd Programing
