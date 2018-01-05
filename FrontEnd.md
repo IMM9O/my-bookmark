@@ -5,6 +5,7 @@
 ## Resources
 
 * Roadmaps & Pathes
+  * **[State of JavaScript](https://stateofjs.com/)** - Sate of JS (Every Year)
   * **[Grab Front End Guide](https://github.com/grab/front-end-guide)** - Grap Roadmap
   * **[Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Github repository by _kamranahmedse_
   * **[Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x)** - Diagram by _LearnCode.academy_
@@ -13,6 +14,9 @@
   * **[2016/2017 MUST-KNOW WEB DEVELOPMENT TECH](https://www.youtube.com/watch?v=sBzRwzY7G-k)** - Youtube Video by _LearnCode.academy_
   * **[JavaScript State in 2017](https://medium.freecodecamp.org/a-look-back-at-the-state-of-javascript-in-2017-a5b7f562e977)** - Free Code Camp
   * **[JavaScript Rising Stars in 2016](https://risingstars2016.js.org/)** - Which github projects got traction in 2016
+  * **[Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)** 
+  * **[Top JavaScript Libraries & Tech to Learn in 2018 ](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)** 
+
 
 * **[From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)**
 * **[From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b)**

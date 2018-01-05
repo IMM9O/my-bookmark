@@ -5,8 +5,7 @@
 ## Resources
 
 - Genral Talk
-  * [2016 JavaScript Rising Stars](https://risingstars2016.js.org/)
-  * [Grab Front End Guide](https://github.com/grab/front-end-guide#new-age-javascript)
+  * [How to start in JavaScript in 2018 - From beginner to Full-Stack](http://fullstackengine.net/how-to-start-in-javascript-2018/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_content%3BHpx5tsMPSGGSEN2MkUMU5g%3D%3D)
 
 ## Articles
 
