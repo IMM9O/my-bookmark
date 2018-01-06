@@ -9,7 +9,6 @@
 + **[htmlreference](http://htmlreference.io/)** : htmlreference is a free guide to HTML. It features all elements and attributes.
 
 ## Articles
-
 + **[Bring Your Forms Up to Date With CSS3 and HTML5 Validation](https://webdesign.tutsplus.com/tutorials/bring-your-forms-up-to-date-with-css3-and-html5-validation--webdesign-4738)**
 + **[HTML5 Form Validation](https://www.sitepoint.com/html5-form-validation/)**
 + **[A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)**
