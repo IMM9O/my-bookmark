@@ -19,13 +19,19 @@
   + **[Scalable Single-Page Application Architecture](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)**
   + **[Building maintainable Angular applications - Medium](https://medium.com/curated-by-versett/building-maintainable-angular-2-applications-5b9ec4b463a1)**
   + **[Best-practices learnt from delivering a quality Angular4 application](https://hackernoon.com/best-practices-learnt-from-delivering-a-quality-angular4-application-2cd074ea53b3)**
+  + **[3 Tips for Angular Runtime Performance from the Real World](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e)**
 
-- Angular Core ( Template, Forms, HTTP and Animations )
-  + **[These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)**
+- Angular Core ( Components, pipes, directives, template syntax, forms and animations )
   + **[Angular ngFor - Learn all Features including trackBy, why is it not only for Arrays ?](http://blog.angular-university.io/angular-2-ngfor/)**
   + **[Angular— Advanced Styling Guide (v4+) - Medium](https://medium.com/google-developer-experts/angular-advanced-styling-guide-v4-f0765616e635)**
   + **[ANGULAR 2 BEST PRACTICES: CHANGE DETECTOR PERFORMANCE](https://www.lucidchart.com/techblog/2016/05/04/angular-2-best-practices-change-detector-performance/)**
   + **[Angular OnPush Change Detection and Component Design - Avoid Common Pitfalls](http://blog.angular-university.io/onpush-change-detection-how-it-works/)**
+  + **[These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)**
+
+- HttpClient ( Authentication and ajax requests )
+ + **[Angular 4.3 HttpClient (Accessing REST Web Services With Angular)](https://medium.com/codingthesmartway-com-blog/angular-4-3-httpclient-accessing-rest-web-services-with-angular-2305b8fd654b)**
+ + **[Angular Authentication: Using the Http Client and Http Interceptors](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)**
+ + **[Angular Authentication: Using Route Guards](Angular Authentication: Using Route Guards)**
 
 - Routing & Navigation
   + **[Angular— Animating Router transitions (v4+) - Medium](https://medium.com/google-developer-experts/angular-2-animate-router-transitions-6de179e00204)**
@@ -33,7 +39,6 @@
 - Manging State ( ngrx or redux )
   + **[Managing State in Angular Applications - Medium](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f)**
   + **[Using NgRx 4 to Manage State in Angular Applications](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)**
-
 
 - Testing & Debuging
   + **[Super-charged live editing and JavaScript debugging for Angular using Visual Studio Code 🔥 🎉 - Medium](https://medium.com/@auchenberg/super-charged-live-editing-and-javascript-debugging-for-angular-using-visual-studio-code-c29da251ec71)**
