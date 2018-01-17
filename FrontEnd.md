@@ -36,21 +36,30 @@
   + **[Web Developer Checklist](http://webdevchecklist.com/)**
   + **[The Front-End Checklist](https://frontendchecklist.io/)**
 
-- Colors
-  + **[Coolors](https://coolors.co/)** - Create, save and share perfect palettes in seconds!
-  + **[Flat Colors](http://flatuicolors.com/)** - Quickly pick up flat colors
+- Colors and Palettes
+  + **[paletton](http://paletton.com)** - Create palettes.
+  + **[Coolors](https://coolors.co/)** - Create, save and share perfect palettes in seconds!.
+  + **[Flat Colors](http://flatuicolors.com/)** - Quickly pick up flat colors.
   + **[Material Design Palette](https://www.materialpalette.com/)** - Create and download in ( SASS, CSS, or LESS ) format color palettes for material design
+  + **[Adobe Color CC](https://color.adobe.com/create/color-wheel/)**
+  + **[colorpalettes](http://colorpalettes.net/)**
+  + **[webgradients](https://webgradients.com/)** - WebGradients is a free collection of 180 linear gradients.
+  + **[colourlovers](http://www.colourlovers.com/)** - COLOURlovers is a creative community where people from around the world create
+and share colors, palettes and patterns.
 
 - Inspiration
   + **[Calltoidea](http://www.calltoidea.com/)** - Light up your imagination!.
 
-- Stock Photos ( Assets )
+- Images
   + **[Pexels](https://www.pexels.com/)** - Best free stock photos in one place.
   + **[Instant Logo Search](http://instantlogosearch.com/)** - Search & download thousands of logos instantly
+
+- Fonts & Icons
 
 - Free API
   + **[lorempixel](http://lorempixel.com/)** - Free API to get random Placeholder Images.
   + **[JSON Placholder](https://jsonplaceholder.typicode.com/)** - Fake Online REST API for Testing and Prototyping
 
 - Code genrator
-  * \*\*[]()
+  + **[polychroma](https://polychroma.now.sh/)** - Genrate linear-gradient
+  + **[uigradients](https://uigradients.com/)** - Select or genrate linear-gradient effect
