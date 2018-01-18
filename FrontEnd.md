@@ -30,11 +30,8 @@
   + **[ECMAScript 6 Tutorial - Youtube](https://www.youtube.com/watch?v=Jakoi0G8lBg&t=2s)**
 
 ## Tools
-+ **[Caniuse](http://caniuse.com/)**: Browser support tables for modern web technologies.
 
-- Checklist
-  + **[Web Developer Checklist](http://webdevchecklist.com/)**
-  + **[The Front-End Checklist](https://frontendchecklist.io/)**
+- Free Templates
 
 - Colors and Palettes
   + **[paletton](http://paletton.com)** - Create palettes.
@@ -50,11 +47,79 @@ and share colors, palettes and patterns.
 - Inspiration
   + **[Calltoidea](http://www.calltoidea.com/)** - Light up your imagination!.
 
-- Images
-  + **[Pexels](https://www.pexels.com/)** - Best free stock photos in one place.
-  + **[Instant Logo Search](http://instantlogosearch.com/)** - Search & download thousands of logos instantly
+- Images ( Free of copyright restrictions. )
+  + **[Pexels](https://www.pexels.com/)**
+  + **[Stocksnap](https://stocksnap.io/)**
+  + **[allthefreestock](http://allthefreestock.com/)** - Get all the Free Stock Images 📷, Videos 📹, Music 🎼 and Icons in one location.
+  + **[unsplash](https://unsplash.com/)**
+  + **[splashbase](http://www.splashbase.co/)**
+  + **[Pixabay](https://pixabay.com/)**
+  + **[librestock](http://librestock.com/)**
+  + **[foodiefactor](https://foodiefactor.com/)** - Delicious, Free Food Stock Photography.
+  + **[Picography](https://picography.co/)**
+  + **[picjumbo](https://picjumbo.com/)**
+  + **[lifeofpix](http://www.lifeofpix.com/)**
+  + **[Gratisography](https://gratisography.com/)**
+  + **[Negative Space](https://negativespace.co/)**
+  + **[Cupcake](http://cupcake.nilssonlee.se/)**
+  + **[Freepik](https://www.freepik.com/)** - Find dozens of free vector graphics every day, all designed by Freepik.
+  + **[Public Domain Archive](http://publicdomainarchive.com/)**
+  + **[ISO Republic](https://isorepublic.com/)**
+  + **[Bucketlistly](http://photos.bucketlistly.com/)**
+  + **[Magdeleine](https://magdeleine.co/browse/)**
+  + **[Startup Stock Photos](http://startupstockphotos.com/)**
+  + **[Jay Mantri](http://jaymantri.com/)**
+  + **[Moveast](http://moveast.me/)**
+  + **[Stokpic](http://stokpic.com/)**
+  + **[MMT Stock](https://mmtstock.com/)**
+  + **[wefunction](http://wefunction.com/category/free-photos/)**
+  + **[Refe](http://getrefe.com/downloads/category/free/)** - Refe - Natural Looking Photos.
+  + **[Skuawk](http://skuawk.com)**
+  + **[Avopix](https://avopix.com)**
+  + **[Food Shot](https://foodshot.co)**
+  + **[Shot Stash](https://shotstash.com)**
+  + **[Wesaturate](https://www.wesaturate.com)**
+  + **[Finda photo](http://finda.photo)**
+  + **[Styled Stock](https://styledstock.co/)**
+  + **[Pickup Image](http://pickupimage.com)**
+  + **[DesignersPics](http://www.designerspics.com)**
+  + **[Little Visuals](http://littlevisuals.co)**
+  + **[Free Image Bank](http://www.freemagebank.com)**
+  + **[Good Stock Photos](https://goodstock.photos)**
+  + **[Travel coffee book](http://travelcoffeebook.com)**
+  + **[Kaboompics](https://kaboompics.com)**
+  + **[Burst Shopify](https://burst.shopify.com)**
+  + **[Free images](https://www.freeimages.com)**
+  + **[Skitterphoto](https://skitterphoto.com/)**
+  + **[Freestocks](https://freestocks.org)**
+  + **[Foodies Feed](https://www.foodiesfeed.com/)**
+  + **[SplitShire](https://www.splitshire.com/)** -Free Stock Photos and Videos for commercial use.
+  + **[New Old Stock Photos](https://nos.twnsnd.co/)** - VINTAGE PHOTOS FROM THE PUBLIC ARCHIVES.
+  + **[Instant Logo Search](http://instantlogosearch.com/)** - Search & download thousands of logos instantly.
 
-- Fonts & Icons
+
+
+
+- Fonts
+
+
+- Icons
+  + **[GlyphSearch](https://glyphsearch.com/)** - Search on most popular fonts library.
+  + **[flaticon](https://www.flaticon.com/)** - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
+  + **[fontawesome](http://fontawesome.io/)** - Font Awesome is a font and icon toolkit based on CSS and LESS.
+  + **[Fontello](http://fontello.com/)** - Search or genrate custome icons.
+  + **[Material Design Icons](http://google.github.io/material-design-icons/)**
+  + **[endlessicons](http://www.endlessicons.com/)** - Free icon library.
+  + **[IcoMoon](https://icomoon.io/)** - Pixel Perfect Icon Solutions.
+  + **[thenounproject](https://thenounproject.com/)** - Over a million curated icons, created by a global community.
+  + **[perfecticons](http://perfecticons.com/)** - The easiest way to create resolution independent social icons.
+  + **[IconFinder](https://www.iconfinder.com/free_icons)** - +100,000 free icons!.
+
+
+- Checklist
+  + **[Caniuse](http://caniuse.com/)**: Browser support tables for modern web technologies.
+  + **[Web Developer Checklist](http://webdevchecklist.com/)**
+  + **[The Front-End Checklist](https://frontendchecklist.io/)**
 
 - Free API
   + **[lorempixel](http://lorempixel.com/)** - Free API to get random Placeholder Images.
@@ -63,3 +128,8 @@ and share colors, palettes and patterns.
 - Code genrator
   + **[polychroma](https://polychroma.now.sh/)** - Genrate linear-gradient
   + **[uigradients](https://uigradients.com/)** - Select or genrate linear-gradient effect
+
+- Animation
+  + **[animejs](http://animejs.com/)** - JavaScript Animation Engine.
+  + **[animista](http://animista.net/)** - Genrate css animation.
+  + **[animate.css](https://daneden.github.io/animate.css/)** - Predefined css animation class.
