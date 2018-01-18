@@ -2,17 +2,20 @@
   <img width="400" src="https://angular.io/assets/images/logos/angular/angular.svg"  alt="vuejs">
 </p>
 
+
 ## Resources
 + **[Top 8 Resources to Explore Angular 4](https://hackernoon.com/top-8-resources-to-explore-angular-4-ff2c1b42020a)**
 + **[30 Learning Resources For Mastering Angular 2](https://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2)**
 + **[Top 10 Angular Tutorials, Community Blogs and Podcasts](http://blog.angular-university.io/top-10-angular-2-tutorials-blogs-and-podcasts/)**
 
-## Community
+
+## News & Community
 + **[Angular Blog](https://blog.angular.io/)** - Officially angular  blog
 + **[thoughtram](https://blog.thoughtram.io/)**
 + **[todd motto](https://toddmotto.com/)**
 + **[Angular Class](https://angularclass.com/blog/)**
 + **[Angular University](https://angular-university.io/)**
+
 
 ## Articles
 - Architecture & Case Study 
@@ -51,11 +54,10 @@
   + **[Fast Offline Angular Apps with Service Workers](https://coryrylan.com/blog/fast-offline-angular-apps-with-service-workers)**
   + **[6 Best Practices & Pro Tips when using Angular CLI](https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81)**
 
-## Videos ( Mono and Crash Coursess)
-+ **[Angular 4 In 60 Minutes - Youtube](https://www.youtube.com/watch?v=KhzGSHNhnbI&t=2572s)**
 
-## Courses and Playlists
+## MOOCs
 - English
+  + **[Angular 4 In 60 Minutes - Youtube](https://www.youtube.com/watch?v=KhzGSHNhnbI&t=2572s)**
   + **[Get Started with Angular - egghead](https://egghead.io/courses/get-started-with-angular)**
 
 - Arabic

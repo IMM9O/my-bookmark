@@ -6,19 +6,20 @@
         3. SSH 
         4. How to use the Terminal.
 
+
 ## Resources
 + **[Learn Git in 15 Minutes - Official Tutorial](https://try.github.io/levels/1/challenges/1)**
 
-## Community
+
+## News & Community
 
 
 ## Articles
 + **[Learn Git in 15 Minutes - Tutorialzine](https://tutorialzine.com/2016/06/learn-git-in-30-minutes)**
 
 
-## Videos ( Mono and Crash Coursess)
-+ **[Demystifying Regular Expressions - Youtube](https://www.youtube.com/watch?v=EkluES9Rvak)**
-
-## Courses and Playlists
-+ **[How To Use Git And GitHub - Udacity - Youtube](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLwygftUY318GeCz26jz45yuMWazLgJmxZ)**
-+ **[Regular Expressions - Programming with Text - Youtube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)**
+## MOOCs
+- English
+    + **[Demystifying Regular Expressions - Youtube](https://www.youtube.com/watch?v=EkluES9Rvak)**
+    + **[How To Use Git And GitHub - Udacity - Youtube](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLwygftUY318GeCz26jz45yuMWazLgJmxZ)**
+    + **[Regular Expressions - Programming with Text - Youtube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)**

@@ -2,11 +2,12 @@
   <img width="400" src="https://cdn.worldvectorlogo.com/logos/react.svg"  alt="vuejs">
 </p>
 
+
 ## Resources
 + **[ReactJS Redux, the Right Way.](https://reactjs.co/)**
 
 
-## Community
+## News & Community
 + **[scotch.io](https://scotch.io/tutorials?q=&hits_per_page=12&page=0&dFR%5Btags%5D%5B0%5D=react&is_v=1)**
 
 
@@ -16,7 +17,4 @@
 + **[Learn react](https://www.kirupa.com/react/index.htm)** - Article series by Kirupa
 
 
-## Videos ( Mono and Crash Coursess)
-
-
-## Courses and Playlists
+## MOOCs

@@ -2,15 +2,18 @@
   <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Vue.js_Logo.svg"  alt="vuejs">
 </p>
 
+
 ## Resources
 + **[Best Free Vue.js Learning Resources](http://whatpixel.com/vuejs-learning-resources/)**
 
-## Community
+
+## News & Community
 + **[scotch.io](https://scotch.io/tutorials?q=&hits_per_page=12&page=0&dFR%5Btags%5D%5B0%5D=vue.js&is_v=1)**
 + **[coligo.io](https://coligo.io/)**
 + **[alligator.io](https://alligator.io/vuejs/)**
 + **[Vue Mastery](https://medium.com/vue-mastery)**
 + **[Vuejs Developers](https://vuejsdevelopers.com/)**
+
 
 ## Articles
 + **[A Vue.js introduction for people who know just enough jQuery to get by - FCC](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77)**
@@ -25,12 +28,11 @@
   + **[Vuex](https://css-tricks.com/intro-to-vue-4-vuex/)**
   + **[Animations](https://css-tricks.com/intro-to-vue-5-animations/)**
 
-## Videos ( Mono and Crash Coursess)
-+ **[Vue.js 2.0 In 60 Minutes - Youtube](https://www.youtube.com/watch?v=z6hQqgvGI4Y&t=464s)**
-+ **[[2017] Vue.js in less than 30 minutes for beginners - Tutorial - 2.0 - Youtube](https://www.youtube.com/watch?v=VPUdtEf3oXI&t=29s)**
 
-## Courses and Playlists
+## MOOCs
 - English
+  + **[[2017] Vue.js in less than 30 minutes for beginners - Tutorial - 2.0 - Youtube](https://www.youtube.com/watch?v=VPUdtEf3oXI&t=29s)**
+  + **[Vue.js 2.0 In 60 Minutes - Youtube](https://www.youtube.com/watch?v=z6hQqgvGI4Y&t=464s)**
   + **[Learn Vue 2: Step By Step - laracasts](https://laracasts.com/series/learn-vue-2-step-by-step)**
   + **[Vue JS 2 Tutorial - Youtube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)**
 

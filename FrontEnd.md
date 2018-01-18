@@ -2,32 +2,49 @@
   <img width="400" src="https://cdn.dribbble.com/users/751348/screenshots/2329465/open-position-frontend-developer-dribbble-2-preview.png"  alt="vuejs">
 </p>
 
-## Resources
-+ **[State of JavaScript](https://stateofjs.com/)** - Sate of JS (Every Year)
-+ **[Grab Front End Guide](https://github.com/grab/front-end-guide)** - Grap Roadmap
-+ **[Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Github repository by _kamranahmedse_
-+ **[Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x)** - Diagram by _LearnCode.academy_
-+ **[Web Development in 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)** - Youtube Video by _Traversy Media_
-+ **[Web Development in 2017 - A Practical Guide](https://www.youtube.com/watch?v=9hDKfBKuXjI)** - Youtube Video by _Traversy Media_
-+ **[2016/2017 MUST-KNOW WEB DEVELOPMENT TECH](https://www.youtube.com/watch?v=sBzRwzY7G-k)** - Youtube Video by _LearnCode.academy_
-+ **[JavaScript State in 2017](https://medium.freecodecamp.org/a-look-back-at-the-state-of-javascript-in-2017-a5b7f562e977)** - Free Code Camp
-+ **[JavaScript Rising Stars in 2016](https://risingstars2016.js.org/)** - Which github projects got traction in 2016
-+ **[JavaScript Rising Stars in 2017](https://risingstars.js.org/2017/en/)** - Which github projects got traction in 2017
-+ **[Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)** 
-+ **[Top JavaScript Libraries & Tech to Learn in 2018 ](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)** 
+
+## Resources & References
 + **[From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)**
 + **[From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b)**
 + **[100+ FREE Resources to Learn Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)**
 + **[200+ Best Free Tools & Resources for Front-End Web Developers — Medium](https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643#.oq3s5llo4)**
++ **[HTML & CSS is Hard](https://internetingishard.com/html-and-css/)**: A friendly web development tutorial for complete beginners.
++ **[cssreference](http://cssreference.io/)**: cssreference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
++ **[htmlreference](http://htmlreference.io/)** : htmlreference is a free guide to HTML. It features all elements and attributes.
+
+
+## Learning Paths
++ **[State of JavaScript](https://stateofjs.com/)** - Sate of JS (Every Year)
++ **[Grab Front End Guide](https://github.com/grab/front-end-guide)** - Grap Roadmap
++ **[Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x)** - Diagram by _LearnCode.academy_
++ **[Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Github repository by _kamranahmedse_
++ **[Web Development in 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)** - Youtube Video by _Traversy Media_
++ **[Web Development in 2017 - A Practical Guide](https://www.youtube.com/watch?v=9hDKfBKuXjI)** - Youtube Video by _Traversy Media_
++ **[JavaScript State in 2017](https://medium.freecodecamp.org/a-look-back-at-the-state-of-javascript-in-2017-a5b7f562e977)** - Free Code Camp
++ **[JavaScript Rising Stars in 2017](https://risingstars.js.org/2017/en/)** - Which github projects got traction in 2017
++ **[JavaScript Rising Stars in 2016](https://risingstars2016.js.org/)** - Which github projects got traction in 2016
++ **[2016/2017 MUST-KNOW WEB DEVELOPMENT TECH](https://www.youtube.com/watch?v=sBzRwzY7G-k)** - Youtube Video by _LearnCode.academy_
++ **[Top JavaScript Libraries & Tech to Learn in 2018 ](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)** 
++ **[Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)** 
+
+
+## News & Community
+
 
 ## Articles
 + **[How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)**
 + **[Best Practices for Search Results](https://uxplanet.org/best-practices-for-search-results-1bbed9d7a311)**
++ **[Bring Your Forms Up to Date With CSS3 and HTML5 Validation](https://webdesign.tutsplus.com/tutorials/bring-your-forms-up-to-date-with-css3-and-html5-validation--webdesign-4738)**
++ **[HTML5 Form Validation](https://www.sitepoint.com/html5-form-validation/)**
++ **[A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)**
++ **[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
++ **[Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)**
++ **[What is the best way to 'master' HTML and CSS?](https://www.quora.com/What-is-the-best-way-to-master-HTML-and-CSS)**
 
-## Videos ( Mono and Crash Coursess)
-* English
-  + **[Object Oriented JavaScript - Youtube](https://www.youtube.com/watch?v=O8wwnhdkPE4)**
-  + **[ECMAScript 6 Tutorial - Youtube](https://www.youtube.com/watch?v=Jakoi0G8lBg&t=2s)**
+
+## MOOCs
+- English
+
 
 ## Tools
 
@@ -99,11 +116,7 @@ and share colors, palettes and patterns.
   + **[New Old Stock Photos](https://nos.twnsnd.co/)** - VINTAGE PHOTOS FROM THE PUBLIC ARCHIVES.
   + **[Instant Logo Search](http://instantlogosearch.com/)** - Search & download thousands of logos instantly.
 
-
-
-
-- Fonts
-
+- Typography & Fonts
 
 - Icons
   + **[Linea](http://linea.io)**
@@ -125,7 +138,6 @@ and share colors, palettes and patterns.
   + **[We Love Icon Fonts](http://weloveiconfonts.com)**
   + **[Material Design Icons](http://google.github.io/material-design-icons/)**
 
-
 - Checklist
   + **[Caniuse](http://caniuse.com/)**: Browser support tables for modern web technologies.
   + **[Web Developer Checklist](http://webdevchecklist.com/)**
@@ -135,11 +147,30 @@ and share colors, palettes and patterns.
   + **[lorempixel](http://lorempixel.com/)** - Free API to get random Placeholder Images.
   + **[JSON Placholder](https://jsonplaceholder.typicode.com/)** - Fake Online REST API for Testing and Prototyping
 
-- Code genrator
+- CSS Generators
   + **[polychroma](https://polychroma.now.sh/)** - Genrate linear-gradient
   + **[uigradients](https://uigradients.com/)** - Select or genrate linear-gradient effect
+
+- Calculator & Converter
+
+- Analyze Website Style
+
 
 - Animation
   + **[animejs](http://animejs.com/)** - JavaScript Animation Engine.
   + **[animista](http://animista.net/)** - Genrate css animation.
   + **[animate.css](https://daneden.github.io/animate.css/)** - Predefined css animation class.
+
+- Editor
+
+- Developer Tools
+
+- Testing
+
+- Performance
+
+- Optimization
+
+- Regular Expression
+  + **[Regexr](https://regexr.com/)**
+  + **[regex101](https://regex101.com/)**

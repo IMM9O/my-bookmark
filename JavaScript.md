@@ -2,9 +2,14 @@
   <img width="400" src="https://cdn.dribbble.com/users/751348/screenshots/2329465/open-position-frontend-developer-dribbble-2-preview.png"  alt="vuejs">
 </p>
 
+
 ## Resources
 - Genral Talk
   + **[How to start in JavaScript in 2018 - From beginner to Full-Stack](http://fullstackengine.net/how-to-start-in-javascript-2018/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_content%3BHpx5tsMPSGGSEN2MkUMU5g%3D%3D)**
+
+
+## News & Community
+
 
 ## Articles
 + **[Function Declarations vs. Function Expressions](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)**
@@ -19,12 +24,8 @@
 + **[ES2015 - Jump Start](https://juristr.com/blog/2015/08/jump-start-es2015/)**
 + **[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)**
 
-## Videos ( Mono and Crash Coursess)
+
+## MOOCs
 - English
   + **[Object Oriented JavaScript - Youtube](https://www.youtube.com/watch?v=O8wwnhdkPE4)**
   + **[ECMAScript 6 Tutorial - Youtube](https://www.youtube.com/watch?v=Jakoi0G8lBg&t=2s)**
-
-## Tools
-- Regular Expression
-  + **[Regexr](https://regexr.com/)**
-  + **[regex101](https://regex101.com/)**
