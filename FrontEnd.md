@@ -34,14 +34,16 @@
 - Free Templates
 
 - Colors and Palettes
-  + **[paletton](http://paletton.com)** - Create palettes.
+  + **[0to255](http://www.0to255.com/)**
   + **[Coolors](https://coolors.co/)** - Create, save and share perfect palettes in seconds!.
+  + **[Paletton](http://paletton.com)** - Create palettes.
+  + **[Lol Colors](https://www.webdesignrankings.com/resources/lolcolors/)**
   + **[Flat Colors](http://flatuicolors.com/)** - Quickly pick up flat colors.
-  + **[Material Design Palette](https://www.materialpalette.com/)** - Create and download in ( SASS, CSS, or LESS ) format color palettes for material design
+  + **[Colour Lovers](http://www.colourlovers.com/)** - COLOURlovers is a creative community where people from around the world create
+  + **[Web Gradients](https://webgradients.com/)** - WebGradients is a free collection of 180 linear gradients.
+  + **[Color Palettes](http://colorpalettes.net/)**
   + **[Adobe Color CC](https://color.adobe.com/create/color-wheel/)**
-  + **[colorpalettes](http://colorpalettes.net/)**
-  + **[webgradients](https://webgradients.com/)** - WebGradients is a free collection of 180 linear gradients.
-  + **[colourlovers](http://www.colourlovers.com/)** - COLOURlovers is a creative community where people from around the world create
+  + **[Material Palette](https://www.materialpalette.com/)** - Create and download in ( SASS, CSS, or LESS ) format color palettes for material design
 and share colors, palettes and patterns.
 
 - Inspiration
