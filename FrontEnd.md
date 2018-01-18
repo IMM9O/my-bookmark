@@ -104,16 +104,24 @@ and share colors, palettes and patterns.
 
 
 - Icons
-  + **[GlyphSearch](https://glyphsearch.com/)** - Search on most popular fonts library.
-  + **[flaticon](https://www.flaticon.com/)** - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
-  + **[fontawesome](http://fontawesome.io/)** - Font Awesome is a font and icon toolkit based on CSS and LESS.
-  + **[Fontello](http://fontello.com/)** - Search or genrate custome icons.
-  + **[Material Design Icons](http://google.github.io/material-design-icons/)**
-  + **[endlessicons](http://www.endlessicons.com/)** - Free icon library.
+  + **[Linea](http://linea.io)**
+  + **[Freepik](https://www.freepik.com/free-icons)**
   + **[IcoMoon](https://icomoon.io/)** - Pixel Perfect Icon Solutions.
-  + **[thenounproject](https://thenounproject.com/)** - Over a million curated icons, created by a global community.
-  + **[perfecticons](http://perfecticons.com/)** - The easiest way to create resolution independent social icons.
+  + **[Devicon](http://konpa.github.io/devicon/)**
+  + **[flaticon](https://www.flaticon.com/)** - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
+  + **[Fontello](http://fontello.com/)** - Search or genrate custome icons.
+  + **[Ionicons](http://ionicons.com)**
+  + **[Flaticons](http://flaticons.net)**
   + **[IconFinder](https://www.iconfinder.com/free_icons)** - +100,000 free icons!.
+  + **[Icon Store](https://iconstore.co)**
+  + **[Iconmonstr](https://iconmonstr.com)**
+  + **[GlyphSearch](https://glyphsearch.com/)** - Search on most popular fonts library.
+  + **[endlessicons](http://www.endlessicons.com/)** - Free icon library.
+  + **[Font Awesome](http://fontawesome.io/)** - Font Awesome is a font and icon toolkit based on CSS and LESS.
+  + **[Noun Project](https://thenounproject.com/)** - Over a million curated icons, created by a global community.
+  + **[perfecticons](http://perfecticons.com/)** - The easiest way to create resolution independent social icons.
+  + **[We Love Icon Fonts](http://weloveiconfonts.com)**
+  + **[Material Design Icons](http://google.github.io/material-design-icons/)**
 
 
 - Checklist
