@@ -10,7 +10,6 @@
 
 
 ## News & Blogs
-+ **[scotch.io](https://scotch.io/tutorials?q=&hits_per_page=12&page=0&dFR%5Btags%5D%5B0%5D=react&is_v=1)**
 
 
 ## Articles

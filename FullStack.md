@@ -8,12 +8,12 @@
 + **[From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b)**
 + **[100+ FREE Resources to Learn Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)**
 + **[200+ Best Free Tools & Resources for Front-End Web Developers — Medium](https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643#.oq3s5llo4)**
-+ **[HTML & CSS is Hard](https://internetingishard.com/html-and-css/)** - A friendly web development tutorial for complete beginners.
-+ **[CSS Reference](http://cssreference.io/)** - cssreference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
-+ **[HTML Reference](http://htmlreference.io/)** - htmlreference is a free guide to HTML. It features all elements and attributes.
-+ **[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)** - CSS-Tricks complete guide to flexbox. 
-+ **[A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)** - CSS-Tricks Complete Guide to Grid.
-+ **[A Complete Guide to Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)** - CSS-Tricks Complete Guide to  Centering in CSS.
++ **[CSS Reference](http://cssreference.io/)** - CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
++ **[HTML Reference](http://htmlreference.io/)** - HTML Reference is a free guide to HTML. It features all elements and attributes.
++ **[A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)**
++ **[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)** 
++ **[A Complete Guide to Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)**
++ **[Learn CSS Layout](http://learnlayout.com/)**
 + **[Free Code Camp Guide](https://guide.freecodecamp.org/)**
 + **[Over API](http://overapi.com/)** - Collecting All Cheat Sheets.
 
@@ -35,17 +35,18 @@
 
 ## News & Blogs
 + **[Hacks Mozilla](https://hacks.mozilla.org/)**
++ **[CSS Tricks](https://css-tricks.com/)**
++ **[Tutorialzine](https://tutorialzine.com/)**
++ **[Airpair](https://www.airpair.com/)**
++ **[SABE](https://sabe.io/)** - Learn modern web development with high-quality classes and tutorials.
++ **[Syntax](https://syntax.fm/)** - A Tasty Treats Podcast for Web Developers. 🎙️
 
 
 ## Articles
++ **[Front-End Performance Checklist](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)**
 + **[How Flexbox works](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35)** - explained with big, colorful, animated gifs
 + **[How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)**
 + **[Best Practices for Search Results](https://uxplanet.org/best-practices-for-search-results-1bbed9d7a311)**
-+ **[Bring Your Forms Up to Date With CSS3 and HTML5 Validation](https://webdesign.tutsplus.com/tutorials/bring-your-forms-up-to-date-with-css3-and-html5-validation--webdesign-4738)**
-+ **[HTML5 Form Validation](https://www.sitepoint.com/html5-form-validation/)**
-+ **[A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)**
-+ **[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
-+ **[Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)**
 + **[What is the best way to 'master' HTML and CSS?](https://www.quora.com/What-is-the-best-way-to-master-HTML-and-CSS)**
 + **[The secret to being a top developer is building things! Here’s a list of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)**
 
@@ -58,8 +59,8 @@
 ## MOOCs
 - English
   + **[Hackdesign](https://hackdesign.org)** - An easy to follow design course for people who do amazing things.
+  + **[HTML & CSS is Hard](https://internetingishard.com/html-and-css/)** - A friendly web development tutorial for complete beginners.
   + **[What the flexbox?](https://flexbox.io/)** - A simple, free 20 video course that will help you master CSS Flexbox!.
-  + **[JavaScript30](https://javascript30.com/)** - 30 Day Vanilla JS Coding Challenge.
   + **[CSS Grid](https://cssgrid.io/)** - LEARN CSS GRID WITH WES BOS IN 25 PRETTY GOOD VIDEOS.
 
 ## Tools

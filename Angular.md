@@ -11,14 +11,16 @@
 
 ## News & Blogs
 + **[Angular Blog](https://blog.angular.io/)** - Officially angular  blog
-+ **[thoughtram](https://blog.thoughtram.io/)**
-+ **[todd motto](https://toddmotto.com/)**
++ **[Mgechev](http://blog.mgechev.com/)**
++ **[Todd Motto](https://toddmotto.com/)**
++ **[Thoughtram](https://blog.thoughtram.io/)**
 + **[Angular Class](https://angularclass.com/blog/)**
 + **[Angular University](https://angular-university.io/)**
 
 
 ## Articles
 - Architecture & Case Study 
+  + **[Angular Practice Exercises](https://jcoop.io/angular-practice-exercises/)**
   + **[Scalable Single-Page Application Architecture](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)**
   + **[Building maintainable Angular applications - Medium](https://medium.com/curated-by-versett/building-maintainable-angular-2-applications-5b9ec4b463a1)**
   + **[Best-practices learnt from delivering a quality Angular4 application](https://hackernoon.com/best-practices-learnt-from-delivering-a-quality-angular4-application-2cd074ea53b3)**

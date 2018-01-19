@@ -12,7 +12,14 @@
 
 
 ## News & Blogs
++ **[Toptal Blog](https://www.toptal.com/blog)**
 + **[The Full List of 400 Slack Communities](https://medium.com/startupsco/the-full-list-of-400-slack-communities-5545e82cf65d)**
++ **[BEST ONLINE COURSES](http://www.coursescoupons.com/)**
++ **[التراس حاسبات ومعلومات](https://www.ultrasfci.com/)**
+
+
+## E-Books
++ **[Apress](https://www.apress.com/gp/)** - Free Books dwnload of you are from egypet.
 
 
 ## Articles
