@@ -1,6 +1,6 @@
 
 
-## Resources
+## Guides & Cheat Sheets
 
 
 ## Articles

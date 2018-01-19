@@ -3,7 +3,7 @@
 </p>
 
 
-## Resources & References
+## Guides & Cheat Sheets
 + **[From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)**
 + **[From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b)**
 + **[100+ FREE Resources to Learn Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)**
@@ -14,10 +14,8 @@
 + **[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)** - CSS-Tricks complete guide to flexbox. 
 + **[A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)** - CSS-Tricks Complete Guide to Grid.
 + **[A Complete Guide to Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)** - CSS-Tricks Complete Guide to  Centering in CSS.
-+ **[ES6 features](http://es6-features.org)** - One site combines the most important features.
-+ **[Polymer 2.x Cheat Sheet](https://meowni.ca/posts/polymer-2-cheatsheet/)** 
-+ **[The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)**
 + **[Free Code Camp Guide](https://guide.freecodecamp.org/)**
++ **[Over API](http://overapi.com/)** - Collecting All Cheat Sheets.
 
 
 ## Learning Paths
@@ -35,7 +33,8 @@
 + **[Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)** 
 
 
-## News & Community
+## News & Blogs
++ **[Hacks Mozilla](https://hacks.mozilla.org/)**
 
 
 ## Articles
@@ -48,11 +47,20 @@
 + **[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
 + **[Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)**
 + **[What is the best way to 'master' HTML and CSS?](https://www.quora.com/What-is-the-best-way-to-master-HTML-and-CSS)**
++ **[The secret to being a top developer is building things! Here’s a list of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)**
 
+
+## E-Books
++ **[Goal Kicker](http://goalkicker.com/)** - Programming Notes for Professionals books.
++ **[Free UX Ebooks](https://www.uxpin.com/studio/ebooks/)** - Thoughtful content on mobile & web prototyping, wireframing, mockups, usability testing, project management, design process & more.
++ **[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)**
 
 ## MOOCs
 - English
-+ **[Hackdesign](https://hackdesign.org)** - An easy to follow design course for people who do amazing things.
+  + **[Hackdesign](https://hackdesign.org)** - An easy to follow design course for people who do amazing things.
+  + **[What the flexbox?](https://flexbox.io/)** - A simple, free 20 video course that will help you master CSS Flexbox!.
+  + **[JavaScript30](https://javascript30.com/)** - 30 Day Vanilla JS Coding Challenge.
+  + **[CSS Grid](https://cssgrid.io/)** - LEARN CSS GRID WITH WES BOS IN 25 PRETTY GOOD VIDEOS.
 
 ## Tools
 
@@ -224,6 +232,7 @@ and share colors, palettes and patterns.
 
 - Performance
   + **[GTMetrix](https://gtmetrix.com/)** - Grade site’s performance and provides recommendations to fix these issues.
+  + **[Test My Site](https://testmysite.withgoogle.com/intl/en-gb)** - Test your mobile speed.
 
 - Optimization
 

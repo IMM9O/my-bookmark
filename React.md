@@ -3,11 +3,13 @@
 </p>
 
 
-## Resources
-+ **[ReactJS Redux, the Right Way.](https://reactjs.co/)**
+## Guides & Cheat Sheets
++ **[React.js cheatsheet](https://devhints.io/react)**
++ **[Redux Cheat Sheet](https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf)**
 
 
-## News & Community
+
+## News & Blogs
 + **[scotch.io](https://scotch.io/tutorials?q=&hits_per_page=12&page=0&dFR%5Btags%5D%5B0%5D=react&is_v=1)**
 
 

@@ -5,7 +5,7 @@
 </p>
 
 
-## Resources
+## Guides & Cheat Sheets
 + **[260+ Ionic Framework Resources.](http://mcgivery.com/100-ionic-framework-resources/)**
 + **[60+ Ionic Framework 2 Resources.](http://mcgivery.com/15-ionic-framework-2-resources/)**
 

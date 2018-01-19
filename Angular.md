@@ -3,13 +3,13 @@
 </p>
 
 
-## Resources
+## Guides & Cheat Sheets
 + **[Top 8 Resources to Explore Angular 4](https://hackernoon.com/top-8-resources-to-explore-angular-4-ff2c1b42020a)**
 + **[30 Learning Resources For Mastering Angular 2](https://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2)**
 + **[Top 10 Angular Tutorials, Community Blogs and Podcasts](http://blog.angular-university.io/top-10-angular-2-tutorials-blogs-and-podcasts/)**
 
 
-## News & Community
+## News & Blogs
 + **[Angular Blog](https://blog.angular.io/)** - Officially angular  blog
 + **[thoughtram](https://blog.thoughtram.io/)**
 + **[todd motto](https://toddmotto.com/)**

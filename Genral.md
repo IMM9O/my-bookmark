@@ -7,11 +7,12 @@
         4. How to use the Terminal.
 
 
-## Resources
+## Guides & Cheat Sheets
 + **[Learn Git in 15 Minutes - Official Tutorial](https://try.github.io/levels/1/challenges/1)**
 
 
-## News & Community
+## News & Blogs
++ **[The Full List of 400 Slack Communities](https://medium.com/startupsco/the-full-list-of-400-slack-communities-5545e82cf65d)**
 
 
 ## Articles
