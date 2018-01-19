@@ -213,6 +213,7 @@ and share colors, palettes and patterns.
 
 - Developer Tools
   + **[Richards Toolbox](https://richardstoolbox.com/)** - A total of 63 tools used by web developer daily.
+  + **[Varvy SEO tool](https://varvy.com/)** - See how well a page follows the Google guidelines.
   + **[htaccess tester](http://htaccess.madewithlove.be/)**
   + **[Caniuse](http://caniuse.com/)** - Browser support tables for modern web technologies.
   + **[unpkg](https://unpkg.com/)** - unpkg is a fast, global content delivery network for everything on npm. 
