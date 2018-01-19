@@ -8,9 +8,16 @@
 + **[From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b)**
 + **[100+ FREE Resources to Learn Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)**
 + **[200+ Best Free Tools & Resources for Front-End Web Developers — Medium](https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643#.oq3s5llo4)**
-+ **[HTML & CSS is Hard](https://internetingishard.com/html-and-css/)**: A friendly web development tutorial for complete beginners.
-+ **[cssreference](http://cssreference.io/)**: cssreference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
-+ **[htmlreference](http://htmlreference.io/)** : htmlreference is a free guide to HTML. It features all elements and attributes.
++ **[HTML & CSS is Hard](https://internetingishard.com/html-and-css/)** - A friendly web development tutorial for complete beginners.
++ **[CSS Reference](http://cssreference.io/)** - cssreference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
++ **[HTML Reference](http://htmlreference.io/)** - htmlreference is a free guide to HTML. It features all elements and attributes.
++ **[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)** - CSS-Tricks complete guide to flexbox. 
++ **[A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)** - CSS-Tricks Complete Guide to Grid.
++ **[A Complete Guide to Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)** - CSS-Tricks Complete Guide to  Centering in CSS.
++ **[ES6 features](http://es6-features.org)** - One site combines the most important features.
++ **[Polymer 2.x Cheat Sheet](https://meowni.ca/posts/polymer-2-cheatsheet/)** 
++ **[The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)**
++ **[Free Code Camp Guide](https://guide.freecodecamp.org/)**
 
 
 ## Learning Paths
@@ -32,6 +39,7 @@
 
 
 ## Articles
++ **[How Flexbox works](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35)** - explained with big, colorful, animated gifs
 + **[How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)**
 + **[Best Practices for Search Results](https://uxplanet.org/best-practices-for-search-results-1bbed9d7a311)**
 + **[Bring Your Forms Up to Date With CSS3 and HTML5 Validation](https://webdesign.tutsplus.com/tutorials/bring-your-forms-up-to-date-with-css3-and-html5-validation--webdesign-4738)**
@@ -44,11 +52,12 @@
 
 ## MOOCs
 - English
-
++ **[Hackdesign](https://hackdesign.org)** - An easy to follow design course for people who do amazing things.
 
 ## Tools
 
 - Free Templates
+  + **[Bootswatch](https://bootswatch.com/)** - Free themes for Bootstrap
 
 - Colors and Palettes
   + **[0to255](http://www.0to255.com/)**
@@ -67,6 +76,7 @@ and share colors, palettes and patterns.
   + **[Calltoidea](http://www.calltoidea.com/)** - Light up your imagination!.
 
 - Images ( Free of copyright restrictions. )
+  + **[The Stocks](http://thestocks.im/)**
   + **[Pexels](https://www.pexels.com/)**
   + **[Stocksnap](https://stocksnap.io/)**
   + **[allthefreestock](http://allthefreestock.com/)** - Get all the Free Stock Images 📷, Videos 📹, Music 🎼 and Icons in one location.
@@ -117,6 +127,17 @@ and share colors, palettes and patterns.
   + **[Instant Logo Search](http://instantlogosearch.com/)** - Search & download thousands of logos instantly.
 
 - Typography & Fonts
+  + **[Canva](https://www.canva.com)**
+  + **[DaFont](https://www.dafont.com)**
+  + **[Typogui](http://www.typogui.de)**
+  + **[Typewolf](https://www.typewolf.com)**
+  + **[Font Pair](http://fontpair.co)**
+  + **[Google Fonts](https://fonts.google.com)**
+  + **[Just my type](https://www.justmytype.co)**
+  + **[1001FreeFonts](https://www.1001freefonts.com)**
+  + **[Font Squirrel](https://www.fontsquirrel.com)**
+  + **[Google Web fonts](https://femmebot.github.io/google-type/)**
+  + **[Typography Handbook](http://www.typographyhandbook.com)**
 
 - Icons
   + **[Linea](http://linea.io)**
@@ -138,39 +159,78 @@ and share colors, palettes and patterns.
   + **[We Love Icon Fonts](http://weloveiconfonts.com)**
   + **[Material Design Icons](http://google.github.io/material-design-icons/)**
 
-- Checklist
-  + **[Caniuse](http://caniuse.com/)**: Browser support tables for modern web technologies.
-  + **[Web Developer Checklist](http://webdevchecklist.com/)**
-  + **[The Front-End Checklist](https://frontendchecklist.io/)**
-
-- Free API
-  + **[lorempixel](http://lorempixel.com/)** - Free API to get random Placeholder Images.
-  + **[JSON Placholder](https://jsonplaceholder.typicode.com/)** - Fake Online REST API for Testing and Prototyping
-
 - CSS Generators
+  + **[CSS Matic](https://www.cssmatic.com/)** - The ultimate CSS tools for web designers.
+  + **[Enjoy CSS](http://enjoycss.com/)** - All in one CSS3 generator.
+  + **[Colorful Background](http://www.webcore-it.com/colorful-background/#)** - Generate CSS gradient background.
+  + **[CSS Menu Maker](http://cssmenumaker.com/)** - Build & download HTML, CSS, & jQuery menus for desktop & mobile websites.
+  + **[On/Off Flip switch](https://proto.io/freebies/onoff/)** - Generate pure CSS3 On/Off flipswitches with animated transitions.
+  + **[CSS Arrow Please](http://www.cssarrowplease.com/)** - CSS arrow generator.
   + **[polychroma](https://polychroma.now.sh/)** - Genrate linear-gradient
   + **[uigradients](https://uigradients.com/)** - Select or genrate linear-gradient effect
+  + **[Clippy](https://bennettfeely.com/clippy/)** - Generating values for shape functions for use with CSS clip-path property.
+  + **[Webcode](https://webcode.tools/)** - The Ultimate Web Code Generator
+  + **[Type Scale](http://type-scale.com/)** - Genrate typography css file.
 
-- Calculator & Converter
+- CSS Games
+  + **[Flexbox Froggy](http://flexboxfroggy.com)**
+  + **[Grid Garden](http://cssgridgarden.com)**
+  + **[Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)**
+  + **[Grid Critters](https://geddski.teachable.com/p/gridcritters)**
+  + **[CheckiO](https://checkio.org)**
+  + **[CSS Diner](https://flukeout.github.io)**
+  + **[Flukeout (CSS exercises)](http://flukeout.github.io)**
 
-- Analyze Website Style
+- CSS Calculator & Converter
+  + **[Specificity Calculator](http://specificity.keegan.st/)** - A visual way to understand CSS specificity
+  + **[NTH-TEST](http://www.topdesignagencies.com/nth-test/)**  - nth-child and nth-of-type Tester.
+  + **[PX to EM](http://pxtoem.com/)** - PX to EM conversion made simple.
+  + **[Name that color](http://chir.ag/projects/name-that-color/#2D2D2D)** - Covert hex or rgb color into name.
 
+- CSS Analyze Tools
 
-- Animation
+- CSS Animation
   + **[animejs](http://animejs.com/)** - JavaScript Animation Engine.
   + **[animista](http://animista.net/)** - Genrate css animation.
   + **[animate.css](https://daneden.github.io/animate.css/)** - Predefined css animation class.
 
-- Editor
+- Online Editors
+  + **[Tutorialspoint Codingground](https://www.tutorialspoint.com/codingground.htm)** - Development Environment for Front-end & Back-end Applications.
+  + **[Regexr](https://regexr.com/)** - Regular expression editor. 
+  + **[regex101](https://regex101.com/)** - Regular expression editor.
+  + **[Codepen](https://codepen.io/)**
+  + **[jsfiddle](https://jsfiddle.net/)**
+  + **[jsbin](http://jsbin.com/)**
+  + **[cssdeck](http://cssdeck.com/)**
+  + **[dabblet](http://dabblet.com/)**
+  + **[liveweave](https://liveweave.com/)**
+  + **[webflow](https://webflow.com/)**
+  + **[MACAW](http://macaw.co/)**
+
+- Checklist
+  + **[Web Developer Checklist](http://webdevchecklist.com/)**
+  + **[The Front-End Checklist](https://frontendchecklist.io/)**
 
 - Developer Tools
+  + **[Richards Toolbox](https://richardstoolbox.com/)** - A total of 63 tools used by web developer daily.
+  + **[htaccess tester](http://htaccess.madewithlove.be/)**
+  + **[Caniuse](http://caniuse.com/)** - Browser support tables for modern web technologies.
+  + **[unpkg](https://unpkg.com/)** - unpkg is a fast, global content delivery network for everything on npm. 
+  + **[CSS Triggers](https://csstriggers.com/)** - An invaluable reference on how CSS affects performance.
+  + **[ASCII Code](https://www.ascii-code.com/)** - ASCII Code - The extended ASCII table
 
 - Testing
 
 - Performance
+  + **[GTMetrix](https://gtmetrix.com/)** - Grade site’s performance and provides recommendations to fix these issues.
 
 - Optimization
 
-- Regular Expression
-  + **[Regexr](https://regexr.com/)**
-  + **[regex101](https://regex101.com/)**
+- Free API
+  + **[lorempixel](http://lorempixel.com/)** - Free API to get random Placeholder Images.
+  + **[JSON Placholder](https://jsonplaceholder.typicode.com/)** - Fake Online REST API for Testing and Prototyping
+  + **[Uinames](https://uinames.com/)** - Get random human name.
+
+- Markets Share
+  + **[SimilarTech](https://www.similartech.com/)**
+  + **[LIBSCORE](http://libscore.com/)**
