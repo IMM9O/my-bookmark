@@ -4,8 +4,8 @@
 
 
 ## Resources
-- Genral Talk
-  + **[How to start in JavaScript in 2018 - From beginner to Full-Stack](http://fullstackengine.net/how-to-start-in-javascript-2018/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_content%3BHpx5tsMPSGGSEN2MkUMU5g%3D%3D)**
++ **[How to start in JavaScript in 2018 - From beginner to Full-Stack](http://fullstackengine.net/how-to-start-in-javascript-2018/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_content%3BHpx5tsMPSGGSEN2MkUMU5g%3D%3D)**
++ **[TOP 200 JavaScript articles on medium (until Jan 2017)](https://hackernoon.com/top-200-javascript-articles-on-medium-until-jan-2017-a0c6a1bfe094)**
 
 
 ## News & Community
@@ -23,6 +23,7 @@
 + **[ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)**
 + **[ES2015 - Jump Start](https://juristr.com/blog/2015/08/jump-start-es2015/)**
 + **[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)**
++ **["TypeScript Evolution" series](https://blog.mariusschulz.com/2016/09/27/typescript-2-0-non-nullable-types)**
 
 
 ## MOOCs
