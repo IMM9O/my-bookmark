@@ -19,18 +19,18 @@
 
 
 ## Learning Paths
-+ **[State of JavaScript](https://stateofjs.com/)** - Sate of JS (Every Year)
-+ **[Grab Front End Guide](https://github.com/grab/front-end-guide)** - Grap Roadmap
 + **[Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x)** - Diagram by _LearnCode.academy_
++ **[Grab Front End Guide](https://github.com/grab/front-end-guide)** - Grap Roadmap
 + **[Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Github repository by _kamranahmedse_
-+ **[Web Development in 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)** - Youtube Video by _Traversy Media_
-+ **[Web Development in 2017 - A Practical Guide](https://www.youtube.com/watch?v=9hDKfBKuXjI)** - Youtube Video by _Traversy Media_
++ **[State of JavaScript](https://stateofjs.com/)** - Sate of JS (Every Year)
 + **[JavaScript State in 2017](https://medium.freecodecamp.org/a-look-back-at-the-state-of-javascript-in-2017-a5b7f562e977)** - Free Code Camp
 + **[JavaScript Rising Stars in 2017](https://risingstars.js.org/2017/en/)** - Which github projects got traction in 2017
 + **[JavaScript Rising Stars in 2016](https://risingstars2016.js.org/)** - Which github projects got traction in 2016
-+ **[2016/2017 MUST-KNOW WEB DEVELOPMENT TECH](https://www.youtube.com/watch?v=sBzRwzY7G-k)** - Youtube Video by _LearnCode.academy_
++ **[Web Development in 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)** - Youtube Video by _Traversy Media_
++ **[Web Development in 2017 - A Practical Guide](https://www.youtube.com/watch?v=9hDKfBKuXjI)** - Youtube Video by _Traversy Media_
 + **[Top JavaScript Libraries & Tech to Learn in 2018 ](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)** 
 + **[Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)** 
++ **[2016/2017 MUST-KNOW WEB DEVELOPMENT TECH](https://www.youtube.com/watch?v=sBzRwzY7G-k)** - Youtube Video by _LearnCode.academy_
 
 
 ## News & Blogs
