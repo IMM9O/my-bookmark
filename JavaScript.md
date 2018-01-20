@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="https://cdn.dribbble.com/users/751348/screenshots/2329465/open-position-frontend-developer-dribbble-2-preview.png"  alt="vuejs">
+  <img width="400" src="http://logo-load.com/uploads/posts/2016-09/javascript-logo.png"  alt="javascript logo">
 </p>
 
 

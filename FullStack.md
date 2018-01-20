@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="https://cdn.dribbble.com/users/751348/screenshots/2329465/open-position-frontend-developer-dribbble-2-preview.png"  alt="vuejs">
+  <img width="400" src="https://cdn.dribbble.com/users/751348/screenshots/2329465/open-position-frontend-developer-dribbble-2-preview.png"  alt="fullstack">
 </p>
 
 
@@ -34,6 +34,8 @@
 
 
 ## News & Blogs
++ **[Tuts Plus](https://tutsplus.com/)**
++ **[Site Point](https://www.sitepoint.com/)**
 + **[Hacks Mozilla](https://hacks.mozilla.org/)**
 + **[CSS Tricks](https://css-tricks.com/)**
 + **[Tutorialzine](https://tutorialzine.com/)**
@@ -56,12 +58,14 @@
 + **[Free UX Ebooks](https://www.uxpin.com/studio/ebooks/)** - Thoughtful content on mobile & web prototyping, wireframing, mockups, usability testing, project management, design process & more.
 + **[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)**
 
+
 ## MOOCs
 - English
   + **[Hackdesign](https://hackdesign.org)** - An easy to follow design course for people who do amazing things.
   + **[HTML & CSS is Hard](https://internetingishard.com/html-and-css/)** - A friendly web development tutorial for complete beginners.
   + **[What the flexbox?](https://flexbox.io/)** - A simple, free 20 video course that will help you master CSS Flexbox!.
   + **[CSS Grid](https://cssgrid.io/)** - LEARN CSS GRID WITH WES BOS IN 25 PRETTY GOOD VIDEOS.
+
 
 ## Tools
 

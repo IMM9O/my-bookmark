@@ -1,7 +1,5 @@
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
 <p align="center">
-  <img width="400" src="http://ecodile.com/wp-content/uploads/2015/10/ionic.png"  alt="vuejs">
+  <img width="400" src="http://ecodile.com/wp-content/uploads/2015/10/ionic.png"  alt="ionic framework logo">
 </p>
 
 
@@ -17,7 +15,7 @@
 + **[gonehybrid](https://www.gonehybrid.com/)**
 + **[joshmorony](https://www.joshmorony.com/)**
 + **[the polyglot developer](https://www.thepolyglotdeveloper.com/)**
-+ **[Paul Halliday <i class="fa fa-youtube-play" aria-hidden="true"></i>](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg)**
++ **[Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg)** - 📹 Youtube Channel
 
 
 ## Articles

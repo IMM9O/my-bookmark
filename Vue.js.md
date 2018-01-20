@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Vue.js_Logo.svg"  alt="vuejs">
+  <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Vue.js_Logo.svg"  alt="vuejs logo">
 </p>
 
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="https://cdn.worldvectorlogo.com/logos/react.svg"  alt="vuejs">
+  <img width="400" src="https://cdn.worldvectorlogo.com/logos/react.svg"  alt="react logo">
 </p>
 
 

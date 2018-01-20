@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="https://angular.io/assets/images/logos/angular/angular.svg"  alt="vuejs">
+  <img width="400" src="https://angular.io/assets/images/logos/angular/angular.svg"  alt="angular logo">
 </p>
 
 
@@ -34,9 +34,9 @@
   + **[These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)**
 
 - HttpClient ( Authentication and ajax requests )
- + **[Angular 4.3 HttpClient (Accessing REST Web Services With Angular)](https://medium.com/codingthesmartway-com-blog/angular-4-3-httpclient-accessing-rest-web-services-with-angular-2305b8fd654b)**
- + **[Angular Authentication: Using the Http Client and Http Interceptors](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)**
- + **[Angular Authentication: Using Route Guards](Angular Authentication: Using Route Guards)**
+  + **[Angular 4.3 HttpClient (Accessing REST Web Services With Angular)](https://medium.com/codingthesmartway-com-blog/angular-4-3-httpclient-accessing-rest-web-services-with-angular-2305b8fd654b)**
+  + **[Angular Authentication: Using the Http Client and Http Interceptors](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)**
+  + **[Angular Authentication: Using Route Guards](https://ryanchenkie.com/angular-authentication-using-route-guards)**
 
 - Routing & Navigation
   + **[Angular— Animating Router transitions (v4+) - Medium](https://medium.com/google-developer-experts/angular-2-animate-router-transitions-6de179e00204)**
