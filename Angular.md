@@ -19,12 +19,17 @@
 
 
 ## Articles
+
 - Architecture & Case Study 
   + **[Angular Practice Exercises](https://jcoop.io/angular-practice-exercises/)**
   + **[Scalable Single-Page Application Architecture](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)**
   + **[Building maintainable Angular applications - Medium](https://medium.com/curated-by-versett/building-maintainable-angular-2-applications-5b9ec4b463a1)**
   + **[Best-practices learnt from delivering a quality Angular4 application](https://hackernoon.com/best-practices-learnt-from-delivering-a-quality-angular4-application-2cd074ea53b3)**
+  + **[Angular best practices](https://docs.google.com/presentation/d/1dlEE3JMmFtsb1FdFmxhj-vxEfWPfDVp5pXf-YbqAj8o/preview?slide=id.p)**
+  + **[Angular performance checklist](https://github.com/mgechev/angular-performance-checklist)**
   + **[3 Tips for Angular Runtime Performance from the Real World](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e)**
+  + **[Angular Runtime Performance Guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/)**
+  + **[OPTIMISING PERFORMANCE OF YOUR ENTERPRISE ANGULAR APPLICATION](https://ordina-jworks.github.io/angular/2017/04/04/optimising-performance-of-your-enterprise-angular-application.html)**
 
 - Angular Core ( Components, pipes, directives, template syntax, forms and animations )
   + **[Angular ngFor - Learn all Features including trackBy, why is it not only for Arrays ?](http://blog.angular-university.io/angular-2-ngfor/)**
@@ -56,7 +61,6 @@
   + **[Fast Offline Angular Apps with Service Workers](https://coryrylan.com/blog/fast-offline-angular-apps-with-service-workers)**
   + **[6 Best Practices & Pro Tips when using Angular CLI](https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81)**
   + **[Analyzing bundle size with the Angular CLI and Webpack](https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack)**
-  + **[OPTIMISING PERFORMANCE OF YOUR ENTERPRISE ANGULAR APPLICATION](https://ordina-jworks.github.io/angular/2017/04/04/optimising-performance-of-your-enterprise-angular-application.html)**
 
 
 ## MOOCs
