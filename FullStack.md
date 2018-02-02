@@ -32,6 +32,12 @@
 + **[Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)** 
 + **[2016/2017 MUST-KNOW WEB DEVELOPMENT TECH](https://www.youtube.com/watch?v=sBzRwzY7G-k)** - Youtube Video by _LearnCode.academy_
 
+## Projects Ideas
++ **[6 Absurd Ideas For Building Your First Web App](https://medium.freecodecamp.org/6-absurd-ideas-for-building-your-first-web-application-24afca35e519)**
++ **[8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)**
++ **[The secret to being a top developer is building things! Here’s a list of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)**
++ **[✅ Every time you build a to-do list app, a puppy 🐕 dies 😢](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d)**
+
 
 ## News & Blogs
 + **[Tuts Plus](https://tutsplus.com/)**
@@ -50,7 +56,6 @@
 + **[How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)**
 + **[Best Practices for Search Results](https://uxplanet.org/best-practices-for-search-results-1bbed9d7a311)**
 + **[What is the best way to 'master' HTML and CSS?](https://www.quora.com/What-is-the-best-way-to-master-HTML-and-CSS)**
-+ **[The secret to being a top developer is building things! Here’s a list of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)**
 
 
 ## E-Books
