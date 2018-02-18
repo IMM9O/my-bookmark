@@ -4,12 +4,14 @@
 
 
 ## Guides & Cheat Sheets
+
 + **[Best Free Vue.js Learning Resources](http://whatpixel.com/vuejs-learning-resources/)**
 + **[Vuejs Cheat Sheets](https://vuejs-tips.github.io/cheatsheet/)**
 + **[Vuex Cheat Sheets](https://vuejs-tips.github.io/vuex-cheatsheet/)**
 
 
 ## News & Blogs
+
 + **[coligo.io](https://coligo.io/)**
 + **[alligator.io](https://alligator.io/vuejs/)**
 + **[Vue Mastery](https://medium.com/vue-mastery)**
@@ -17,6 +19,7 @@
 
 
 ## Articles
+
 + **[A Vue.js introduction for people who know just enough jQuery to get by - FCC](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77)**
 + **[5 Practical Examples For Learning Vue.js - tutorialzine](https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js)**
 + **[Building Your First App With Vue.js](https://tutorialzine.com/2016/08/building-your-first-app-with-vue-js)**
@@ -31,6 +34,7 @@
 
 
 ## MOOCs
+
 - English
   + **[[2017] Vue.js in less than 30 minutes for beginners - Tutorial - 2.0 - Youtube](https://www.youtube.com/watch?v=VPUdtEf3oXI&t=29s)**
   + **[Vue.js 2.0 In 60 Minutes - Youtube](https://www.youtube.com/watch?v=z6hQqgvGI4Y&t=464s)**
