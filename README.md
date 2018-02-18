@@ -1,7 +1,7 @@
 # Fullstack Developer bookmark
 
 * [Genral Topics](Genral.md)
-* [Design Pattern](DesignPattern.md)
+* [Algorithms & Design Patterns](Algorithms&DesignPatterns.md)
 * [Full Stack Web Development](FullStack.md)
 * [JavaScript](JavaScript.md)
 * [Angular Fraamework](Angular.md)
