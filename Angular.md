@@ -18,6 +18,7 @@
 + **[Thoughtram](https://blog.thoughtram.io/)**
 + **[Angular Class](https://angularclass.com/blog/)**
 + **[Angular University](https://angular-university.io/)**
++ **[Angular FireBase](https://angularfirebase.com/lessons/)**
 
 
 ## Articles
@@ -34,7 +35,11 @@
   + **[OPTIMISING PERFORMANCE OF YOUR ENTERPRISE ANGULAR APPLICATION](https://ordina-jworks.github.io/angular/2017/04/04/optimising-performance-of-your-enterprise-angular-application.html)**
 
 - Angular Core ( Components, pipes, directives, template syntax, forms and animations )
+  + **[Angular ngClass and ngStyle: The Complete Guide](https://blog.angular-university.io/angular-ngclass-ngstyle/)**
   + **[Angular ngFor - Learn all Features including trackBy, why is it not only for Arrays ?](http://blog.angular-university.io/angular-2-ngfor/)**
+  + **[Angular :host, :host-context, ::ng-deep - Angular View Encapsulation](https://blog.angular-university.io/angular-host-context/)**
+  + **[Angular ng-template, ng-container and ngTemplateOutlet - The Complete Guide To Angular Templates](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)**
+  + **[Angular ng-content and Content Projection: A Complete Guide - How To Use ng-content To Improve Component API Design](https://blog.angular-university.io/angular-ng-content/)**
   + **[Angular— Advanced Styling Guide (v4+) - Medium](https://medium.com/google-developer-experts/angular-advanced-styling-guide-v4-f0765616e635)**
   + **[ANGULAR 2 BEST PRACTICES: CHANGE DETECTOR PERFORMANCE](https://www.lucidchart.com/techblog/2016/05/04/angular-2-best-practices-change-detector-performance/)**
   + **[Angular OnPush Change Detection and Component Design - Avoid Common Pitfalls](http://blog.angular-university.io/onpush-change-detection-how-it-works/)**

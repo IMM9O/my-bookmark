@@ -22,6 +22,11 @@
 
 ## Articles
 
++ **[13 Simple Rules for Good Coding (from my 15 years of experience)](https://hackernoon.com/few-simple-rules-for-good-coding-my-15-years-experience-96cb29d4acd9)**
++ **[Learn to Code: 13 Tips that Could Save You Years of Effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f)**
++ **[10 Steps to Plan Better so you can Write Less Code](https://medium.freecodecamp.org/10-steps-to-plan-better-so-you-can-write-less-code-ece655e03608)**
++ **[All I Really Need to Know About InfoSec, I learned from Mr. Robot](https://medium.freecodecamp.org/all-i-really-need-to-know-about-infosec-i-learned-from-mr-robot-7902cca6d729)**
++ **[The Ultimate Reading List for Developers](https://medium.com/@YogevSitton/the-ultimate-reading-list-for-developers-e96c832d9687)**
 + **[Learn Git in 15 Minutes - Tutorialzine](https://tutorialzine.com/2016/06/learn-git-in-30-minutes)**
 
 
