@@ -6,10 +6,23 @@
 
 
 
-# News & Blogs
-+ **[Laravel News](https://laravel-news.com/)**
+## News & Blogs
+
++ **[Laravel News](https://laravel-news.com/)** - Officially laravel blog.
 + **[Mattstauffer Blog](https://mattstauffer.com/blog/)**
++ **[Laravel Daily Team](http://laraveldaily.com/blog/)**
++ **[Laravel Tricks](https://laravel-tricks.com/)**
++ **[Laravel Recipes](http://laravel-recipes.com/)**
++ **[Just Laravel](http://justlaravel.com/)**
 + **[خدمات ويب](https://5dmat-web.com/)**
+
+
+## Packages
+
++ **[packalyst](https://packalyst.com/)** - A directory of Packages for your Laravel projects.
++ **[laravelcollective](https://laravelcollective.com/)** - Maintain Laravel components that have been removed.
+
+
 
 
 ## Articles
