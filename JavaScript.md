@@ -4,6 +4,7 @@
 
 
 ## Guides & Cheat Sheets
+
 + **[ES6 features](http://es6-features.org)** - One site combines the most important features.
 + **[ES2015+ cheatsheet](https://devhints.io/es6)**
 + **[The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)**
@@ -11,12 +12,15 @@
 
 
 ## News & Blogs
+
 + **[scotch.io](https://scotch.io/)**
 + **[Hotjs](https://www.hotjs.net/)**
 
 
 
 ## Articles
+
++ **[12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)**
 + **[TOP 200 JavaScript articles on medium (until Jan 2017)](https://hackernoon.com/top-200-javascript-articles-on-medium-until-jan-2017-a0c6a1bfe094)**
 + **[How to start in JavaScript in 2018 - From beginner to Full-Stack](http://fullstackengine.net/how-to-start-in-javascript-2018/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_content%3BHpx5tsMPSGGSEN2MkUMU5g%3D%3D)**
 + **[Function Declarations vs. Function Expressions](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)**
@@ -34,11 +38,13 @@
 
 
 ## E-Books
+
 + **[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)**
 + **[You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)**
 
 
 ## MOOCs
+
 - English
   + **[JavaScript30](https://javascript30.com/)** - 30 Day Vanilla JS Coding Challenge.
   + **[Object Oriented JavaScript - Youtube](https://www.youtube.com/watch?v=O8wwnhdkPE4)**

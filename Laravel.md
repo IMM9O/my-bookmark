@@ -8,7 +8,7 @@
 
 ## News & Blogs
 
-+ **[Laravel News](https://laravel-news.com/)** - Officially laravel blog.
++ **[Laravel News](https://laravel-news.com/)**
 + **[Mattstauffer Blog](https://mattstauffer.com/blog/)**
 + **[Laravel Daily Team](http://laraveldaily.com/blog/)**
 + **[Laravel Tricks](https://laravel-tricks.com/)**
@@ -23,9 +23,9 @@
 + **[laravelcollective](https://laravelcollective.com/)** - Maintain Laravel components that have been removed.
 
 
-
-
 ## Articles
+
++ **[8 Laravel must-have packages to install when you start a new API-Based Project](https://medium.com/skyshidigital/8-laravel-must-have-packages-to-install-when-you-start-a-new-api-based-project-18d690f24d0e)**
 
 
 ## MOOCs

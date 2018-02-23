@@ -4,11 +4,13 @@
 
 
 ## Guides & Cheat Sheets
+
 + **[260+ Ionic Framework Resources.](http://mcgivery.com/100-ionic-framework-resources/)**
 + **[60+ Ionic Framework 2 Resources.](http://mcgivery.com/15-ionic-framework-2-resources/)**
 
 
-## News & Community
+## News & Blogs
+
 + **[official blog](http://blog.ionic.io/)**
 + **[devdactic](https://devdactic.com/devblog/)**
 + **[mcgivery](http://mcgivery.com/)**
@@ -19,9 +21,11 @@
 
 
 ## Articles
+
 + **[The 9 Most Common Mistakes That Ionic Developers Make](https://www.toptal.com/ionic/most-common-ionic-development-mistakes)**
 + **[Preparing for Release and Publishing Your Ionic App](https://github.com/hughred22/YouTube-Video-Listing-Ionic-Mobile-App/wiki/Preparing-for-Release-and-Publishing-Your-Ionic-App)**
 
 
 ## MOOCs
+
 - English

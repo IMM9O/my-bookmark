@@ -4,18 +4,21 @@
 
 
 ## Guides & Cheat Sheets
+
 + **[Top 8 Resources to Explore Angular 4](https://hackernoon.com/top-8-resources-to-explore-angular-4-ff2c1b42020a)**
 + **[30 Learning Resources For Mastering Angular 2](https://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2)**
 + **[Top 10 Angular Tutorials, Community Blogs and Podcasts](http://blog.angular-university.io/top-10-angular-2-tutorials-blogs-and-podcasts/)**
 
 
 ## News & Blogs
+
 + **[Angular Blog](https://blog.angular.io/)** - Officially angular  blog
 + **[Mgechev](http://blog.mgechev.com/)**
 + **[Todd Motto](https://toddmotto.com/)**
 + **[Thoughtram](https://blog.thoughtram.io/)**
 + **[Angular Class](https://angularclass.com/blog/)**
 + **[Angular University](https://angular-university.io/)**
++ **[Angular FireBase](https://angularfirebase.com/lessons/)**
 
 
 ## Articles
@@ -32,7 +35,11 @@
   + **[OPTIMISING PERFORMANCE OF YOUR ENTERPRISE ANGULAR APPLICATION](https://ordina-jworks.github.io/angular/2017/04/04/optimising-performance-of-your-enterprise-angular-application.html)**
 
 - Angular Core ( Components, pipes, directives, template syntax, forms and animations )
+  + **[Angular ngClass and ngStyle: The Complete Guide](https://blog.angular-university.io/angular-ngclass-ngstyle/)**
   + **[Angular ngFor - Learn all Features including trackBy, why is it not only for Arrays ?](http://blog.angular-university.io/angular-2-ngfor/)**
+  + **[Angular :host, :host-context, ::ng-deep - Angular View Encapsulation](https://blog.angular-university.io/angular-host-context/)**
+  + **[Angular ng-template, ng-container and ngTemplateOutlet - The Complete Guide To Angular Templates](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)**
+  + **[Angular ng-content and Content Projection: A Complete Guide - How To Use ng-content To Improve Component API Design](https://blog.angular-university.io/angular-ng-content/)**
   + **[Angular— Advanced Styling Guide (v4+) - Medium](https://medium.com/google-developer-experts/angular-advanced-styling-guide-v4-f0765616e635)**
   + **[ANGULAR 2 BEST PRACTICES: CHANGE DETECTOR PERFORMANCE](https://www.lucidchart.com/techblog/2016/05/04/angular-2-best-practices-change-detector-performance/)**
   + **[Angular OnPush Change Detection and Component Design - Avoid Common Pitfalls](http://blog.angular-university.io/onpush-change-detection-how-it-works/)**
@@ -64,6 +71,7 @@
 
 
 ## MOOCs
+
 - English
   + **[Angular 4 In 60 Minutes - Youtube](https://www.youtube.com/watch?v=KhzGSHNhnbI&t=2572s)**
   + **[Get Started with Angular - egghead](https://egghead.io/courses/get-started-with-angular)**
