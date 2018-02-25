@@ -33,8 +33,11 @@
   + **[3 Tips for Angular Runtime Performance from the Real World](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e)**
   + **[Angular Runtime Performance Guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/)**
   + **[OPTIMISING PERFORMANCE OF YOUR ENTERPRISE ANGULAR APPLICATION](https://ordina-jworks.github.io/angular/2017/04/04/optimising-performance-of-your-enterprise-angular-application.html)**
+  + **[Catalysing your Angular 4 app Performance](https://medium.com/paramsingh-66174/catalysing-your-angular-4-app-performance-9211979075f6)**
+  + **[Global Error Handling with Angular2+](https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c)**
 
 - Angular Core ( Components, pipes, directives, template syntax, forms and animations )
+  + **[Angular2 Tips & Tricks](https://medium.com/@amcdnl/angular2-things-you-might-not-know-439ce70d335a)**
   + **[Angular ngClass and ngStyle: The Complete Guide](https://blog.angular-university.io/angular-ngclass-ngstyle/)**
   + **[Angular ngFor - Learn all Features including trackBy, why is it not only for Arrays ?](http://blog.angular-university.io/angular-2-ngfor/)**
   + **[Angular :host, :host-context, ::ng-deep - Angular View Encapsulation](https://blog.angular-university.io/angular-host-context/)**
