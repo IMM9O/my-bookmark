@@ -43,6 +43,7 @@
 
 * **[Tuts Plus](https://tutsplus.com/)**
 * **[Site Point](https://www.sitepoint.com/)**
+* **[Smashing Magazine](https://www.smashingmagazine.com/)**
 * **[Hacks Mozilla](https://hacks.mozilla.org/)**
 * **[CSS Tricks](https://css-tricks.com/)**
 * **[Tutorialzine](https://tutorialzine.com/)**
@@ -51,6 +52,10 @@
 * **[Syntax](https://syntax.fm/)** - A Tasty Treats Podcast for Web Developers. 🎙️
 
 ## Articles
+
+* CSS
+  * **[Structuring CSS in large projects](https://medium.com/peergrade-io/structuring-css-in-large-projects-37f1695f5ec8)**
+  * **[One small CSS hack to improve scrolling performance](https://medium.com/@kulor/one-small-css-hack-to-improve-scrolling-performance-c5238029e518)**
 
 * CSS Grid Articles, Tutorials & Documentation
 
@@ -78,8 +83,22 @@
   * **[Even more Flexbox](https://medium.freecodecamp.org/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053)**
   * **[How Flexbox works](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35)** - Explained with big, colorful, animated gifs
   * **[Flexbox Complete Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
+  * **[Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)**
   * **[Flexbox Cheatsheet](http://jonibologna.com/content/images/flexboxsheet.pdf)** - Amazing infographic by Joni Bologna!
   * **[20 minutes Flexbox Crash Course](https://youtu.be/JJSoEo8JSnc)** - by Traversy Media on Youtube.
+
+* CSS Animation
+
+  * **[How to Use CSS Animations Like a Pro](https://stories.jotform.com/how-to-use-css-animations-like-a-pro-dfacc1e97338)**
+  * **[Making CSS Animations Feel More Natural](https://medium.com/@brandongregory1981/making-css-animations-feel-more-natural-1f50df3ccd85)**
+
+
+* CSS in Javascript
+
+  * **[How to CSS in the Era of Components](https://medium.com/taitounited/how-to-css-in-the-era-of-components-e77bfa8b3715)**
+  * **[CSS in JavaScript: The future of component-based styling](https://medium.freecodecamp.org/css-in-javascript-the-future-of-component-based-styling-70b161a79a32)**
+
+
 
 * Genral
 
