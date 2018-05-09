@@ -1,11 +1,9 @@
-* Three Types of Style Sheet
+- Three Types of Style Sheet
+  * Inline style ( style attribute )
+  * Internal style
+  * External style
 
-  * inside style tag
-  * inline style ( style attribute )
-  * sperate file ( linked with link tag )
-
-* CSS Selectors
-
+- CSS Selectors
   * Universal Selector ( \* )
   * Basic Selectors ( class and id )
   * Combinators ( [~|,| | >] )
@@ -13,31 +11,32 @@
   * Pseudo-class Selectors
   * Pseudo-element Selectors
 
-* CSS Specificity and Cascading
+- Length Units
+  * Absolute Units
+  * Relative Units
+  * Viewport Percentage Units
 
+- Colors
+
+- Backgrounds
+
+- Typography
+
+- Cascading, Inheritance And CSS Specificity
   * [How is specificity calculated?](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
   * [Specificity Calculator](https://specificity.keegan.st/)
   * Inheritance and intail
   * (Not) using !important
 
-* Sizes & Units
-
-  * Absolute Units
-  * Relative Units
-  * Viewport Percentage Units
-
-* CSS Box Model
-
+- CSS Box Model
   * Padding
   * Borders
   * Margins
   * Box Sizing
   * Box Shadow
 
-* Positioning Elements with CSS
-
+- Positioning Elements with CSS
   * Position
-
     * [CSS POSITIONING (PART1) - DevTips](https://www.youtube.com/watch?v=kejG8G0dr5U)
     * [CSS POSITIONING (PART2) - DevTips](https://www.youtube.com/watch?v=Rf6zAP4YnZA)
 
@@ -46,13 +45,11 @@
   * Fixed Positioning
   * Sticky Positioning
   * Stacking Content
-
   * Floats
     * [CSS Floats Explained - DevTips](https://www.youtube.com/watch?v=609adV3pTME)
     * [CSS Floats and Clears Explained - DevTips](https://www.youtube.com/watch?v=xFGBNv2KeVU)
 
-* The Display Property
-
+- The Display Property
   * Display inline-block
   * Display block
   * Display tabel
@@ -68,7 +65,7 @@
     * [CSS Grid Crash Course](https://youtu.be/jV8B24rSN5o) by Traversy Media on Youtube.
     * [CSS Grid Introduction - Udemy Tech](https://www.youtube.com/watch?v=oz0fbFviLIU)
 
-* Responsive Design
+- Responsive Design
   * Getting Started with Responsive Design
   * Media Queries
   * Responsive Images
@@ -76,14 +73,14 @@
   * Using calc()
   * Which Method Should You Use for Your Responsive Layout?
 
-* CSS Transforming
+- CSS Transforming
   * Transform: translate()
   * Transform: rotate() and Transform-Origin
   * Transform: scale()
   * Transform: skew()
   * Transform Shorthand
 
-* CSS Transitions & Animations
+- CSS Transitions & Animations
   * Transition-Duration and Transition-Property
   * Transition-Timing-Function and Transition-Delay
   * Transition Shorthand
@@ -92,7 +89,7 @@
   * CSS Animation Properties
   * CSS Animation Shorthand
 
-* CSS Shapes
+- CSS Shapes
   * Introducing CSS Shapes
   * CSS Shapes: the inset() function
   * CSS Shapes: The circle() Function
@@ -101,7 +98,7 @@
   * CSS Shapes: Shapes from the Alpha Channel
   * CSS Shapes: Shapes from the Reference Box
 
-* Debugging CSS Code
+- Debugging CSS Code
   * Detecting Browser Support with @supports
   * Accessibility
   * Vendor Prefixes
@@ -111,7 +108,7 @@
   * Creating Reduced Test Cases
   * Using Browser Tools
 
-* Writing SASS and useing PostCSS
+- Writing SASS and useing PostCSS
   * SASS: Variables
   * SASS: Nesting
   * SASS: Partials
