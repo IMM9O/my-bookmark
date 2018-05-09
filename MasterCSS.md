@@ -1,3 +1,5 @@
+## CSS Basics
+
 - Three Types of Style Sheet
     * Inline style ( style attribute )
     * Internal style
@@ -36,36 +38,44 @@
     * Box Sizing
     * Box Shadow
 
-- Positioning Elements with CSS
+---
+
+## CSS Layout
+
+- The Display Property
+    * Display inline-block
+    * Display block
+    * Display tabel
+
+- Floats
+    * [CSS Floats Explained - DevTips](https://www.youtube.com/watch?v=609adV3pTME)
+    * [CSS Floats and Clears Explained - DevTips](https://www.youtube.com/watch?v=xFGBNv2KeVU)
+
+- Positioning
     * Position
         * [CSS POSITIONING (PART1) - DevTips](https://www.youtube.com/watch?v=kejG8G0dr5U)
         * [CSS POSITIONING (PART2) - DevTips](https://www.youtube.com/watch?v=Rf6zAP4YnZA)
-
     * Relative Positioning
     * Absolute Positioning
     * Fixed Positioning
     * Sticky Positioning
     * Stacking Content
     * Z-Index
-    * Floats
-        * [CSS Floats Explained - DevTips](https://www.youtube.com/watch?v=609adV3pTME)
-        * [CSS Floats and Clears Explained - DevTips](https://www.youtube.com/watch?v=xFGBNv2KeVU)
 
-- The Display Property
-    * Display inline-block
-    * Display block
-    * Display tabel
-    * Flexbox Display
-        * [Flexbox Complete Guide - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-        * [CSS Flexbox Course - freeCodeCamp](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
-        * [CSS flexbox Course - WesBos](https://flexbox.io/)
-        * [20 minutes Flexbox Crash Course](https://youtu.be/JJSoEo8JSnc) - by Traversy Media on Youtube.
-    * Grid Display
-        * [CSS Grid Complete Guide - CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
-        * [CSS Grid Course - freeCodeCamp](https://www.youtube.com/watch?v=t6CBKf8K_Ac)
-        * [CSS Grid Course - WesBos](https://cssgrid.io/)
-        * [CSS Grid Crash Course](https://youtu.be/jV8B24rSN5o) by Traversy Media on Youtube.
-        * [CSS Grid Introduction - Udemy Tech](https://www.youtube.com/watch?v=oz0fbFviLIU)
+- Flexbox
+    * [Flexbox Complete Guide - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+    * [CSS Flexbox Course - freeCodeCamp](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
+    * [CSS flexbox Course - WesBos](https://flexbox.io/)
+    * [20 minutes Flexbox Crash Course](https://youtu.be/JJSoEo8JSnc) - by Traversy Media on Youtube.
+
+- Grids
+    * [CSS Grid Complete Guide - CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+    * [CSS Grid Course - freeCodeCamp](https://www.youtube.com/watch?v=t6CBKf8K_Ac)
+    * [CSS Grid Course - WesBos](https://cssgrid.io/)
+    * [CSS Grid Crash Course](https://youtu.be/jV8B24rSN5o) by Traversy Media on Youtube.
+    * [CSS Grid Introduction - Udemy Tech](https://www.youtube.com/watch?v=oz0fbFviLIU)
+
+---
 
 - Responsive Design
     * Getting Started with Responsive Design
