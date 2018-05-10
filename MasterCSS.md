@@ -1,5 +1,11 @@
 ## CSS Basics
 
+* [Introduction to HTML](https://scrimba.com/g/ghtml)
+* [Introduction to CSS](https://scrimba.com/g/gintrotocss)
+
+* [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE) - by Traversy Media on Youtube.
+* [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - by Traversy Media on Youtube.
+
 - Three Types of Style Sheet
     * Inline style ( style attribute )
     * Internal style
@@ -38,6 +44,10 @@
     * Box Sizing
     * Box Shadow
 
+- CSS Variables 
+    * [Learn CSS Variables for free](https://scrimba.com/g/gcssvariables)
+    * [CSS Variables Tutorial (CSS Custom Properties)](https://www.youtube.com/watch?v=sQUB039MG0I) - by Traversy Media on Youtube.
+
 ---
 
 ## CSS Layout
@@ -75,8 +85,6 @@
     * [CSS Grid Crash Course](https://youtu.be/jV8B24rSN5o) by Traversy Media on Youtube.
     * [CSS Grid Introduction - Udemy Tech](https://www.youtube.com/watch?v=oz0fbFviLIU)
 
----
-
 - Responsive Design
     * Getting Started with Responsive Design
     * Media Queries
@@ -84,6 +92,11 @@
     * Flexible Grids
     * Using calc()
     * Which Method Should You Use for Your Responsive Layout?
+    * [Build An HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw) - by Traversy Media on Youtube.
+
+---
+
+## CSS Animations and drawing
 
 - CSS Transforming
     * Transform: translate()
@@ -109,6 +122,10 @@
     * CSS Shapes: The polygon() function
     * CSS Shapes: Shapes from the Alpha Channel
     * CSS Shapes: Shapes from the Reference Box
+
+---
+
+## CSS Next
 
 - Debugging CSS Code
     * Detecting Browser Support with @supports
