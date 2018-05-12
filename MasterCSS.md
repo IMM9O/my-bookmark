@@ -1,10 +1,15 @@
-## CSS Basics
+
+## Genral coursess
 
 * [Introduction to HTML](https://scrimba.com/g/ghtml)
 * [Introduction to CSS](https://scrimba.com/g/gintrotocss)
 
 * [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE) - by Traversy Media on Youtube.
 * [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - by Traversy Media on Youtube.
+
+---
+
+## CSS Basics
 
 - Three Types of Style Sheet
     * Inline style ( style attribute )
@@ -19,7 +24,7 @@
     * Pseudo-class Selectors
     * Pseudo-element Selectors
 
-- Cascading, Inheritance And CSS Specificity
+- Cascading, Inheritance and CSS Specificity
     * [Cascading and Inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
     * [How is specificity calculated?](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
     * [Specificity Calculator](https://specificity.keegan.st/)
@@ -30,19 +35,38 @@
     * Viewport Percentage Units
     * Width & Hight
 
+
+---
+
+## CSS Typography
+
 - Colors
+- Font size
+- Font layout
+- Font style
+- Font weight
+- Text transform
+- Text decoration
+- Fonts
+- lists
+- links
 
+
+---
+
+## CSS Box Model
+
+
+- CSS Box Model recap
+- Padding
+- Margins
+- Box Sizing
+- Borders
 - Backgrounds
-
-- Typography
-
-
-- CSS Box Model
-    * Padding
-    * Borders
-    * Margins
-    * Box Sizing
-    * Box Shadow
+- Styling table
+- Box Shadow
+- Filters
+- Blend modes
 
 - CSS Variables 
     * [Learn CSS Variables for free](https://scrimba.com/g/gcssvariables)
@@ -87,8 +111,10 @@
 
 - Responsive Design
     * Getting Started with Responsive Design
+        + [Responsive Web Design Fundamentals](https://udacity.com/course/responsive-web-design-fundamentals--ud893)
     * Media Queries
     * Responsive Images
+        + [Responsive Images](https://udacity.com/course/responsive-images--ud882)
     * Flexible Grids
     * Using calc()
     * Which Method Should You Use for Your Responsive Layout?
