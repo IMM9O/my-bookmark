@@ -1,5 +1,5 @@
 
-## Genral coursess
+# Genral coursess
 
 * [Introduction to HTML](https://scrimba.com/g/ghtml)
 * [Introduction to CSS](https://scrimba.com/g/gintrotocss)
@@ -67,10 +67,6 @@
 - Box Shadow
 - Filters
 - Blend modes
-
-- CSS Variables 
-    * [Learn CSS Variables for free](https://scrimba.com/g/gcssvariables)
-    * [CSS Variables Tutorial (CSS Custom Properties)](https://www.youtube.com/watch?v=sQUB039MG0I) - by Traversy Media on Youtube.
 
 ---
 
@@ -153,6 +149,27 @@
 
 ## CSS Next
 
+- CSS Variables 
+    * [Learn CSS Variables for free](https://scrimba.com/g/gcssvariables)
+    * [CSS Variables Tutorial (CSS Custom Properties)](https://www.youtube.com/watch?v=sQUB039MG0I) - by Traversy Media on Youtube.
+
+- CSS Preprocessors
+    * [SASS](https://sass-lang.com/)
+        * [SASS Tutorial](https://www.youtube.com/watch?v=wz3kElLbEHE)
+        * [Sass Workflow & Dev Server From Scratch Using Gulp](https://www.youtube.com/watch?v=rmXVmfx3rNo)
+    * [PostCSS](http://postcss.org/)
+
+- CSS Framework
+    * [Bootstrap](https://getbootstrap.com/)
+    * [Tailwind CSS](https://tailwindcss.com/)
+
+- CSS Architecture
+    * [BEM](http://getbem.com/)
+    * [OOCSS](http://oocss.org/)
+    * [SMACSS](https://smacss.com/)
+    * [SUITCSS](https://suitcss.github.io/)
+    * [Atomic](https://acss.io/)
+
 - Debugging CSS Code
     * Detecting Browser Support with @supports
     * Accessibility
@@ -162,15 +179,3 @@
     * Debugging CSS Layout Issues
     * Creating Reduced Test Cases
     * Using Browser Tools
-
-- Writing SASS and useing PostCSS
-    * SASS: Variables
-    * SASS: Nesting
-    * SASS: Partials
-    * SASS: Import
-    * SASS: Extend/Inheritance
-    * SASS: Operators
-    * SASS: Mixins Directives
-    * SASS: Control Directives
-    * SASS: Function Directives
-    * PostCSS: AutoPrefixer
