@@ -54,43 +54,48 @@
 
 ---
 
-## CSS Box Model
+## The Visual Formatting Model
 
 
-- CSS Box Model recap
-- Padding
-- Margins
-- Box Sizing
-- Borders
-- Backgrounds
-- Styling table
-- Box Shadow
-- Filters
-- Blend modes
+### CSS Box Model
 
----
+- Content ( images, text .... etc )
+- Padding ( Transparent area around the content, inside of the box )
+- Borders ( goes around the padding and content )
+- Margins ( Space around elements, outside of any defined borders. )
+- Fill Area ( area the contain border, padding and content, and filling with backround and bacground-image )
+- Box Sizing 
+    * content-box: Width and height only apply to the content of the element
+    * border-box: Include padding and border in the element's total width and height
 
-## CSS Layout
+
+### CSS Layout
 
 - The Display Property
-    * Display inline-block
-    * Display block
-    * Display tabel
+    * Display block ( flex, list-item and table )
+    * Display inline
+    * Display inline-block 
 
-- Floats
-    * [CSS Floats Explained - DevTips](https://www.youtube.com/watch?v=609adV3pTME)
-    * [CSS Floats and Clears Explained - DevTips](https://www.youtube.com/watch?v=xFGBNv2KeVU)
+- Positioning Schemes
+    * [CSS POSITIONING (PART1) - DevTips](https://www.youtube.com/watch?v=kejG8G0dr5U)
+    * [CSS POSITIONING (PART2) - DevTips](https://www.youtube.com/watch?v=Rf6zAP4YnZA)
 
-- Positioning
-    * Position
-        * [CSS POSITIONING (PART1) - DevTips](https://www.youtube.com/watch?v=kejG8G0dr5U)
-        * [CSS POSITIONING (PART2) - DevTips](https://www.youtube.com/watch?v=Rf6zAP4YnZA)
-    * Relative Positioning
-    * Absolute Positioning
-    * Fixed Positioning
-    * Sticky Positioning
-    * Stacking Content
-    * Z-Index
+    + Normal Flow
+        * Default ( no property specified )
+        * Relative Positioning
+    
+    + Floats
+        * [CSS Floats Explained - DevTips](https://www.youtube.com/watch?v=609adV3pTME)
+        * [CSS Floats and Clears Explained - DevTips](https://www.youtube.com/watch?v=xFGBNv2KeVU)
+
+    + Absolute Positioning 
+        * Absoulte ( Absoulte to the nearst relative box )
+        * Fixed ( absoulte for the html )
+        * Sticky
+
+    + Stacking Content
+        * Z-Index property
+
 
 - Flexbox
     * [Flexbox Complete Guide - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
