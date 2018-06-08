@@ -38,18 +38,23 @@
 
 ---
 
-## CSS Typography
+## Style Content 
 
+### Typography
 - Colors
+- Fonts
 - Font size
 - Font layout
 - Font style
 - Font weight
 - Text transform
 - Text decoration
-- Fonts
 - lists
 - links
+
+### Tables
+
+
 
 
 ---
@@ -76,6 +81,11 @@
     * Display inline
     * Display inline-block 
 
+- Floats
+    * [CSS Floats Explained - DevTips](https://www.youtube.com/watch?v=609adV3pTME)
+    * [CSS Floats and Clears Explained - DevTips](https://www.youtube.com/watch?v=xFGBNv2KeVU)
+
+
 - Positioning Schemes
     * [CSS POSITIONING (PART1) - DevTips](https://www.youtube.com/watch?v=kejG8G0dr5U)
     * [CSS POSITIONING (PART2) - DevTips](https://www.youtube.com/watch?v=Rf6zAP4YnZA)
@@ -84,9 +94,6 @@
         * Default ( no property specified )
         * Relative Positioning
     
-    + Floats
-        * [CSS Floats Explained - DevTips](https://www.youtube.com/watch?v=609adV3pTME)
-        * [CSS Floats and Clears Explained - DevTips](https://www.youtube.com/watch?v=xFGBNv2KeVU)
 
     + Absolute Positioning 
         * Absoulte ( Absoulte to the nearst relative box )
@@ -110,16 +117,24 @@
     * [CSS Grid Crash Course](https://youtu.be/jV8B24rSN5o) by Traversy Media on Youtube.
     * [CSS Grid Introduction - Udemy Tech](https://www.youtube.com/watch?v=oz0fbFviLIU)
 
-- Responsive Design
-    * Getting Started with Responsive Design
-        + [Responsive Web Design Fundamentals](https://udacity.com/course/responsive-web-design-fundamentals--ud893)
-    * Media Queries
-    * Responsive Images
-        + [Responsive Images](https://udacity.com/course/responsive-images--ud882)
-    * Flexible Grids
-    * Using calc()
-    * Which Method Should You Use for Your Responsive Layout?
-    * [Build An HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw) - by Traversy Media on Youtube.
+---
+
+## Responsive Web Design (RWD)
+
++ [Responsive Web Design Fundamentals](https://udacity.com/course/responsive-web-design-fundamentals--ud893)
++ [Build An HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw) - by Traversy Media on Youtube.
+
+* Common Responsive Patterns
+    + Mostly Fluid
+    + Column Drop
+    + Layout Shifter
+    + Off Canvas
+
+* Media Queries
+* Responsive Images
+    + [Responsive Images](https://udacity.com/course/responsive-images--ud882)
+
+* Which Method Should You Use for Your Responsive Layout? ( Mobile-First vs Desktop-First )
 
 ---
 
