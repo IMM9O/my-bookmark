@@ -41,6 +41,7 @@
 ## Style Content 
 
 ### Typography
+
 - Colors
 - Fonts
 - Font size
@@ -55,13 +56,6 @@
 ### Tables
 
 
-
-
----
-
-## The Visual Formatting Model
-
-
 ### CSS Box Model
 
 - Content ( images, text .... etc )
@@ -74,7 +68,9 @@
     * border-box: Include padding and border in the element's total width and height
 
 
-### CSS Layout
+---
+
+## CSS Layout
 
 - The Display Property
     * Display block ( flex, list-item and table )
@@ -86,7 +82,7 @@
     * [CSS Floats and Clears Explained - DevTips](https://www.youtube.com/watch?v=xFGBNv2KeVU)
 
 
-- Positioning Schemes
+- Positioning Techniques
     * [CSS POSITIONING (PART1) - DevTips](https://www.youtube.com/watch?v=kejG8G0dr5U)
     * [CSS POSITIONING (PART2) - DevTips](https://www.youtube.com/watch?v=Rf6zAP4YnZA)
 
@@ -102,6 +98,8 @@
 
     + Stacking Content
         * Z-Index property
+
+- CSS tables
 
 
 - Flexbox
