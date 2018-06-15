@@ -17,30 +17,53 @@
     * External style
 
 - CSS Selectors
-    * Universal Selector ( \* )
-    * Basic Selectors ( class and id )
-    * Combinators ( [~|,| | >] )
-    * Attribute Selectors
-    * Pseudo-class Selectors
-    * Pseudo-element Selectors
+    * [Basic Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors)
+        + Element
+        + Class
+        + Id
+        + Universal Selector ( *, ns|*, *|*, |* )
+    * [Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors) 
+        + Group of selectors	A, B.
+        + Descendant selector	A B.
+        + Child selector	A > B.
+        + Adjacent sibling selector	A + B.
+        + General sibling selector	A ~ B.
+    * [Attribute Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors)
+    * [Pseudo-class Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements)
+    * [Pseudo-element Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements)
 
 - Cascading, Inheritance and CSS Specificity
+    > CSS is an acronym for Cascading Style Sheets, which indicates that the notion of the cascade is important. At its most basic level it indicates that the order of CSS rules matter, but it's more complex than that. What selectors win out in the cascade depends on three factors (these are listed in order of weight — earlier ones will overrule later ones):
     * [Cascading and Inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
-    * [How is specificity calculated?](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
-    * [Specificity Calculator](https://specificity.keegan.st/)
+    1. Importance
+    2. Specificity
+        * [How is specificity calculated?](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
+        * [Specificity Calculator](https://specificity.keegan.st/)
+    3. Source order
 
-- Length Units
-    * Absolute Units
-    * Relative Units
-    * Viewport Percentage Units
-    * Width & Hight
+    > CSS inheritance is the last piece we need to investigate to get all the information and understand what style is applied to an element. and it has lowest priority even after ( user agent / browser ) styles.
+    * [inheritance](https://developer.mozilla.org/en-US/docs/Web/CSS/inheritance)
+
+
+- CSS Values.
+    > Thers is 4 types of values in css
+    1. Pre-Defined Options
+    2. Colors.
+    3. Length, sizes and numbers.
+    4. Functions.
+
+    > How CSS values are processed.
+    * [Initial value](https://developer.mozilla.org/en-US/docs/Web/CSS/initial_value)
+    * [Resolved value](https://developer.mozilla.org/en-US/docs/Web/CSS/resolved_value)
+    * [Specified value](https://developer.mozilla.org/en-US/docs/Web/CSS/specified_value)
+    * [Computed value](https://developer.mozilla.org/en-US/docs/Web/CSS/computed_value)
+    * [Used value](https://developer.mozilla.org/en-US/docs/Web/CSS/used_value)
+    * [Actual value](https://developer.mozilla.org/en-US/docs/Web/CSS/actual_value)
 
 
 ---
 
-## Style Content 
-
-### Typography
+## Styling Text ( Typography )
 
 - Colors
 - Fonts
@@ -53,19 +76,32 @@
 - lists
 - links
 
-### Tables
+
+---
+
+## Styling Boxes
 
 
-### CSS Box Model
+- Tables
 
-- Content ( images, text .... etc )
-- Padding ( Transparent area around the content, inside of the box )
-- Borders ( goes around the padding and content )
-- Margins ( Space around elements, outside of any defined borders. )
-- Fill Area ( area the contain border, padding and content, and filling with backround and bacground-image )
-- Box Sizing 
-    * content-box: Width and height only apply to the content of the element
-    * border-box: Include padding and border in the element's total width and height
+
+- CSS Box Model
+    * Content ( images, text .... etc )
+    * Padding ( Transparent area around the content, inside of the box )
+    * Borders ( goes around the padding and content )
+    * Margins ( Space around elements, outside of any defined borders. )
+    * Fill Area ( area the contain border, padding and content, and filling with backround and bacground-image )
+    * Box Sizing 
+        * content-box: Width and height only apply to the content of the element
+        * border-box: Include padding and border in the element's total width and height
+
+- Background Images & Images
+    * background-size
+    * background-position
+    * background Origin, Clip & Attachment.
+    * Multiple Background Images.
+    * Linear Gradients.
+    * Radial Gradients.
 
 
 ---
@@ -80,7 +116,6 @@
 - Floats
     * [CSS Floats Explained - DevTips](https://www.youtube.com/watch?v=609adV3pTME)
     * [CSS Floats and Clears Explained - DevTips](https://www.youtube.com/watch?v=xFGBNv2KeVU)
-
 
 - Positioning Techniques
     * [CSS POSITIONING (PART1) - DevTips](https://www.youtube.com/watch?v=kejG8G0dr5U)
@@ -98,9 +133,6 @@
 
     + Stacking Content
         * Z-Index property
-
-- CSS tables
-
 
 - Flexbox
     * [Flexbox Complete Guide - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -145,14 +177,24 @@
     * Transform: skew()
     * Transform Shorthand
 
-- CSS Transitions & Animations
-    * Transition-Duration and Transition-Property
-    * Transition-Timing-Function and Transition-Delay
+- CSS Transitions
+    * Transition Duration
+    * Transition Property
+    * Transition Timing Function
+    * Transition Delay
     * Transition Shorthand
-    * [CSS Animation Performance](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
+
+- CSS Animation
     * CSS Animation Keyframes
+    * CSS Animation Duration
+    * CSS Animation Fil Mode
+    * CSS Animation Iteration Count
+    * CSS Animation Delay
+    * CSS Animation Direction
+    * CSS Animation Timing Function
     * CSS Animation Properties
     * CSS Animation Shorthand
+    * [CSS Animation Performance](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 
 - CSS Shapes
     * Introducing CSS Shapes
