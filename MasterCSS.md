@@ -16,21 +16,20 @@
     * Internal style
     * External style
 
-- CSS Selectors
-    * [Basic Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors)
+- [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors)
+    * [Simple Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors)
         + Element
         + Class
         + Id
         + Universal Selector ( *, ns|*, *|*, |* )
-    * [Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors) 
-        + Group of selectors	A, B.
-        + Descendant selector	A B.
-        + Child selector	A > B.
-        + Adjacent sibling selector	A + B.
-        + General sibling selector	A ~ B.
+    * [Combinators & Multiple selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors) 
+        + Group of selector [A, B].
+        + Descendant selector [A B].
+        + Child selector [A > B].
+        + Adjacent sibling selector [A + B].
+        + General sibling selector [A ~ B].
     * [Attribute Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors)
-    * [Pseudo-class Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements)
-    * [Pseudo-element Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements)
+    * [Pseudo-class and Pseudo-element Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements)
 
 - Cascading, Inheritance and CSS Specificity
     > CSS is an acronym for Cascading Style Sheets, which indicates that the notion of the cascade is important. At its most basic level it indicates that the order of CSS rules matter, but it's more complex than that. What selectors win out in the cascade depends on three factors (these are listed in order of weight — earlier ones will overrule later ones):
@@ -60,6 +59,7 @@
     * [Used value](https://developer.mozilla.org/en-US/docs/Web/CSS/used_value)
     * [Actual value](https://developer.mozilla.org/en-US/docs/Web/CSS/actual_value)
 
+- [Debugging CSS Code](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Debugging_CSS)
 
 ---
 
@@ -73,8 +73,8 @@
 - Font weight
 - Text transform
 - Text decoration
-- lists
-- links
+- [Styling Lists](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists)
+- [Styling Links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links)
 
 
 ---
@@ -230,12 +230,4 @@
     * [SUITCSS](https://suitcss.github.io/)
     * [Atomic](https://acss.io/)
 
-- Debugging CSS Code
-    * Detecting Browser Support with @supports
-    * Accessibility
-    * Vendor Prefixes
-    * Using New CSS as an Enhancement
-    * Testing cross-browser
-    * Debugging CSS Layout Issues
-    * Creating Reduced Test Cases
-    * Using Browser Tools
+
