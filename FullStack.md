@@ -123,9 +123,24 @@
 
 ## Tools
 
-* Free Templates
+* Inspiration
 
-  * **[Bootswatch](https://bootswatch.com/)** - Free themes for Bootstrap
+  * **[Dribbble](https://dribbble.com/)**
+  * **[Calltoidea](http://www.calltoidea.com/)**
+
+* Typography & Fonts
+
+  * **[Canva](https://www.canva.com)**
+  * **[DaFont](https://www.dafont.com)**
+  * **[Typogui](http://www.typogui.de)**
+  * **[Typewolf](https://www.typewolf.com)**
+  * **[Font Pair](http://fontpair.co)**
+  * **[Google Fonts](https://fonts.google.com)**
+  * **[Just my type](https://www.justmytype.co)**
+  * **[1001FreeFonts](https://www.1001freefonts.com)**
+  * **[Font Squirrel](https://www.fontsquirrel.com)**
+  * **[Google Web fonts](https://femmebot.github.io/google-type/)**
+  * **[Typography Handbook](http://www.typographyhandbook.com)**
 
 * Colors and Palettes
 
@@ -138,20 +153,19 @@
   * **[Web Gradients](https://webgradients.com/)** - WebGradients is a free collection of 180 linear gradients.
   * **[Color Palettes](http://colorpalettes.net/)**
   * **[Adobe Color CC](https://color.adobe.com/create/color-wheel/)**
-  * **[Material Palette](https://www.materialpalette.com/)** - Create and download in ( SASS, CSS, or LESS ) format color palettes for material design
-    and share colors, palettes and patterns.
+  * **[Material Palette](https://www.materialpalette.com/)** - Create and download colors palettes and patterns.
 
-* Inspiration
+* Images
 
-  * **[Calltoidea](http://www.calltoidea.com/)** - Light up your imagination!.
-
-* Images ( Free of copyright restrictions. )
-
-  * **[The Stocks](http://thestocks.im/)**
   * **[Pexels](https://www.pexels.com/)**
+  * **[unsplash](https://unsplash.com/)**
+  * **[Freepik](https://www.freepik.com/)** - Find dozens of free vector graphics every day, all designed by Freepik.
+  * **[Random Image Placeholders](https://source.unsplash.com/)**
+  * **[Dummy Image Placeholders](https://placeholder.com/)**
+  * **[lorempixel](http://lorempixel.com/)** - Free API to get random Placeholder Images.
+  * **[The Stocks](http://thestocks.im/)**
   * **[Stocksnap](https://stocksnap.io/)**
   * **[allthefreestock](http://allthefreestock.com/)** - Get all the Free Stock Images 📷, Videos 📹, Music 🎼 and Icons in one location.
-  * **[unsplash](https://unsplash.com/)**
   * **[splashbase](http://www.splashbase.co/)**
   * **[Pixabay](https://pixabay.com/)**
   * **[librestock](http://librestock.com/)**
@@ -162,7 +176,6 @@
   * **[Gratisography](https://gratisography.com/)**
   * **[Negative Space](https://negativespace.co/)**
   * **[Cupcake](http://cupcake.nilssonlee.se/)**
-  * **[Freepik](https://www.freepik.com/)** - Find dozens of free vector graphics every day, all designed by Freepik.
   * **[Public Domain Archive](http://publicdomainarchive.com/)**
   * **[ISO Republic](https://isorepublic.com/)**
   * **[Bucketlistly](http://photos.bucketlistly.com/)**
@@ -197,20 +210,6 @@
   * **[New Old Stock Photos](https://nos.twnsnd.co/)** - VINTAGE PHOTOS FROM THE PUBLIC ARCHIVES.
   * **[Instant Logo Search](http://instantlogosearch.com/)** - Search & download thousands of logos instantly.
 
-* Typography & Fonts
-
-  * **[Canva](https://www.canva.com)**
-  * **[DaFont](https://www.dafont.com)**
-  * **[Typogui](http://www.typogui.de)**
-  * **[Typewolf](https://www.typewolf.com)**
-  * **[Font Pair](http://fontpair.co)**
-  * **[Google Fonts](https://fonts.google.com)**
-  * **[Just my type](https://www.justmytype.co)**
-  * **[1001FreeFonts](https://www.1001freefonts.com)**
-  * **[Font Squirrel](https://www.fontsquirrel.com)**
-  * **[Google Web fonts](https://femmebot.github.io/google-type/)**
-  * **[Typography Handbook](http://www.typographyhandbook.com)**
-
 * Icons
 
   * **[Linea](http://linea.io)**
@@ -232,7 +231,7 @@
   * **[We Love Icon Fonts](http://weloveiconfonts.com)**
   * **[Material Design Icons](http://google.github.io/material-design-icons/)**
 
-* CSS Generators
+* Generators
 
   * **[CSS Matic](https://www.cssmatic.com/)** - The ultimate CSS tools for web designers.
   * **[Enjoy CSS](http://enjoycss.com/)** - All in one CSS3 generator.
@@ -245,6 +244,7 @@
   * **[Clippy](https://bennettfeely.com/clippy/)** - Generating values for shape functions for use with CSS clip-path property.
   * **[Webcode](https://webcode.tools/)** - The Ultimate Web Code Generator
   * **[Type Scale](http://type-scale.com/)** - Genrate typography css file.
+  * **[Uinames](https://uinames.com/)** - Get random human name.
 
 * CSS Games
 
@@ -274,12 +274,12 @@
 
 * Online Editors
 
-  * **[Tutorialspoint Codingground](https://www.tutorialspoint.com/codingground.htm)** - Development Environment for Front-end & Back-end Applications.
-  * **[Regexr](https://regexr.com/)** - Regular expression editor.
-  * **[regex101](https://regex101.com/)** - Regular expression editor.
   * **[Codepen](https://codepen.io/)**
   * **[jsfiddle](https://jsfiddle.net/)**
   * **[jsbin](http://jsbin.com/)**
+  * **[Regexr](https://regexr.com/)** - Regular expression editor.
+  * **[regex101](https://regex101.com/)** - Regular expression editor.
+  * **[Tutorialspoint Codingground](https://www.tutorialspoint.com/codingground.htm)**
   * **[cssdeck](http://cssdeck.com/)**
   * **[dabblet](http://dabblet.com/)**
   * **[liveweave](https://liveweave.com/)**
@@ -310,12 +310,20 @@
 
 * Optimization
 
+  - Code
+    * **[Minify JS & CSS](http://minifier.org)**
+    * **[Code Optimization Tools](https://codebeautify.org)**
+    * **[Code Diff Checker](https://www.diffchecker.com)**
+  - Images
+    * **[Compress All Images](https://compressor.io/compress)**
+    * **[Compress JPG](http://jpeg-optimizer.com/)**
+    * **[Compress PNG](https://tinypng.com/)**
+
 * Free API
 
-  * **[lorempixel](http://lorempixel.com/)** - Free API to get random Placeholder Images.
   * **[JSON Placholder](https://jsonplaceholder.typicode.com/)** - Fake Online REST API for Testing and Prototyping
-  * **[Uinames](https://uinames.com/)** - Get random human name.
 
 * Markets Share
+
   * **[SimilarTech](https://www.similartech.com/)**
   * **[LIBSCORE](http://libscore.com/)**
