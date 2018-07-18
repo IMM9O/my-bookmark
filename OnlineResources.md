@@ -1,9 +1,13 @@
-- Inspiration
+
+
+## Inspiration
 
   - **[Dribbble](https://dribbble.com/)**
   - **[Calltoidea](http://www.calltoidea.com/)**
 
-- Typography & Fonts
+---
+
+## Typography & Fonts
 
   - **[Canva](https://www.canva.com)**
   - **[DaFont](https://www.dafont.com)**
@@ -17,7 +21,9 @@
   - **[Google Web fonts](https://femmebot.github.io/google-type/)**
   - **[Typography Handbook](http://www.typographyhandbook.com)**
 
-- Colors and Palettes
+---
+
+## Colors and Palettes
 
   - **[0to255](http://www.0to255.com/)**
   - **[Coolors](https://coolors.co/)** - Create, save and share perfect palettes in seconds!.
@@ -30,7 +36,9 @@
   - **[Adobe Color CC](https://color.adobe.com/create/color-wheel/)**
   - **[Material Palette](https://www.materialpalette.com/)** - Create and download colors palettes and patterns.
 
-- Images
+---
+
+## Images
 
   - **[Pexels](https://www.pexels.com/)**
   - **[unsplash](https://unsplash.com/)**
@@ -85,7 +93,9 @@
   - **[New Old Stock Photos](https://nos.twnsnd.co/)** - VINTAGE PHOTOS FROM THE PUBLIC ARCHIVES.
   - **[Instant Logo Search](http://instantlogosearch.com/)** - Search & download thousands of logos instantly.
 
-- Icons
+---
+
+## Icons
 
   - **[Linea](http://linea.io)**
   - **[Freepik](https://www.freepik.com/free-icons)**
@@ -106,7 +116,9 @@
   - **[We Love Icon Fonts](http://weloveiconfonts.com)**
   - **[Material Design Icons](http://google.github.io/material-design-icons/)**
 
-- Generators
+---
+
+## Generators
 
   - **[CSS Matic](https://www.cssmatic.com/)** - The ultimate CSS tools for web designers.
   - **[Enjoy CSS](http://enjoycss.com/)** - All in one CSS3 generator.
@@ -121,7 +133,9 @@
   - **[Type Scale](http://type-scale.com/)** - Genrate typography css file.
   - **[Uinames](https://uinames.com/)** - Get random human name.
 
-- CSS Games
+---
+
+## CSS Games
 
   - **[Flexbox Froggy](http://flexboxfroggy.com)** - A game for learning CSS Flexbox.
   - **[Grid Garden](http://cssgridgarden.com)** - A game for learning CSS Grid layout.
@@ -132,22 +146,30 @@
   - **[CSS Zen Garden](http://www.csszengarden.com)** - Unleash your CSS powers and create a beautiful stylesheet for this site.
   - **[All CSS Zen Garden Submissions](http://www.mezzoblue.com/zengarden/alldesigns/)**
 
-- CSS Calculator & Converter
+---
+
+## CSS Calculator & Converter
 
   - **[Specificity Calculator](http://specificity.keegan.st/)** - A visual way to understand CSS specificity
   - **[NTH-TEST](http://www.topdesignagencies.com/nth-test/)** - nth-child and nth-of-type Tester.
   - **[PX to EM](http://pxtoem.com/)** - PX to EM conversion made simple.
   - **[Name that color](http://chir.ag/projects/name-that-color/#2D2D2D)** - Covert hex or rgb color into name.
 
-- CSS Analyze Tools
+---
 
-- CSS Animation
+## CSS Analyze Tools
+
+---
+
+## CSS Animation
 
   - **[animejs](http://animejs.com/)** - JavaScript Animation Engine.
   - **[animista](http://animista.net/)** - Genrate css animation.
   - **[animate.css](https://daneden.github.io/animate.css/)** - Predefined css animation class.
 
-- Online Editors
+---
+
+## Online Editors
 
   - **[Codepen](https://codepen.io/)**
   - **[jsfiddle](https://jsfiddle.net/)**
@@ -161,12 +183,16 @@
   - **[webflow](https://webflow.com/)**
   - **[MACAW](http://macaw.co/)**
 
-- Checklist
+---
+
+## Checklist
 
   - **[Web Developer Checklist](http://webdevchecklist.com/)**
   - **[The Front-End Checklist](https://frontendchecklist.io/)**
 
-- Developer Tools
+---
+
+## Developer Tools
 
   - **[Richards Toolbox](https://richardstoolbox.com/)** - A total of 63 tools used by web developer daily.
   - **[Varvy SEO tool](https://varvy.com/)** - See how well a page follows the Google guidelines.
@@ -176,14 +202,20 @@
   - **[CSS Triggers](https://csstriggers.com/)** - An invaluable reference on how CSS affects performance.
   - **[ASCII Code](https://www.ascii-code.com/)** - ASCII Code - The extended ASCII table
 
-- Testing
+---
 
-- Performance
+## Testing
+
+---
+
+## Performance
 
   - **[GTMetrix](https://gtmetrix.com/)** - Grade site’s performance and provides recommendations to fix these issues.
   - **[Test My Site](https://testmysite.withgoogle.com/intl/en-gb)** - Test your mobile speed.
 
-- Optimization
+---
+
+## Optimization
 
   - Code
     - **[Minify JS & CSS](http://minifier.org)**
@@ -194,11 +226,15 @@
     - **[Compress JPG](http://jpeg-optimizer.com/)**
     - **[Compress PNG](https://tinypng.com/)**
 
-- Free API
+---
+
+## Free API
 
   - **[JSON Placholder](https://jsonplaceholder.typicode.com/)** - Fake Online REST API for Testing and Prototyping
 
-- Markets Share
+---
+
+## Markets Share
 
   - **[SimilarTech](https://www.similartech.com/)**
   - **[LIBSCORE](http://libscore.com/)**
