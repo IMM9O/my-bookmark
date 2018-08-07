@@ -5,8 +5,9 @@
 
 ## Guides & Cheat Sheets
 
-+ **[260+ Ionic Framework Resources.](http://mcgivery.com/100-ionic-framework-resources/)**
 + **[60+ Ionic Framework 2 Resources.](http://mcgivery.com/15-ionic-framework-2-resources/)**
++ **[260+ Ionic Framework Resources.](http://mcgivery.com/100-ionic-framework-resources/)**
++ **[Ionic Framework Introduction](https://ampersandacademy.com/tutorials/ionic-framework/ionic-framework-introduction)**
 
 
 ## News & Blogs
