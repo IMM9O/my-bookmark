@@ -1,21 +1,17 @@
-
 ## CSS Basics
 
 Learn the basics and prerequisite first then learn those topics in order to master css not to just learn it
 
-01. [CSS Selectors](#css-selectors)
-02. [CSS Values](#css-values)
-03. [CSS Specificity](#css-specificity)
-04. [Styling](#styling) (text, boxes, tables and forms )
-05. [CSS Layout](#css-layout)
-06. [Responsive Web Design](#responsive-web-design) ( RWD )
-07. [CSS Animations and Drawing](#css-animations-and-drawing)
-08. [CSS Preprocessors](#css-preprocessors)
-09. [CSS Architecture](#css-architecture)
+1.  [CSS Selectors](#css-selectors)
+2.  [CSS Values](#css-values)
+3.  [CSS Specificity](#css-specificity)
+4.  [Styling](#styling) (text, boxes, tables and forms )
+5.  [CSS Layout](#css-layout)
+6.  [Responsive Web Design](#responsive-web-design) ( RWD )
+7.  [CSS Animations and Drawing](#css-animations-and-drawing)
+8.  [CSS Preprocessors](#css-preprocessors)
+9.  [CSS Architecture](#css-architecture)
 10. [CSS Frameworks](#css-frameworks) ( optional )
-
-
-
 
 - Three Types of Style Sheet
 
@@ -28,7 +24,6 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 - [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE) - by Traversy Media on Youtube.
 - [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - by Traversy Media on Youtube.
-
 
 ---
 
@@ -98,26 +93,30 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 ---
 
-## Styling
+## Styling Content
 
 - Text ( Typography )
 
-  - Colors
-  - Fonts
-  - Font size
-  - Font layout
-  - Font style
-  - Font weight
-  - Text transform
-  - Text decoration
+  - Use HTML Tags for text
+  - font-size
+  - font-family
+  - font-weight
+  - font-style
+  - line-height
+  - color
+  - text-align
+  - text-transform
+  - text-decoration
   - [Styling Lists](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists)
   - [Styling Links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links)
+
+- Media ( Image, Video and Audio )
 
 - Tables
 
 - Forms
 
-- CSS Box Model
+- CSS Box Model ( Any Bloc element is a box model)
 
   - Content ( images, text .... etc )
   - Padding ( Transparent area around the content, inside of the box )
@@ -127,15 +126,21 @@ Learn the basics and prerequisite first then learn those topics in order to mast
   - Box Sizing
     - content-box: Width and height only apply to the content of the element
     - border-box: Include padding and border in the element's total width and height
-
-- Background Images & Images
-
-  - background-size
-  - background-position
-  - background Origin, Clip & Attachment.
-  - Multiple Background Images.
-  - Linear Gradients.
-  - Radial Gradients.
+  - Background
+    - background
+    - background-color
+    - background-image
+      - Multiple Background Images.
+      - Linear Gradients.
+      - Radial Gradients.
+    - background-size
+    - background-position
+    - background-repeat
+    - background-attachment
+    - background-origin
+    - background-clip
+    - background-blend-mode
+  - clip-path
 
 ---
 
@@ -158,17 +163,17 @@ Learn the basics and prerequisite first then learn those topics in order to mast
   - [CSS POSITIONING (PART2) - DevTips](https://www.youtube.com/watch?v=Rf6zAP4YnZA)
 
   * Normal Flow
+
     - Default ( no property specified )
     - Relative Positioning
 
+    * Absolute Positioning
+      - Absoulte ( Absoulte to the nearst relative box )
+      - Fixed ( absoulte for the html )
+      - Sticky
 
-    + Absolute Positioning
-        * Absoulte ( Absoulte to the nearst relative box )
-        * Fixed ( absoulte for the html )
-        * Sticky
-
-    + Stacking Content
-        * Z-Index property
+    * Stacking Content
+      - Z-Index property
 
 - Flexbox
 
@@ -253,26 +258,24 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 ## CSS Preprocessors
 
-  - [SASS](https://sass-lang.com/)
-    - [SASS Tutorial](https://www.youtube.com/watch?v=wz3kElLbEHE)
-    - [Sass Workflow & Dev Server From Scratch Using Gulp](https://www.youtube.com/watch?v=rmXVmfx3rNo)
-  - [PostCSS](http://postcss.org/)
+- [SASS](https://sass-lang.com/)
+  - [SASS Tutorial](https://www.youtube.com/watch?v=wz3kElLbEHE)
+  - [Sass Workflow & Dev Server From Scratch Using Gulp](https://www.youtube.com/watch?v=rmXVmfx3rNo)
+- [PostCSS](http://postcss.org/)
 
 ---
 
 ## CSS Architecture
 
-  - [BEM](http://getbem.com/)
-  - [OOCSS](http://oocss.org/)
-  - [SMACSS](https://smacss.com/)
-  - [SUITCSS](https://suitcss.github.io/)
-  - [Atomic](https://acss.io/)
+- [BEM](http://getbem.com/)
+- [OOCSS](http://oocss.org/)
+- [SMACSS](https://smacss.com/)
+- [SUITCSS](https://suitcss.github.io/)
+- [Atomic](https://acss.io/)
 
 ---
 
 ## CSS Frameworks
 
-  - [Bootstrap](https://getbootstrap.com/)
-  - [Tailwind CSS](https://tailwindcss.com/)
-
-
+- [Bootstrap](https://getbootstrap.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
