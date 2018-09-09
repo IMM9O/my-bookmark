@@ -81,6 +81,7 @@
 ## Articles
 
 - Genral
+  - [Front-End Performance Checklist](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
   - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
   - [Best Practices for Search Results](https://uxplanet.org/best-practices-for-search-results-1bbed9d7a311)
   - [What is the best way to 'master' HTML and CSS?](https://www.quora.com/What-is-the-best-way-to-master-HTML-and-CSS)
