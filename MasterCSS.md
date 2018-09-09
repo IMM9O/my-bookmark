@@ -2,16 +2,16 @@
 
 Learn the basics and prerequisite first then learn those topics in order to master css not to just learn it
 
-1.  [CSS Selectors](#css-selectors)
-2.  [CSS Values](#css-values)
-3.  [CSS Specificity](#css-specificity)
-4.  [Styling](#styling) (text, boxes, tables and forms )
-5.  [CSS Layout](#css-layout)
-6.  [Responsive Web Design](#responsive-web-design) ( RWD )
-7.  [CSS Animations and Drawing](#css-animations-and-drawing)
-8.  [CSS Preprocessors](#css-preprocessors)
-9.  [CSS Architecture](#css-architecture)
-10. [CSS Frameworks](#css-frameworks) ( optional )
+01.  [CSS Selectors](#css-selectors)
+02.  [CSS Values](#css-values)
+03.  [CSS Specificity](#css-specificity)
+04.  [Styling](#styling) (text, boxes, tables and forms )
+05.  [CSS Layout](#css-layout)
+06.  [Responsive Web Design](#responsive-web-design) ( RWD )
+07.  [CSS Animations and Drawing](#css-animations-and-drawing)
+08.  [CSS Preprocessors](#css-preprocessors)
+09. [CSS Frameworks](#css-frameworks) ( optional )
+10.  [CSS Architecture](#css-architecture)
 
 - Three Types of Style Sheet
 
@@ -24,8 +24,6 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 - [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE) - by Traversy Media on Youtube.
 - [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - by Traversy Media on Youtube.
-
----
 
 ## CSS Selectors
 
@@ -46,8 +44,6 @@ Learn the basics and prerequisite first then learn those topics in order to mast
     - General sibling selector [A ~ B].
   - [Attribute Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors)
   - [Pseudo-class and Pseudo-element Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements)
-
----
 
 ## CSS Values
 
@@ -72,8 +68,6 @@ Learn the basics and prerequisite first then learn those topics in order to mast
   - [Everything you need to know about CSS Variables](https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855)
   - [Learn CSS Variables Course](https://scrimba.com/g/gcssvariables) - scrimba
 
----
-
 ## CSS Specificity
 
 > CSS is an acronym for Cascading Style Sheets, which indicates that the notion of the cascade is important. At its most basic level it indicates that the order of CSS rules matter, but it's more complex than that. What selectors win out in the cascade depends on three factors (these are listed in order of weight — earlier ones will overrule later ones):
@@ -90,8 +84,6 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 - [inheritance](https://developer.mozilla.org/en-US/docs/Web/CSS/inheritance)
 - [Debugging CSS Code](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Debugging_CSS)
-
----
 
 ## Styling Content
 
@@ -150,8 +142,6 @@ Learn the basics and prerequisite first then learn those topics in order to mast
     - background-blend-mode
   - clip-path
 
----
-
 ## CSS Layout
 
 - **[Learn CSS Layout](http://learnlayout.com/)**
@@ -204,8 +194,6 @@ Learn the basics and prerequisite first then learn those topics in order to mast
   - [Learn CSS Grid](https://scrimba.com/g/gR8PTE) - scrimba
   - [CSS Grid Course](https://cssgrid.io/) - by WesBos
 
----
-
 ## Responsive Web Design
 
 - [Responsive Web Design Fundamentals](https://udacity.com/course/responsive-web-design-fundamentals--ud893)
@@ -224,8 +212,6 @@ Learn the basics and prerequisite first then learn those topics in order to mast
   - [Responsive Images](https://udacity.com/course/responsive-images--ud882)
 
 * Which Method Should You Use for Your Responsive Layout? ( Mobile-First vs Desktop-First )
-
----
 
 ## CSS Animations and Drawing
 
@@ -268,8 +254,6 @@ Learn the basics and prerequisite first then learn those topics in order to mast
   - CSS Shapes: Shapes from the Alpha Channel
   - CSS Shapes: Shapes from the Reference Box
 
----
-
 ## CSS Preprocessors
 
 - [SASS](https://sass-lang.com/)
@@ -277,18 +261,15 @@ Learn the basics and prerequisite first then learn those topics in order to mast
   - [Sass Workflow & Dev Server From Scratch Using Gulp](https://www.youtube.com/watch?v=rmXVmfx3rNo)
 - [PostCSS](http://postcss.org/)
 
----
-
 ## CSS Frameworks
 
 - [Bootstrap](https://getbootstrap.com/)
+
   - [Learn Bootstrap 4 Course](https://scrimba.com/g/gbootstrap4) - scrimba
   - [Bootstrap 4: Everything You Need to Know](https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f6784)
 
 - [Bulma](https://bulma.io/)
   - [learn Bulma Course](https://scrimba.com/g/gbulma) - scrimba
-
----
 
 ## CSS Architecture
 

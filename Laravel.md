@@ -4,42 +4,40 @@
 
 ## Guides & Cheat Sheets
 
-
-
 ## News & Blogs
 
-+ **[Laravel News](https://laravel-news.com/)**
-+ **[Mattstauffer Blog](https://mattstauffer.com/blog/)**
-+ **[Laravel Daily Team](http://laraveldaily.com/blog/)**
-+ **[Laravel Tricks](https://laravel-tricks.com/)**
-+ **[Laravel Recipes](http://laravel-recipes.com/)**
-+ **[Just Laravel](http://justlaravel.com/)**
-+ **[خدمات ويب](https://5dmat-web.com/)**
-
-
-
+- [Laravel News](https://laravel-news.com/)
+- [Mattstauffer Blog](https://mattstauffer.com/blog/)
+- [Laravel Daily Team](http://laraveldaily.com/blog/)
+- [Laravel Tricks](https://laravel-tricks.com/)
+- [Laravel Recipes](http://laravel-recipes.com/)
+- [Just Laravel](http://justlaravel.com/)
+- [خدمات ويب](https://5dmat-web.com/)
 
 ## Articles
 
-+ Basics
+- Basics
 
-+ FrontEnd
+- FrontEnd
 
-+ Database
-  - **[Eloquent Relationships Cheat Sheet](https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209)**
+- Database
 
-+ Security
+  - [Eloquent Relationships Cheat Sheet](https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209)
 
-+ Advanced
+- Security
 
-+ Testing
+- Advanced
 
-+ Packages
-  - **[packalyst](https://packalyst.com/)** - A directory of Packages for your Laravel projects.
-  - **[laravelcollective](https://laravelcollective.com/)** - Maintain Laravel components that have been removed.
-  - **[8 Laravel must-have packages to install when you start a new API-Based Project](https://medium.com/skyshidigital/8-laravel-must-have-packages-to-install-when-you-start-a-new-api-based-project-18d690f24d0e)**
+- Testing
 
+- Packages
+
+  - [packalyst](https://packalyst.com/) - A directory of Packages for your Laravel projects.
+  - [laravelcollective](https://laravelcollective.com/) - Maintain Laravel components that have been removed.
+  - [8 Laravel must-have packages to install when you start a new API-Based Project](https://medium.com/skyshidigital/8-laravel-must-have-packages-to-install-when-you-start-a-new-api-based-project-18d690f24d0e)
 
 ## MOOCs
 
-+ **[Eloquent by Example](https://eloquentbyexample.com/)** - Workflow and Understanding of the Laravel Eloquent Ecosystem.
+- English
+
+  - [Eloquent by Example](https://eloquentbyexample.com/) - Workflow and Understanding of the Laravel Eloquent Ecosystem.

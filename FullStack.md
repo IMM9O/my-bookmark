@@ -15,8 +15,6 @@
 - [Free Code Camp Guide](https://guide.freecodecamp.org/)
 - [Over API](http://overapi.com/)
 
----
-
 ## Learning Paths
 
 - [Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x) - Diagram by _LearnCode.academy_
@@ -32,16 +30,12 @@
 - [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
 - [2016/2017 MUST-KNOW WEB DEVELOPMENT TECH](https://www.youtube.com/watch?v=sBzRwzY7G-k) - Youtube Video by _LearnCode.academy_
 
----
-
 ## Projects Ideas
 
 - [6 Absurd Ideas For Building Your First Web App](https://medium.freecodecamp.org/6-absurd-ideas-for-building-your-first-web-application-24afca35e519)
 - [8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
 - [The secret to being a top developer is building things! Here’s a list of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 - [✅ Every time you build a to-do list app, a puppy 🐕 dies 😢](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d)
-
----
 
 ## Blogs
 
@@ -54,29 +48,21 @@
 - [Airpair](https://www.airpair.com/)
 - [SABE](https://sabe.io/) - Learn modern web development with high-quality classes and tutorials.
 
----
-
 ## Screencasts
 
 - [Scrimba](https://scrimba.com/)
 - [Laracasts](https://laracasts.com/)
 - [egghead](https://egghead.io/)
 
----
-
 ## Podcasts
 
 - [Syntax](https://syntax.fm/)
-
----
 
 ## E-Books
 
 - [Goal Kicker](http://goalkicker.com/) - Programming Notes for Professionals books.
 - [Free UX Ebooks](https://www.uxpin.com/studio/ebooks/) - Thoughtful content on mobile & web prototyping, wireframing, mockups, usability testing, project management, design process & more.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-
----
 
 ## Articles
 
