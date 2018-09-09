@@ -19,8 +19,8 @@ Learn the basics and prerequisite first then learn those topics in order to mast
   - Internal style
   - External style
 
-- [Introduction to HTML](https://scrimba.com/g/ghtml)
-- [Introduction to CSS](https://scrimba.com/g/gintrotocss)
+- [Introduction to HTML](https://scrimba.com/g/ghtml) - scrimba
+- [Introduction to CSS](https://scrimba.com/g/gintrotocss) - scrimba
 
 - [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE) - by Traversy Media on Youtube.
 - [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - by Traversy Media on Youtube.
@@ -69,8 +69,8 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 - CSS Variables
 
-  - [Learn CSS Variables for free](https://scrimba.com/g/gcssvariables)
-  - [CSS Variables Tutorial (CSS Custom Properties)](https://www.youtube.com/watch?v=sQUB039MG0I) - by Traversy Media on Youtube.
+  - [Everything you need to know about CSS Variables](https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855)
+  - [Learn CSS Variables Course](https://scrimba.com/g/gcssvariables) - scrimba
 
 ---
 
@@ -95,7 +95,7 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 ## Styling Content
 
-- Text ( Typography )
+- Typography
 
   - Use HTML Tags for text
   - font-size
@@ -107,7 +107,13 @@ Learn the basics and prerequisite first then learn those topics in order to mast
   - text-align
   - text-transform
   - text-decoration
+
+- Lists
+
   - [Styling Lists](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists)
+
+- Links
+
   - [Styling Links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links)
 
 - Media ( Image, Video and Audio )
@@ -115,6 +121,8 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 - Tables
 
 - Forms
+
+- Buttons
 
 - CSS Box Model ( Any Bloc element is a box model)
 
@@ -146,6 +154,8 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 ## CSS Layout
 
+- **[Learn CSS Layout](http://learnlayout.com/)**
+
 - The Display Property
 
   - Display block ( flex, list-item and table )
@@ -154,13 +164,13 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 - Floats
 
-  - [CSS Floats Explained - DevTips](https://www.youtube.com/watch?v=609adV3pTME)
-  - [CSS Floats and Clears Explained - DevTips](https://www.youtube.com/watch?v=xFGBNv2KeVU)
+  - [CSS Floats Explained](https://www.youtube.com/watch?v=609adV3pTME) - DevTips
+  - [CSS Floats and Clears Explained](https://www.youtube.com/watch?v=xFGBNv2KeVU) - DevTips
 
 - Positioning Techniques
 
-  - [CSS POSITIONING (PART1) - DevTips](https://www.youtube.com/watch?v=kejG8G0dr5U)
-  - [CSS POSITIONING (PART2) - DevTips](https://www.youtube.com/watch?v=Rf6zAP4YnZA)
+  - [CSS POSITIONING (PART1)](https://www.youtube.com/watch?v=kejG8G0dr5U) - DevTips
+  - [CSS POSITIONING (PART2)](https://www.youtube.com/watch?v=Rf6zAP4YnZA) - DevTips
 
   * Normal Flow
 
@@ -168,6 +178,7 @@ Learn the basics and prerequisite first then learn those topics in order to mast
     - Relative Positioning
 
     * Absolute Positioning
+
       - Absoulte ( Absoulte to the nearst relative box )
       - Fixed ( absoulte for the html )
       - Sticky
@@ -177,18 +188,21 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 - Flexbox
 
-  - [Flexbox Complete Guide - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-  - [CSS Flexbox Course - freeCodeCamp](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
-  - [CSS flexbox Course - WesBos](https://flexbox.io/)
-  - [20 minutes Flexbox Crash Course](https://youtu.be/JJSoEo8JSnc) - by Traversy Media on Youtube.
+  - [Flexbox Complete Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks
+  - [The Complete Illustrated Flexbox Tutorial](https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35)
+  - [The Ultimate Guide to Flexbox ](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
+  - [Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)
+  - [CSS Flexbox Crash Course](https://youtu.be/JJSoEo8JSnc) - by Traversy Media on Youtube.
+  - [Learn CSS Flexbox](https://scrimba.com/g/gflexbox) - scrimba
+  - [CSS flexbox Course](https://flexbox.io/) - by WesBos
 
 - Grids
 
-  - [CSS Grid Complete Guide - CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
-  - [CSS Grid Course - freeCodeCamp](https://www.youtube.com/watch?v=t6CBKf8K_Ac)
-  - [CSS Grid Course - WesBos](https://cssgrid.io/)
+  - [CSS Grid Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Tricks
+  - [CSS Grid — The Beginner’s Guide](https://medium.freecodecamp.org/css-grid-the-beginners-guide-45998e6f6b8)
   - [CSS Grid Crash Course](https://youtu.be/jV8B24rSN5o) by Traversy Media on Youtube.
-  - [CSS Grid Introduction - Udemy Tech](https://www.youtube.com/watch?v=oz0fbFviLIU)
+  - [Learn CSS Grid](https://scrimba.com/g/gR8PTE) - scrimba
+  - [CSS Grid Course](https://cssgrid.io/) - by WesBos
 
 ---
 
@@ -265,6 +279,17 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 ---
 
+## CSS Frameworks
+
+- [Bootstrap](https://getbootstrap.com/)
+  - [Learn Bootstrap 4 Course](https://scrimba.com/g/gbootstrap4) - scrimba
+  - [Bootstrap 4: Everything You Need to Know](https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f6784)
+
+- [Bulma](https://bulma.io/)
+  - [learn Bulma Course](https://scrimba.com/g/gbulma) - scrimba
+
+---
+
 ## CSS Architecture
 
 - [BEM](http://getbem.com/)
@@ -272,10 +297,3 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 - [SMACSS](https://smacss.com/)
 - [SUITCSS](https://suitcss.github.io/)
 - [Atomic](https://acss.io/)
-
----
-
-## CSS Frameworks
-
-- [Bootstrap](https://getbootstrap.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
