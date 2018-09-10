@@ -34,11 +34,11 @@
 
 - English
 
-  - [[2017] Vue.js in less than 30 minutes for beginners - Tutorial - 2.0 - Youtube](https://www.youtube.com/watch?v=VPUdtEf3oXI&t=29s)
-  - [Vue.js 2.0 In 60 Minutes - Youtube](https://www.youtube.com/watch?v=z6hQqgvGI4Y&t=464s)
+  - [[2017] Vue.js in less than 30 minutes for beginners - Tutorial - 2.0](https://www.youtube.com/watch?v=VPUdtEf3oXI&t=29s)
+  - [Vue.js 2.0 In 60 Minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y&t=464s)
   - [Learn Vue 2: Step By Step - laracasts](https://laracasts.com/series/learn-vue-2-step-by-step)
-  - [Vue JS 2 Tutorial - Youtube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
+  - [Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
 
 - Arabic
 
-  - [VueJs 2 من الصفر إلى الإحتراف - Youtube](https://www.youtube.com/playlist?list=PL1FWK-sgJ9eljz7Tm5SSUcCt5sxmwoFlC)
+  - [VueJs 2 من الصفر إلى الإحتراف](https://www.youtube.com/playlist?list=PL1FWK-sgJ9eljz7Tm5SSUcCt5sxmwoFlC)

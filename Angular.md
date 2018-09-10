@@ -79,9 +79,9 @@
 
 - English
 
-  - [Angular 4 In 60 Minutes - Youtube](https://www.youtube.com/watch?v=KhzGSHNhnbI&t=2572s)
+  - [Angular 4 In 60 Minutes](https://www.youtube.com/watch?v=KhzGSHNhnbI&t=2572s)
   - [Get Started with Angular - egghead](https://egghead.io/courses/get-started-with-angular)
 
 - Arabic
 
-  - [Angular 4 دورة من الصفر الى المشروع الكامل - Youtube](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9JJPTR0ksQcT3uumyco7UG)
+  - [Angular 4 دورة من الصفر الى المشروع الكامل](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9JJPTR0ksQcT3uumyco7UG)

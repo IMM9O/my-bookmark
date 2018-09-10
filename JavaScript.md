@@ -54,5 +54,5 @@
 
 - English
   - [JavaScript30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge.
-  - [Object Oriented JavaScript - Youtube](https://www.youtube.com/watch?v=O8wwnhdkPE4)
-  - [ECMAScript 6 Tutorial - Youtube](https://www.youtube.com/watch?v=Jakoi0G8lBg&t=2s)
+  - [Object Oriented JavaScript](https://www.youtube.com/watch?v=O8wwnhdkPE4)
+  - [ECMAScript 6 Tutorial](https://www.youtube.com/watch?v=Jakoi0G8lBg&t=2s)

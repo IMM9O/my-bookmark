@@ -5,12 +5,12 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 01.  [CSS Selectors](#css-selectors)
 02.  [CSS Values](#css-values)
 03.  [CSS Specificity](#css-specificity)
-04.  [Styling](#styling) (text, boxes, tables and forms )
+04.  [Styling](#styling)
 05.  [CSS Layout](#css-layout)
-06.  [Responsive Web Design](#responsive-web-design) ( RWD )
+06.  [Responsive Web Design](#responsive-web-design)
 07.  [CSS Animations and Drawing](#css-animations-and-drawing)
 08.  [CSS Preprocessors](#css-preprocessors)
-09. [CSS Frameworks](#css-frameworks) ( optional )
+09.  [CSS Frameworks](#css-frameworks)
 10.  [CSS Architecture](#css-architecture)
 
 - Three Types of Style Sheet
@@ -269,6 +269,8 @@ Learn the basics and prerequisite first then learn those topics in order to mast
   - [Bootstrap 4: Everything You Need to Know](https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f6784)
 
 - [Bulma](https://bulma.io/)
+
+  - [Bulma Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg&index=23&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) - by Traversy Media on Youtube.
   - [learn Bulma Course](https://scrimba.com/g/gbulma) - scrimba
 
 ## CSS Architecture

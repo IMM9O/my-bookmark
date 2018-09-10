@@ -33,6 +33,6 @@
 ## MOOCs
 
 - English
-  - [Demystifying Regular Expressions - Youtube](https://www.youtube.com/watch?v=EkluES9Rvak)
-  - [How To Use Git And GitHub - Udacity - Youtube](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLwygftUY318GeCz26jz45yuMWazLgJmxZ)
-  - [Regular Expressions - Programming with Text - Youtube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
+  - [Demystifying Regular Expressions](https://www.youtube.com/watch?v=EkluES9Rvak)
+  - [How To Use Git And GitHub - Udacity](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLwygftUY318GeCz26jz45yuMWazLgJmxZ)
+  - [Regular Expressions - Programming with Text](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
