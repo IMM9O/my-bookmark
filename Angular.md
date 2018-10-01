@@ -68,6 +68,7 @@
   - [Angular—  Testing Guide (v4+)](https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0)
 
 - Angular Dev Tools
+
   - [Configure a proxy for your API calls with Angular CLI](https://juristr.com/blog/2016/11/configure-proxy-api-angular-cli/)
   - [Deploying an i18n Angular app with angular-cli](https://medium.com/@feloy/deploying-an-i18n-angular-app-with-angular-cli-fc788f17e358)
   - [Enable HMR in Angular CLI apps](https://medium.com/@beeman/tutorial-enable-hmr-in-angular-cli-apps-1b0d13b80130)

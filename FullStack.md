@@ -20,10 +20,11 @@
 - [Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x) - Diagram by _LearnCode.academy_
 - [Grab Front End Guide](https://github.com/grab/front-end-guide) - Grap Roadmap
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Github repository by _kamranahmedse_
+- [The 2018 Roadmap To FullStack Web Development](https://medium.com/codingthesmartway-com-blog/the-2018-roadmap-to-fullstack-web-development-8884ff02557a)
 - [State of JavaScript](https://stateofjs.com/) - Sate of JS (Every Year)
 - [JavaScript State in 2017](https://medium.freecodecamp.org/a-look-back-at-the-state-of-javascript-in-2017-a5b7f562e977) - Free Code Camp
-- [JavaScript Rising Stars in 2017](https://risingstars.js.org/2017/en/) - Which github projects got traction in 2017
-- [JavaScript Rising Stars in 2016](https://risingstars2016.js.org/) - Which github projects got traction in 2016
+- [JavaScript Stars in 2017](https://risingstars.js.org/2017/en/) - Which github projects got traction in 2017
+- [JavaScript Stars in 2016](https://risingstars2016.js.org/) - Which github projects got traction in 2016
 - [Web Development in 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4) Video by _Traversy Media_
 - [Web Development in 2017 - A Practical Guide](https://www.youtube.com/watch?v=9hDKfBKuXjI) Video by _Traversy Media_
 - [Top JavaScript Libraries & Tech to Learn in 2018 ](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
@@ -37,8 +38,11 @@
 - [The secret to being a top developer is building things! Here’s a list of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 - [✅ Every time you build a to-do list app, a puppy 🐕 dies 😢](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d)
 
-## Blogs
 
+## News & Blogs
+
+- [coligo.io](https://coligo.io/)
+- [alligator.io](https://alligator.io/vuejs/)
 - [Tuts Plus](https://tutsplus.com/)
 - [Site Point](https://www.sitepoint.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)

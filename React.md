@@ -4,6 +4,7 @@
 
 ## Guides & Cheat Sheets
 
+- [How to Learn React — A roadmap from beginner to advanced](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
 - [React.js cheatsheet](https://devhints.io/react)
 - [Redux Cheat Sheet](https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf)
 
