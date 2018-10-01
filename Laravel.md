@@ -7,6 +7,7 @@
 ## News & Blogs
 
 - [Laravel News](https://laravel-news.com/)
+- [Laracasts](https://laracasts.com/)
 - [Mattstauffer Blog](https://mattstauffer.com/blog/)
 - [Laravel Daily Team](http://laraveldaily.com/blog/)
 - [Laravel Tricks](https://laravel-tricks.com/)

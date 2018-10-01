@@ -19,8 +19,7 @@
 - [Why 43% of Front-End Developers want to learn Vue.js](https://medium.com/vue-mastery/why-43-of-front-end-developers-want-to-learn-vue-js-7f23348bc5be)
 - [A Vue.js introduction for people who know just enough jQuery to get by](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77)
 - [5 Practical Examples For Learning Vue.js](https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js) - tutorialzine
-- [Building Your First App With Vue.js](https://tutorialzine.com/2016/08/building-your-first-app-with-vue-js)
-- [Vue.js build set-up from scratch with webpack, vue-loader and hot reload](https://skyronic.com/blog/vue-project-scratch)
+- [Building Your First App With Vue.js](https://tutorialzine.com/2016/08/building-your-first-app-with-vue-js) - tutorialzine
 - [⭐️ Intro to Vuex and Accessing State](https://medium.com/vue-mastery/vuex-intro-tutorial-course-38ca0bca7ef4)
 
 * Article Series:(css-Tricks)

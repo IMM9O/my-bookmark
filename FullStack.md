@@ -14,6 +14,7 @@
 - [HTML Reference](http://htmlreference.io/)
 - [Free Code Camp Guide](https://guide.freecodecamp.org/)
 - [Over API](http://overapi.com/)
+- [Learn Git in 15 Minutes - Official Tutorial](https://try.github.io/levels/1/challenges/1)
 
 ## Learning Paths
 
@@ -38,9 +39,10 @@
 - [The secret to being a top developer is building things! Here’s a list of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 - [✅ Every time you build a to-do list app, a puppy 🐕 dies 😢](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d)
 
-
 ## News & Blogs
 
+- [scotch.io](https://scotch.io/)
+- [Hotjs](https://www.hotjs.net/)
 - [coligo.io](https://coligo.io/)
 - [alligator.io](https://alligator.io/vuejs/)
 - [Tuts Plus](https://tutsplus.com/)
@@ -50,28 +52,48 @@
 - [CSS Tricks](https://css-tricks.com/)
 - [Tutorialzine](https://tutorialzine.com/)
 - [Airpair](https://www.airpair.com/)
-- [SABE](https://sabe.io/) - Learn modern web development with high-quality classes and tutorials.
+- [SABE](https://sabe.io/)
+- [Toptal Blog](https://www.toptal.com/blog)
+- [BEST ONLINE COURSES](http://www.coursescoupons.com/)
+- [التراس حاسبات ومعلومات](https://www.ultrasfci.com/)
+- [The Full List of 400 Slack Communities](https://medium.com/startupsco/the-full-list-of-400-slack-communities-5545e82cf65d)
 
-## Screencasts
+## Screencasts & Podcasts
 
 - [Scrimba](https://scrimba.com/)
-- [Laracasts](https://laracasts.com/)
 - [egghead](https://egghead.io/)
-
-## Podcasts
-
 - [Syntax](https://syntax.fm/)
 
 ## E-Books
 
-- [Goal Kicker](http://goalkicker.com/) - Programming Notes for Professionals books.
-- [Free UX Ebooks](https://www.uxpin.com/studio/ebooks/) - Thoughtful content on mobile & web prototyping, wireframing, mockups, usability testing, project management, design process & more.
+- [Apress](https://www.apress.com/gp/).
+- [Goal Kicker](http://goalkicker.com/)
+- [Free UX Ebooks](https://www.uxpin.com/studio/ebooks/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 ## Articles
 
 - Genral
+
+  - [13 Simple Rules for Good Coding (from my 15 years of experience)](https://hackernoon.com/few-simple-rules-for-good-coding-my-15-years-experience-96cb29d4acd9)
+  - [Learn to Code: 13 Tips that Could Save You Years of Effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f)
+  - [10 Steps to Plan Better so you can Write Less Code](https://medium.freecodecamp.org/10-steps-to-plan-better-so-you-can-write-less-code-ece655e03608)
+  - [All I Really Need to Know About InfoSec, I learned from Mr. Robot](https://medium.freecodecamp.org/all-i-really-need-to-know-about-infosec-i-learned-from-mr-robot-7902cca6d729)
+  - [The Ultimate Reading List for Developers](https://medium.com/@YogevSitton/the-ultimate-reading-list-for-developers-e96c832d9687)
+  - [Learn Git in 15 Minutes - Tutorialzine](https://tutorialzine.com/2016/06/learn-git-in-30-minutes)
+
+- FrontEnd
+
   - [Front-End Performance Checklist](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
   - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
   - [Best Practices for Search Results](https://uxplanet.org/best-practices-for-search-results-1bbed9d7a311)
   - [What is the best way to 'master' HTML and CSS?](https://www.quora.com/What-is-the-best-way-to-master-HTML-and-CSS)
+
+## MOOCs
+
+- English
+
+  - [Demystifying Regular Expressions](https://www.youtube.com/watch?v=EkluES9Rvak)
+  - [How To Use Git And GitHub](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLwygftUY318GeCz26jz45yuMWazLgJmxZ) - Udacity

@@ -10,7 +10,7 @@
 
 ## News & Blogs
 
-- [official blog](http://blog.ionic.io/)
+- [Official Blog](http://blog.ionic.io/)
 - [devdactic](https://devdactic.com/devblog/)
 - [mcgivery](http://mcgivery.com/)
 - [gonehybrid](https://www.gonehybrid.com/)

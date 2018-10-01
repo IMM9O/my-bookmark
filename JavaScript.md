@@ -9,10 +9,6 @@
 - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 - [Polymer 2.x Cheat Sheet](https://meowni.ca/posts/polymer-2-cheatsheet/)
 
-## News & Blogs
-
-- [scotch.io](https://scotch.io/)
-- [Hotjs](https://www.hotjs.net/)
 
 ## Articles
 
@@ -44,11 +40,6 @@
   - [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
   - [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
   - [Soft Skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
-
-## E-Books
-
-- [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
-- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 ## MOOCs
 

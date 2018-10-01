@@ -81,7 +81,7 @@
 - English
 
   - [Angular 4 In 60 Minutes](https://www.youtube.com/watch?v=KhzGSHNhnbI&t=2572s)
-  - [Get Started with Angular - egghead](https://egghead.io/courses/get-started-with-angular)
+  - [Get Started with Angular](https://egghead.io/courses/get-started-with-angular) - egghead
 
 - Arabic
 
