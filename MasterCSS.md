@@ -267,6 +267,7 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
   - [Learn Bootstrap 4 Course](https://scrimba.com/g/gbootstrap4) - scrimba
   - [Bootstrap 4: Everything You Need to Know](https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f6784)
+  - [Bootstrap Framework — Best Practices](https://hackernoon.com/bootstrap-framework-best-practises-b1d81c02d6cf)
 
 - [Bulma](https://bulma.io/)
 

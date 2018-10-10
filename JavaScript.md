@@ -4,10 +4,18 @@
 
 ## Guides & Cheat Sheets
 
-- [ES6 features](http://es6-features.org) - One site combines the most important features.
-- [ES2015+ cheatsheet](https://devhints.io/es6)
-- [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
-- [Polymer 2.x Cheat Sheet](https://meowni.ca/posts/polymer-2-cheatsheet/)
+- Cheat Sheets
+
+  - [ES6 features](http://es6-features.org) - One site combines the most important features.
+  - [ES2015+ cheatsheet](https://devhints.io/es6)
+
+- Guides
+
+  - [State of JavaScript](https://stateofjs.com/) - Sate of JS (Every Year)
+  - [JavaScript Stars in 2017](https://risingstars.js.org/2017/en/) - Which github projects got traction in 2017
+  - [JavaScript Stars in 2016](https://risingstars2016.js.org/) - Which github projects got traction in 2016
+  - [Top JavaScript Libraries & Tech to Learn in 2018 ](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
+  - [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
 
 
 ## Articles
@@ -31,8 +39,10 @@
 - [JavaScript Callbacks Explained Using Minions](https://medium.freecodecamp.org/javascript-callbacks-explained-using-minions-da272f4d9bcd)
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 - [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
+- [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
 
 - Master the JavaScript Interview Series
+
   - [What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
   - [What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
   - [What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
@@ -41,9 +51,17 @@
   - [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
   - [Soft Skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
 
+- PWA
+
+  - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
+  - [Mozilla Service Worker Guid](https://serviceworke.rs/)
+
+
 ## MOOCs
 
 - English
+
+  - [Regular Expressions Demystified](https://www.youtube.com/playlist?list=PL55RiY5tL51ryV3MhCbH8bLl7O_RZGUUE) - playlist by _Academind_
+  - [Demystifying Regular Expressions](https://www.youtube.com/watch?v=EkluES9Rvak)
   - [JavaScript30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge.
-  - [Object Oriented JavaScript](https://www.youtube.com/watch?v=O8wwnhdkPE4)
-  - [ECMAScript 6 Tutorial](https://www.youtube.com/watch?v=Jakoi0G8lBg&t=2s)
+  - [Introduction to TypeScript](https://scrimba.com/g/gintrototypescript) - scrimba

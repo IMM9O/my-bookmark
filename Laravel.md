@@ -21,6 +21,7 @@
 
 - FrontEnd
 
+
 - Database
 
   - [Eloquent Relationships Cheat Sheet](https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209)
@@ -35,6 +36,7 @@
 
   - [packalyst](https://packalyst.com/) - A directory of Packages for your Laravel projects.
   - [laravelcollective](https://laravelcollective.com/) - Maintain Laravel components that have been removed.
+  - [13 Laravel Admin Panel Generators](https://laravel-news.com/13-laravel-admin-panel-generators)
   - [8 Laravel must-have packages to install when you start a new API-Based Project](https://medium.com/skyshidigital/8-laravel-must-have-packages-to-install-when-you-start-a-new-api-based-project-18d690f24d0e)
 
 ## MOOCs
