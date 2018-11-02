@@ -21,9 +21,12 @@
 - [Understanding Higher Order Components](https://medium.freecodecamp.org/understanding-higher-order-components-6ce359d761b)
 - [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf)
 - [Live edit and debug your React apps directly from VS Code — without leaving the editor 🔥 🎉🎈](https://medium.com/@auchenberg/live-edit-and-debug-your-react-apps-directly-from-vs-code-without-leaving-the-editor-3da489ed905f)
+- [The most important lessons I’ve learned after a year of working with React](https://medium.freecodecamp.org/mindset-lessons-from-a-year-with-react-1de862421981)
+- [These React Fundamentals You Skip may be Killing You](https://medium.freecodecamp.org/these-react-fundamentals-you-skip-may-be-killing-you-7629fb87dd4a)
 
 ## MOOCs
 
 - English
 
   - [Building a chat app with React.js and Chatkit](https://scrimba.com/g/greactchatkit) - scrimba
+  - [Complete React Tutorial (with Redux)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG) - by _The Net Ninja_ on Youtube.

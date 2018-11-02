@@ -22,6 +22,7 @@
 
 - Architecture & Case Study
 
+  - [Best practices for a clean and performant Angular application](https://medium.freecodecamp.org/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f)
   - [Angular Practice Exercises](https://jcoop.io/angular-practice-exercises/)
   - [Scalable Single-Page Application Architecture](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
   - [Building maintainable Angular applications](https://medium.com/curated-by-versett/building-maintainable-angular-2-applications-5b9ec4b463a1)
@@ -80,7 +81,7 @@
 
 - English
 
-  - [Angular 4 In 60 Minutes](https://www.youtube.com/watch?v=KhzGSHNhnbI&t=2572s)
+  - [Learn Angular](https://scrimba.com/g/gyourfirstangularapp) - scrimba
   - [Get Started with Angular](https://egghead.io/courses/get-started-with-angular) - egghead
 
 - Arabic

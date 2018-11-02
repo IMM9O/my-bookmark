@@ -33,11 +33,10 @@
 
 - English
 
-  - [Modern Frontend with Vue.js ](https://www.youtube.com/watch?v=D_z-RAweP1k) - Evan You - Laracon EU 2016
-  - [Learn vuejs](https://scrimba.com/g/glearnvue) - scrimba
   - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) - laracasts
-  - [Vue.js 2.0 In 60 Minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y&t=464s) - by Traversy Media on Youtube.
-  - [Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) - by The Net Ninja on Youtube.
+  - [Learn Vuejs](https://scrimba.com/g/glearnvue) - scrimba
+  - [Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) - by _The Net Ninja_ on Youtube.
+  - [Modern Frontend with Vue.js ](https://www.youtube.com/watch?v=D_z-RAweP1k) - Evan You - Laracon EU 2016
 
 
 - Arabic

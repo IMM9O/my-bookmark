@@ -11,11 +11,8 @@
 
 - Guides
 
-  - [State of JavaScript](https://stateofjs.com/) - Sate of JS (Every Year)
-  - [JavaScript Stars in 2017](https://risingstars.js.org/2017/en/) - Which github projects got traction in 2017
-  - [JavaScript Stars in 2016](https://risingstars2016.js.org/) - Which github projects got traction in 2016
-  - [Top JavaScript Libraries & Tech to Learn in 2018 ](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
-  - [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
+  - [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
+  - [Top JavaScript Libraries & Tech to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
 
 
 ## Articles
