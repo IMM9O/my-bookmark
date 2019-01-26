@@ -2,16 +2,16 @@
 
 Learn the basics and prerequisite first then learn those topics in order to master css not to just learn it
 
-01.  [CSS Selectors](#css-selectors)
-02.  [CSS Values](#css-values)
-03.  [CSS Specificity](#css-specificity)
-04.  [Styling](#styling)
-05.  [CSS Layout](#css-layout)
-06.  [Responsive Web Design](#responsive-web-design)
-07.  [CSS Animations and Drawing](#css-animations-and-drawing)
-08.  [CSS Preprocessors](#css-preprocessors)
-09.  [CSS Frameworks](#css-frameworks)
-10.  [CSS Architecture](#css-architecture)
+1.  [CSS Selectors](#css-selectors)
+2.  [CSS Values](#css-values)
+3.  [CSS Specificity](#css-specificity)
+4.  [Styling](#styling)
+5.  [CSS Layout](#css-layout)
+6.  [Responsive Web Design](#responsive-web-design)
+7.  [CSS Animations and Drawing](#css-animations-and-drawing)
+8.  [CSS Preprocessors](#css-preprocessors)
+9.  [CSS Frameworks](#css-frameworks)
+10. [CSS Architecture](#css-architecture)
 
 - Three Types of Style Sheet
 
@@ -178,44 +178,37 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 - Flexbox
 
+  - [CSS flexbox Course](https://flexbox.io/) - by WesBos
   - [Flexbox Complete Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks
   - [The Complete Illustrated Flexbox Tutorial](https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35)
   - [The Ultimate Guide to Flexbox ](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
   - [Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)
-  - [CSS Flexbox Crash Course](https://youtu.be/JJSoEo8JSnc) - by Traversy Media on Youtube.
-  - [Learn CSS Flexbox](https://scrimba.com/g/gflexbox) - scrimba
-  - [CSS flexbox Course](https://flexbox.io/) - by WesBos
 
 - Grids
 
+  - [CSS Grid Course](https://cssgrid.io/) - by WesBos
   - [CSS Grid Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Tricks
   - [CSS Grid — The Beginner’s Guide](https://medium.freecodecamp.org/css-grid-the-beginners-guide-45998e6f6b8)
-  - [CSS Grid Crash Course](https://youtu.be/jV8B24rSN5o) by Traversy Media on Youtube.
-  - [Learn CSS Grid](https://scrimba.com/g/gR8PTE) - scrimba
-  - [CSS Grid Course](https://cssgrid.io/) - by WesBos
 
 ## Responsive Web Design
 
-- [Responsive Web Design Fundamentals](https://udacity.com/course/responsive-web-design-fundamentals--ud893)
-- [Build An HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw) - by Traversy Media on Youtube.
-
-* Common Responsive Patterns
+- Common Responsive Patterns
 
   - Mostly Fluid
   - Column Drop
   - Layout Shifter
   - Off Canvas
 
-* Media Queries
-* Responsive Images
+- Media Queries
+- Responsive Images
+- Which Method Should You Use for Your Responsive Layout? ( Mobile-First vs Desktop-First )
 
-  - [Responsive Images](https://udacity.com/course/responsive-images--ud882)
-
-* Which Method Should You Use for Your Responsive Layout? ( Mobile-First vs Desktop-First )
+* [Responsive Web Design Fundamentals](https://udacity.com/course/responsive-web-design-fundamentals--ud893)
+* [Responsive Images](https://udacity.com/course/responsive-images--ud882)
 
 ## CSS Animations and Drawing
 
-- CSS Transforming
+- CSS Animations: Transforms
 
   - Transform: translate()
   - Transform: rotate() and Transform-Origin
@@ -223,7 +216,7 @@ Learn the basics and prerequisite first then learn those topics in order to mast
   - Transform: skew()
   - Transform Shorthand
 
-- CSS Transitions
+- CSS Animations: Transitions
 
   - Transition Duration
   - Transition Property
@@ -231,7 +224,7 @@ Learn the basics and prerequisite first then learn those topics in order to mast
   - Transition Delay
   - Transition Shorthand
 
-- CSS Animation
+- CSS Animations: Keyframes
 
   - CSS Animation Keyframes
   - CSS Animation Duration

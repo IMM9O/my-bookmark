@@ -19,7 +19,7 @@
   - [From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b)
   - [100+ FREE Resources to Learn Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
   - [200+ Best Free Tools & Resources for Front-End Web Developers — Medium](https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643#.oq3s5llo4)
-  - [The Ultimate Guide to Learning Full Stack Web Development in 6 months, for $30](https://codeburst.io/the-ultimate-guide-to-learning-full-stack-web-development-in-6-months-for-30-72b3854a7458)
+  - [The Ultimate Guide to Learning Full Stack Web Development in 6 months, for \$30](https://codeburst.io/the-ultimate-guide-to-learning-full-stack-web-development-in-6-months-for-30-72b3854a7458)
 
 - Guides
 
@@ -33,10 +33,12 @@
 
 - Projects Ideas
 
-  - [6 Absurd Ideas For Building Your First Web App](https://medium.freecodecamp.org/6-absurd-ideas-for-building-your-first-web-application-24afca35e519)
   - [8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
+  - [6 Absurd Ideas For Building Your First Web App](https://medium.freecodecamp.org/6-absurd-ideas-for-building-your-first-web-application-24afca35e519)
   - [The secret to being a top developer is building things! Here’s a list of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
   - [✅ Every time you build a to-do list app, a puppy 🐕 dies 😢](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d)
+  - [Want to build something fun? Here’s a list of sample web app ideas.](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
+  - [Here’s yet another list of exciting projects to build](https://medium.freecodecamp.org/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d)
 
 ## News & Blogs
 
