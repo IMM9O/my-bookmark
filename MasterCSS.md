@@ -112,6 +112,8 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 - Tables
 
+  - [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
+
 - Forms
 
 - Buttons
@@ -154,27 +156,9 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 - Floats
 
+  - [All About Floats](https://css-tricks.com/all-about-floats/)
   - [CSS Floats Explained](https://www.youtube.com/watch?v=609adV3pTME) - DevTips
   - [CSS Floats and Clears Explained](https://www.youtube.com/watch?v=xFGBNv2KeVU) - DevTips
-
-- Positioning Techniques
-
-  - [CSS POSITIONING (PART1)](https://www.youtube.com/watch?v=kejG8G0dr5U) - DevTips
-  - [CSS POSITIONING (PART2)](https://www.youtube.com/watch?v=Rf6zAP4YnZA) - DevTips
-
-  * Normal Flow
-
-    - Default ( no property specified )
-    - Relative Positioning
-
-    * Absolute Positioning
-
-      - Absoulte ( Absoulte to the nearst relative box )
-      - Fixed ( absoulte for the html )
-      - Sticky
-
-    * Stacking Content
-      - Z-Index property
 
 - Flexbox
 
@@ -189,6 +173,21 @@ Learn the basics and prerequisite first then learn those topics in order to mast
   - [CSS Grid Course](https://cssgrid.io/) - by WesBos
   - [CSS Grid Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Tricks
   - [CSS Grid — The Beginner’s Guide](https://medium.freecodecamp.org/css-grid-the-beginners-guide-45998e6f6b8)
+  - [How to create an image gallery with CSS Grid](https://medium.freecodecamp.org/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c)
+
+## CSS Positioning
+
+- [CSS POSITIONING (PART1)](https://www.youtube.com/watch?v=kejG8G0dr5U) - DevTips
+- [CSS POSITIONING (PART2)](https://www.youtube.com/watch?v=Rf6zAP4YnZA) - DevTips
+
+- Normal Flow
+
+  - Default ( no property specified )
+  - Relative
+  - Absoulte
+  - Fixed
+  - Sticky
+  - Stacking Content ( Z-Index property )
 
 ## Responsive Web Design
 

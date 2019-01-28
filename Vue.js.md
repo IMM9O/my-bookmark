@@ -16,18 +16,14 @@
 
 ## Articles
 
+
+- [Learn Vue](https://css-tricks.com/guides/vue/) - Article Series by css-Tricks
 - [Why 43% of Front-End Developers want to learn Vue.js](https://medium.com/vue-mastery/why-43-of-front-end-developers-want-to-learn-vue-js-7f23348bc5be)
 - [A Vue.js introduction for people who know just enough jQuery to get by](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77)
 - [5 Practical Examples For Learning Vue.js](https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js) - tutorialzine
 - [Building Your First App With Vue.js](https://tutorialzine.com/2016/08/building-your-first-app-with-vue-js) - tutorialzine
 - [⭐️ Intro to Vuex and Accessing State](https://medium.com/vue-mastery/vuex-intro-tutorial-course-38ca0bca7ef4)
 
-* Article Series:(css-Tricks)
-  - [Rendering, Directives, and Events](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
-  - [Components, Props, and Slots](https://css-tricks.com/intro-to-vue-2-components-props-slots/)
-  - [Vue-cli](https://css-tricks.com/intro-to-vue-3-vue-cli-lifecycle-hooks/)
-  - [Vuex](https://css-tricks.com/intro-to-vue-4-vuex/)
-  - [Animations](https://css-tricks.com/intro-to-vue-5-animations/)
 
 ## MOOCs
 
