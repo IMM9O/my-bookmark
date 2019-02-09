@@ -7,8 +7,6 @@ This is a somewhat opinionated curriculum for learning CSS collecting it from ma
 
 ## 📆 Curriculum
 
-### CSS Basics
-
 Learn the basics and prerequisite first then learn those topics in order to master css.
 
 1.  [CSS Selectors](#css-selectors)
@@ -22,15 +20,21 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 9.  [CSS Frameworks](#css-frameworks)
 10. [CSS Architecture](#css-architecture)
 
-- Three Types of Style Sheet
+---
 
+### CSS Basics
+
+#### 📖 Contents
+
+- CSS can be written in three places
   - Inline style ( style attribute )
   - Internal style
   - External style
 
+#### 📚 References, Resources & Guids
+
 - [Introduction to HTML](https://scrimba.com/g/ghtml) - scrimba
 - [Introduction to CSS](https://scrimba.com/g/gintrotocss) - scrimba
-
 - [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE) - by Traversy Media on Youtube.
 - [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - by Traversy Media on Youtube.
 
@@ -44,24 +48,20 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 - CSS Selectors Types
 
-  1. Simple Selectors
-
-  - Element
-  - Class
-  - Id
-  - Universal Selector ( _, ns|_, _|_, |\* )
-
-  2. Combinators & Multiple selectors
-
-  - Group of selector [A, B].
-  - Descendant selector [A B].
-  - Child selector [A > B].
-  - Adjacent sibling selector [A + B].
-  - General sibling selector [A ~ B].
-
-  3. Attribute Selectors
-  4. Pseudo-class Selectors
-  5. Pseudo-element Selectors
+  - Simple Selectors
+    - Element
+    - Class
+    - Id
+    - Universal Selector ( _, ns|_, _|_, |\* )
+  - Combinators & Multiple selectors
+    - Group of selector [A, B].
+    - Descendant selector [A B].
+    - Child selector [A > B].
+    - Adjacent sibling selector [A + B].
+    - General sibling selector [A ~ B].
+  - Attribute Selectors
+  - Pseudo-class Selectors
+  - Pseudo-element Selectors
 
 #### 📚 References, Resources & Guids
 
@@ -224,19 +224,23 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 ### Responsive Web Design
 
-- Common Responsive Patterns
+#### 📖 Contents
 
+- Media Queries
+- Common Responsive Patterns
   - Mostly Fluid
   - Column Drop
   - Layout Shifter
   - Off Canvas
-
-- Media Queries
 - Responsive Images
-- Which Method Should You Use for Your Responsive Layout? ( Mobile-First vs Desktop-First )
+- Which Method Should You Use for Your Responsive Layout?
+  - Mobile-First
+  - Desktop-First
 
-* [Responsive Web Design Fundamentals](https://udacity.com/course/responsive-web-design-fundamentals--ud893)
-* [Responsive Images](https://udacity.com/course/responsive-images--ud882)
+#### 📚 References, Resources & Guids
+
+- [Responsive Web Design Fundamentals](https://udacity.com/course/responsive-web-design-fundamentals--ud893)
+- [Responsive Images](https://udacity.com/course/responsive-images--ud882)
 
 ---
 
@@ -304,6 +308,16 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 ### CSS Frameworks
 
+#### 📖 Contents
+
+In this area you can pick up any framework you want, but i will list here the most famous one.
+
+- Bootstrap
+- Bulma
+- Tailwind CSS
+
+#### 📚 References, Resources & Guids
+
 - [Bootstrap](https://getbootstrap.com/)
 
   - [Learn Bootstrap 4 Course](https://scrimba.com/g/gbootstrap4) - scrimba
@@ -312,5 +326,10 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
 - [Bulma](https://bulma.io/)
 
-  - [Bulma Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg&index=23&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) - by Traversy Media on Youtube.
   - [learn Bulma Course](https://scrimba.com/g/gbulma) - scrimba
+  - [Bulma Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg&index=23&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) - by Traversy Media on Youtube.
+
+- [Tailwind CSS](https://tailwindcss.com/docs/what-is-tailwind/)
+  - [Vanilla CSS vs Bootstrap vs Tailwind CSS - Which one should you choose?](https://www.youtube.com/watch?v=vmXIGdP8KN8)
+  - [Introduction to Tailwind CSS](https://www.youtube.com/playlist?list=PLylMDDjFIp1Dt5hWKHPIHtdF2GFAS8Ak9)
+  - [Tailwind CSS](https://www.youtube.com/playlist?list=PLEhEHUEU3x5p8cxOJ27w20LffCknp935L)
