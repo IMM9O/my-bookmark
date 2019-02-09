@@ -1,44 +1,40 @@
-# How To master CSS
+# I built my own css curriculum to master it
 
-There are tons of tutorials out there for learnng CSS, but most of them are just scratch the surface, for beginner, out of date and not comprehensive.
-So i built my own curriculum
+Or how to master css using available free content.
 
-This is a somewhat opinionated curriculum for learning CSS collecting it from many resourcess over the internet.
+Learning css is easy at first place, but it become a a pain in a head when you want to master it not for lake of tutorials but for lake of path or fully curriculum to mastering it, here i am going to show you how to master css by following my comprehensive curriculum collecting it from many resources in the internet.
 
-## 📆 Curriculum
+## What is CSS?
 
-Learn the basics and prerequisite first then learn those topics in order to master css.
+Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, and reduce complexity and repetition in the structural content. (Source: Wikipedia)
 
-1.  [CSS Selectors](#css-selectors)
-2.  [CSS Values](#css-values)
-3.  [Styling](#styling)
-4.  [CSS Layout](#css-layout)
-5.  [CSS Specificity](#css-specificity)
-6.  [Responsive Web Design](#responsive-web-design)
-7.  [CSS Animations and Drawing](#css-animations-and-drawing)
-8.  [CSS Preprocessors](#css-preprocessors)
-9.  [CSS Frameworks](#css-frameworks)
-10. [CSS Architecture](#css-architecture)
+## How this crrriculum work?
 
----
+In each section you can find 📖 Contents and 📚 Resources, in contents i show to you what topics included in this section then in resources sections i list some of big and most comprehensive ( articles, videos or courcess ) resources covering this topic.
+But before you start you need to learn the basics of html & css then follow the Curriculum to master css.
 
-### CSS Basics
+## HTML&CSS Basics
 
-#### 📖 Contents
-
-- CSS can be written in three places
-  - Inline style ( style attribute )
-  - Internal style
-  - External style
-
-#### 📚 References, Resources & Guids
-
+- [html & css is hard](https://internetingishard.com/html-and-css/) - A friendly web development tutorial for complete beginners.
 - [Introduction to HTML | Scrimba](https://scrimba.com/g/ghtml)
 - [Introduction to CSS | Scrimba](https://scrimba.com/g/gintrotocss)
 - [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE) - by Traversy Media on Youtube.
 - [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - by Traversy Media on Youtube.
 
 ---
+
+## 📆 Curriculum
+
+- [CSS Selectors](#css-selectors)
+- [CSS Units & Values](#css-values)
+- [Styling Content](#styling)
+- [CSS Layout](#css-layout)
+- [CSS Specificity](#css-specificity)
+- [Responsive Web Design](#responsive-web-design)
+- [CSS Animations and Drawing](#css-animations-and-drawing)
+- [CSS Preprocessors](#css-preprocessors)
+- [CSS Architecture](#css-architecture)
+- [CSS Frameworks](#css-frameworks)
 
 ### CSS Selectors
 
@@ -62,7 +58,7 @@ In CSS, selectors are used to target the HTML elements on our web pages that we 
   - Pseudo-class Selectors
   - Pseudo-element Selectors
 
-#### 📚 References, Resources & Guids
+#### 📚 Resources
 
 - [CSS Selectors | MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors)
 - [Simple Selectors | MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors)
@@ -92,7 +88,7 @@ In CSS, selectors are used to target the HTML elements on our web pages that we 
   - [Used value | MDN web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/used_value)
   - [Actual value | MDN web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/actual_value)
 
-#### 📚 References, Resources & Guids
+#### 📚 Resources
 
 - CSS Colors and Gradients
 
@@ -156,7 +152,7 @@ Styling Content involves manipulating how elements should look like, What `font-
     - background-blend-mode
   - clip-path
 
-#### 📚 References, Resources & Guids
+#### 📚 Resources
 
 - [A Complete Guide to the Table Element | CSS Tricks](https://css-tricks.com/complete-guide-table-element/)
 - [Styling Links | MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links)
@@ -188,7 +184,7 @@ Layout involves manipulating how elements lay out on the page, How much space do
   - Stacking Content ( Z-Index property )
 - Multiple-column layout
 
-#### 📚 References, Resources & Guids
+#### 📚 Resources
 
 - [Learn CSS Layout](http://learnlayout.com/)
 - [Building layouts with flexbox and CSS grids](https://www.youtube.com/watch?v=2GxAElWKaAo)
@@ -232,7 +228,7 @@ Once you've started to become comfortable with the basics of CSS - using it to c
 
 #### 📖 Contents
 
-#### 📚 References, Resources & Guids
+#### 📚 Resources
 
 - [Cascading and Inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
 - [inheritance](https://developer.mozilla.org/en-US/docs/Web/CSS/inheritance)
@@ -257,7 +253,7 @@ Responsive design is the practice of designing a website so it looks and works p
   - Mobile-First
   - Desktop-First
 
-#### 📚 References, Resources & Guids
+#### 📚 Resources
 
 - [Responsive Web Design Fundamentals](https://udacity.com/course/responsive-web-design-fundamentals--ud893)
 - [Responsive Images](https://udacity.com/course/responsive-images--ud882)
@@ -306,7 +302,7 @@ Responsive design is the practice of designing a website so it looks and works p
   - CSS Shapes: Shapes from the Alpha Channel
   - CSS Shapes: Shapes from the Reference Box
 
-#### 📚 References, Resources & Guids
+#### 📚 Resources
 
 - [CSS Animation Performance](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 
@@ -325,7 +321,7 @@ Learn about the most famous and common used preprocessor ( SASS ), Why i use it?
   - Stylus
   - PostCSS
 
-#### 📚 References, Resources & Guids
+#### 📚 Resources
 
 - [Learn Sass In 15 Minutes | Tutorialzine](https://tutorialzine.com/2016/01/learn-sass-in-15-minutes)
 - [SASS Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA) - by The Net Ninja on Youtube.
@@ -349,7 +345,7 @@ If you're not careful, it is easy to write complex, confusing, and unmaintable C
   - [SUITCSS](https://suitcss.github.io/)
   - [Atomic](https://acss.io/)
 
-#### 📚 References, Resources & Guids
+#### 📚 Resources
 
 - [BEM For Beginners: Why You Need BEM | Smashing Magazine](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
 
@@ -365,7 +361,7 @@ In this area you can pick up any framework you want, but i will list here the mo
 - Bulma
 - Tailwind CSS
 
-#### 📚 References, Resources & Guids
+#### 📚 Resources
 
 - [Bootstrap](https://getbootstrap.com/)
 
