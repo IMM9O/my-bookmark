@@ -2,13 +2,13 @@
 
 Or how to master css using available free content.
 
-Learning css is easy at first place, but it become a a pain in a head when you want to master it not for lake of tutorials but for lake of path or fully curriculum to mastering it, here i am going to show you how to master css by following my comprehensive curriculum collecting it from many resources in the internet.
+Learning css is easy at first place, but it become a pain in a head when you want to master it not for lake of tutorials but for lake of path or fully curriculum to mastering it, here i am going to show you how to master css by following my comprehensive curriculum collecting it from many resources in the internet.
 
 ## What is CSS?
 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, and reduce complexity and repetition in the structural content. (Source: Wikipedia)
 
-## How this crrriculum work?
+## How this curriculum work?
 
 In each section you can find 📖 Contents and 📚 Resources, in contents i show to you what topics included in this section then in resources sections i list some of big and most comprehensive ( articles, videos or courcess ) resources covering this topic.
 But before you start you need to learn the basics of html & css then follow the Curriculum to master css.
@@ -42,21 +42,24 @@ In CSS, selectors are used to target the HTML elements on our web pages that we 
 
 #### 📖 Contents
 
-- CSS Selectors Types
-  - Simple Selectors
-    - Element
-    - Class
-    - Id
-    - Universal Selector ( _, ns|_, _|_, |\* )
-  - Combinators & Multiple selectors
-    - Group of selector [A, B].
-    - Descendant selector [A B].
-    - Child selector [A > B].
-    - Adjacent sibling selector [A + B].
-    - General sibling selector [A ~ B].
-  - Attribute Selectors
-  - Pseudo-class Selectors
-  - Pseudo-element Selectors
+- Simple Selectors
+
+  - Element
+  - Class
+  - Id
+  - Universal Selector ( _, ns|_, _|_, |\* )
+
+- Combinators & Multiple selectors
+
+  - Group of selector [A, B].
+  - Descendant selector [A B].
+  - Child selector [A > B].
+  - Adjacent sibling selector [A + B].
+  - General sibling selector [A ~ B].
+
+- Attribute Selectors
+- Pseudo-class Selectors
+- Pseudo-element Selectors
 
 #### 📚 Resources
 
@@ -154,6 +157,7 @@ Styling Content involves manipulating how elements should look like, What `font-
 
 #### 📚 Resources
 
+- [The box model | MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model)
 - [A Complete Guide to the Table Element | CSS Tricks](https://css-tricks.com/complete-guide-table-element/)
 - [Styling Links | MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links)
 
@@ -228,8 +232,17 @@ Once you've started to become comfortable with the basics of CSS - using it to c
 
 #### 📖 Contents
 
+- Specificity hierarchy
+
+  - Inline styles
+  - IDs
+  - Classes, attributes and pseudo-classes
+  - Elements and pseudo-elements
+
 #### 📚 Resources
 
+- [CSS Basics (Part2) — Cascades](https://www.youtube.com/watch?v=tZhmjgLQgXU) - by DevTips on Youtube.
+- [CSS Basics (Part6) — Specificity](https://www.youtube.com/watch?v=fy07HYm-geM) - by DevTips on Youtube.
 - [Cascading and Inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
 - [inheritance](https://developer.mozilla.org/en-US/docs/Web/CSS/inheritance)
 - [Debugging CSS Code](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Debugging_CSS)
@@ -262,14 +275,16 @@ Responsive design is the practice of designing a website so it looks and works p
 
 ### CSS Animations and Drawing
 
+CSS Animations involves manipulating how elements should look like over the time by allowing you to specify how elements change from one style to another.
+
 #### 📖 Contents
 
 - CSS Animations: Transforms
 
-  - Transform: translate()
-  - Transform: rotate() and Transform-Origin
-  - Transform: scale()
-  - Transform: skew()
+  - Transform translate()
+  - Transform rotate() and Transform-Origin
+  - Transform scale()
+  - Transform skew()
   - Transform Shorthand
 
 - CSS Animations: Transitions
@@ -294,7 +309,6 @@ Responsive design is the practice of designing a website so it looks and works p
 
 - CSS Shapes
 
-  - Introducing CSS Shapes
   - CSS Shapes: the inset() function
   - CSS Shapes: The circle() Function
   - CSS Shapes: The ellipse() Function
@@ -304,6 +318,8 @@ Responsive design is the practice of designing a website so it looks and works p
 
 #### 📚 Resources
 
+- [An Introduction to Web Animations | Freecodecamp](https://medium.freecodecamp.org/an-introduction-to-web-animations-86f45de2a871)
+- [A Simple CSS Animation Tutorial | Freecodecamp](https://medium.freecodecamp.org/a-simple-css-animation-tutorial-8a35aa8e87ff)
 - [CSS Animation Performance](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 
 ---
@@ -334,7 +350,7 @@ Learn about the most famous and common used preprocessor ( SASS ), Why i use it?
 
 ### CSS Architecture
 
-If you're not careful, it is easy to write complex, confusing, and unmaintable CSS.
+If you're not careful, it is easy to write complex, confusing, and unmaintable CSS. so there is many way to manage that.
 
 #### 📖 Contents
 
@@ -378,3 +394,26 @@ In this area you can pick up any framework you want, but i will list here the mo
   - [Vanilla CSS vs Bootstrap vs Tailwind CSS - Which one should you choose?](https://www.youtube.com/watch?v=vmXIGdP8KN8)
   - [Introduction to Tailwind CSS](https://www.youtube.com/playlist?list=PLylMDDjFIp1Dt5hWKHPIHtdF2GFAS8Ak9)
   - [Tailwind CSS](https://www.youtube.com/playlist?list=PLEhEHUEU3x5p8cxOJ27w20LffCknp935L)
+
+---
+
+## Where to go next?
+
+In general i found this blogs, newsletter or courses the best resources to learn css in specific and web development in general and for those who prefer paid courses i list for you the best paid courses available on the web.
+
+- Blogs
+
+  - [WEB | Google Developers](https://developers.google.com/web/)
+  - [MDN Web Docs](https://developer.mozilla.org/en-US/)
+  - [Tutorialzine](https://tutorialzine.com/)
+  - [SABE](https://sabe.io/)
+  - [Hacks Mozilla](https://hacks.mozilla.org/)
+  - [CSS Tricks](https://css-tricks.com/)
+  - [Smashing Magazine](https://www.smashingmagazine.com/)
+  - [scotch.io](https://scotch.io/)
+  - [The Full List of 400 Slack Communities](https://medium.com/startupsco/the-full-list-of-400-slack-communities-5545e82cf65d)
+
+- Paid CSS Courses
+
+  - [CSS - The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/)
+  - [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/advanced-css-and-sass/)
