@@ -1,6 +1,15 @@
-## CSS Basics
+# How To master CSS
 
-Learn the basics and prerequisite first then learn those topics in order to master css not to just learn it
+There are tons of tutorials out there for learnng CSS, but most of them are just scratch the surface, for beginner, out of date and not comprehensive.
+So i built my own curriculum
+
+This is a somewhat opinionated curriculum for learning CSS collecting it from many resourcess over the internet.
+
+## 📆 Curriculum
+
+### CSS Basics
+
+Learn the basics and prerequisite first then learn those topics in order to master css.
 
 1.  [CSS Selectors](#css-selectors)
 2.  [CSS Values](#css-values)
@@ -25,27 +34,48 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 - [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE) - by Traversy Media on Youtube.
 - [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - by Traversy Media on Youtube.
 
-## CSS Selectors
+---
+
+### CSS Selectors
+
+#### 📖 Contents
 
 > In CSS, selectors are used to target the HTML elements on our web pages that we want to style.
 
+- CSS Selectors Types
+
+  1. Simple Selectors
+
+  - Element
+  - Class
+  - Id
+  - Universal Selector ( _, ns|_, _|_, |\* )
+
+  2. Combinators & Multiple selectors
+
+  - Group of selector [A, B].
+  - Descendant selector [A B].
+  - Child selector [A > B].
+  - Adjacent sibling selector [A + B].
+  - General sibling selector [A ~ B].
+
+  3. Attribute Selectors
+  4. Pseudo-class Selectors
+  5. Pseudo-element Selectors
+
+#### 📚 References, Resources & Guids
+
 - [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors)
+- [Simple Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors)
+- [Combinators & Multiple selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors)
+- [Attribute Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors)
+- [Pseudo-class and Pseudo-element Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements)
 
-  - [Simple Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors)
-    - Element
-    - Class
-    - Id
-    - Universal Selector ( _, ns|_, _|_, |\* )
-  - [Combinators & Multiple selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors)
-    - Group of selector [A, B].
-    - Descendant selector [A B].
-    - Child selector [A > B].
-    - Adjacent sibling selector [A + B].
-    - General sibling selector [A ~ B].
-  - [Attribute Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors)
-  - [Pseudo-class and Pseudo-element Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements)
+---
 
-## CSS Values
+### CSS Values
+
+#### 📖 Contents
 
 > Thers is 4 types of values in css
 
@@ -68,7 +98,9 @@ Learn the basics and prerequisite first then learn those topics in order to mast
   - [Everything you need to know about CSS Variables](https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855)
   - [Learn CSS Variables Course](https://scrimba.com/g/gcssvariables) - scrimba
 
-## CSS Specificity
+---
+
+### CSS Specificity
 
 > CSS is an acronym for Cascading Style Sheets, which indicates that the notion of the cascade is important. At its most basic level it indicates that the order of CSS rules matter, but it's more complex than that. What selectors win out in the cascade depends on three factors (these are listed in order of weight — earlier ones will overrule later ones):
 
@@ -85,7 +117,9 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 - [inheritance](https://developer.mozilla.org/en-US/docs/Web/CSS/inheritance)
 - [Debugging CSS Code](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Debugging_CSS)
 
-## Styling Content
+---
+
+### Styling Content
 
 - Typography
 
@@ -144,52 +178,51 @@ Learn the basics and prerequisite first then learn those topics in order to mast
     - background-blend-mode
   - clip-path
 
-## CSS Layout
+---
 
-- **[Learn CSS Layout](http://learnlayout.com/)**
+### CSS Layout
 
-- The Display Property
+#### 📖 Contents
 
-  - Display block ( flex, list-item and table )
-  - Display inline
-  - Display inline-block
-
-- Floats
-
-  - [All About Floats](https://css-tricks.com/all-about-floats/)
-  - [CSS Floats Explained](https://www.youtube.com/watch?v=609adV3pTME) - DevTips
-  - [CSS Floats and Clears Explained](https://www.youtube.com/watch?v=xFGBNv2KeVU) - DevTips
-
-- Flexbox
-
-  - [CSS flexbox Course](https://flexbox.io/) - by WesBos
-  - [Flexbox Complete Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks
-  - [The Complete Illustrated Flexbox Tutorial](https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35)
-  - [The Ultimate Guide to Flexbox ](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
-  - [Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)
-
-- Grids
-
-  - [CSS Grid Course](https://cssgrid.io/) - by WesBos
-  - [CSS Grid Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Tricks
-  - [CSS Grid — The Beginner’s Guide](https://medium.freecodecamp.org/css-grid-the-beginners-guide-45998e6f6b8)
-  - [How to create an image gallery with CSS Grid](https://medium.freecodecamp.org/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c)
-
-## CSS Positioning
-
-- [CSS POSITIONING (PART1)](https://www.youtube.com/watch?v=kejG8G0dr5U) - DevTips
-- [CSS POSITIONING (PART2)](https://www.youtube.com/watch?v=Rf6zAP4YnZA) - DevTips
-
-- Normal Flow
-
-  - Default ( no property specified )
+- Normal flow
+- The display property
+  - Block
+  - Inline
+  - Inline-Block
+  - Flexbox
+  - Grid
+  - Table
+- Positioning
+  - Default ( no property specified or Static )
   - Relative
   - Absoulte
   - Fixed
   - Sticky
   - Stacking Content ( Z-Index property )
+- Floats
+- Multiple-column layout
 
-## Responsive Web Design
+#### 📚 References, Resources & Guids
+
+- **[Learn CSS Layout](http://learnlayout.com/)**
+- [All About Floats](https://css-tricks.com/all-about-floats/)
+- [CSS Floats Explained](https://www.youtube.com/watch?v=609adV3pTME) - DevTips
+- [CSS Floats and Clears Explained](https://www.youtube.com/watch?v=xFGBNv2KeVU) - DevTips
+- [CSS flexbox Course](https://flexbox.io/) - by WesBos
+- [Flexbox Complete Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks
+- [The Complete Illustrated Flexbox Tutorial](https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35)
+- [The Ultimate Guide to Flexbox ](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
+- [Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)
+- [CSS Grid Course](https://cssgrid.io/) - by WesBos
+- [CSS Grid Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Tricks
+- [CSS Grid — The Beginner’s Guide](https://medium.freecodecamp.org/css-grid-the-beginners-guide-45998e6f6b8)
+- [How to create an image gallery with CSS Grid](https://medium.freecodecamp.org/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c)
+- [CSS POSITIONING (PART1)](https://www.youtube.com/watch?v=kejG8G0dr5U) - DevTips
+- [CSS POSITIONING (PART2)](https://www.youtube.com/watch?v=Rf6zAP4YnZA) - DevTips
+
+---
+
+### Responsive Web Design
 
 - Common Responsive Patterns
 
@@ -205,7 +238,9 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 * [Responsive Web Design Fundamentals](https://udacity.com/course/responsive-web-design-fundamentals--ud893)
 * [Responsive Images](https://udacity.com/course/responsive-images--ud882)
 
-## CSS Animations and Drawing
+---
+
+### CSS Animations and Drawing
 
 - CSS Animations: Transforms
 
@@ -246,14 +281,28 @@ Learn the basics and prerequisite first then learn those topics in order to mast
   - CSS Shapes: Shapes from the Alpha Channel
   - CSS Shapes: Shapes from the Reference Box
 
-## CSS Preprocessors
+---
+
+### CSS Preprocessors
 
 - [SASS](https://sass-lang.com/)
   - [SASS Tutorial](https://www.youtube.com/watch?v=wz3kElLbEHE)
   - [Sass Workflow & Dev Server From Scratch Using Gulp](https://www.youtube.com/watch?v=rmXVmfx3rNo)
 - [PostCSS](http://postcss.org/)
 
-## CSS Frameworks
+---
+
+### CSS Architecture
+
+- [BEM](http://getbem.com/)
+- [OOCSS](http://oocss.org/)
+- [SMACSS](https://smacss.com/)
+- [SUITCSS](https://suitcss.github.io/)
+- [Atomic](https://acss.io/)
+
+---
+
+### CSS Frameworks
 
 - [Bootstrap](https://getbootstrap.com/)
 
@@ -265,11 +314,3 @@ Learn the basics and prerequisite first then learn those topics in order to mast
 
   - [Bulma Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg&index=23&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) - by Traversy Media on Youtube.
   - [learn Bulma Course](https://scrimba.com/g/gbulma) - scrimba
-
-## CSS Architecture
-
-- [BEM](http://getbem.com/)
-- [OOCSS](http://oocss.org/)
-- [SMACSS](https://smacss.com/)
-- [SUITCSS](https://suitcss.github.io/)
-- [Atomic](https://acss.io/)
