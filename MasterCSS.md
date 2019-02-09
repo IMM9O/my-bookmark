@@ -2,7 +2,7 @@
 
 Or how to master css using available free content.
 
-Learning css is easy at first place, but it become a pain in a head when you want to master it not for lake of tutorials but for lake of path or fully curriculum to mastering it, here i am going to show you how to master css by following my comprehensive curriculum collecting it from many resources in the internet.
+Learning css is easy at first place, but it become a pain in a head when you want to master it not for lack of tutorials but for lack of path or fully curriculum to mastering it, here i am going to show you how to master css by following my comprehensive curriculum collecting it from many resources in the internet.
 
 ## What is CSS?
 
