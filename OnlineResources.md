@@ -143,6 +143,8 @@
 
 ## Online Editors
 
+- [CS50 IDE](https://ide.cs50.io/)
+- [Webcomponents Editor](https://webcomponents.dev/)
 - [Codepen](https://codepen.io/)
 - [jsfiddle](https://jsfiddle.net/)
 - [jsbin](http://jsbin.com/)
@@ -198,3 +200,8 @@
 
 - [SimilarTech](https://www.similartech.com/)
 - [LIBSCORE](http://libscore.com/)
+
+## Markdown
+
+- [Markdown to medium](https://markdowntomedium.com/)
+- [Markdown to medium](http://markdown-to-medium.surge.sh/)
