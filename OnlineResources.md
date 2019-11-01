@@ -143,19 +143,25 @@
 
 ## Online Editors
 
-- [CS50 IDE](https://ide.cs50.io/)
-- [Webcomponents Editor](https://webcomponents.dev/)
-- [Codepen](https://codepen.io/)
-- [jsfiddle](https://jsfiddle.net/)
-- [jsbin](http://jsbin.com/)
-- [Regexr](https://regexr.com/) - Regular expression editor.
-- [regex101](https://regex101.com/) - Regular expression editor.
-- [Tutorialspoint Codingground](https://www.tutorialspoint.com/codingground.htm)
-- [cssdeck](http://cssdeck.com/)
-- [dabblet](http://dabblet.com/)
-- [liveweave](https://liveweave.com/)
-- [webflow](https://webflow.com/)
-- [MACAW](http://macaw.co/)
+- IDE
+
+  - [CS50 IDE](https://ide.cs50.io/)
+  - [stackblitz](https://stackblitz.com/) - Code editor for frontend frameworks
+  - [codesandbox](https://codesandbox.io/) - Code editor for frontend frameworks
+
+- Snipptes
+
+  - [Codepen](https://codepen.io/)
+  - [jsfiddle](https://jsfiddle.net/)
+  - [jsbin](http://jsbin.com/)
+  - [Regexr](https://regexr.com/) - Regular expression editor.
+  - [regex101](https://regex101.com/) - Regular expression editor.
+  - [webflow](https://webflow.com/)
+  - [MACAW](http://macaw.co/)
+
+- Database
+
+  - [Mlab](https://mlab.com/)
 
 ## Checklist
 
