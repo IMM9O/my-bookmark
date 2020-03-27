@@ -35,7 +35,7 @@
 - [Catalysing your Angular 4 app Performance](https://medium.com/paramsingh-66174/catalysing-your-angular-4-app-performance-9211979075f6)
 - [Global Error Handling with Angular2+](https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c)
 
-### Devolpment
+### Development
 
 - [Debugging Angular app using Visual Studio Code](https://medium.com/@auchenberg/super-charged-live-editing-and-javascript-debugging-for-angular-using-visual-studio-code-c29da251ec71)
 - [Angular - Shortcut to Importing Styles Files in Components](https://scotch.io/tutorials/angular-shortcut-to-importing-styles-files-in-components)
@@ -94,9 +94,11 @@
 
 - English
 
-  - [Learn Angular](https://scrimba.com/g/gyourfirstangularapp) - scrimba
-  - [Get Started with Angular](https://egghead.io/courses/get-started-with-angular) - egghead
+  - [Learn Angular](https://scrimba.com/g/gyourfirstangularapp)
+  - [Get Started with Angular](https://egghead.io/courses/get-started-with-angular)
+  - [Angular From Theory to Practice](https://codecraft.tv/courses/angular/quickstart/overview/)
 
 - Arabic
 
   - [Angular 4 دورة من الصفر الى المشروع الكامل](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9JJPTR0ksQcT3uumyco7UG)
+  - [Angular From Zero To Dragon](https://www.youtube.com/playlist?list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h)
