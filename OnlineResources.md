@@ -3,7 +3,7 @@
 - [Dribbble](https://dribbble.com/)
 - [Calltoidea](http://www.calltoidea.com/)
 
-## WIREFRAME
+## WireFrame
 
 - [In Browser Wireframing](https://app.moqups.com)
 - [Very Basic In Browser Wireframing](https://wireframe.cc)
@@ -17,7 +17,7 @@
 
 ## Colors and Palettes
 
-- [Coolors](https://coolors.co/) - Create, save and share perfect palettes in seconds!.
+- [Colors](https://coolors.co/) - Create, save and share perfect palettes in seconds!.
 - [Flat Colors](http://flatuicolors.com/) - Quickly pick up flat colors.
 - [Web Gradients](https://webgradients.com/) - WebGradients is a free collection of 180 linear gradients.
 - [Material Palette](https://www.materialpalette.com/) - Create and download colors palettes and patterns.
@@ -102,17 +102,18 @@
 
 ## Generators
 
+- [Create App](https://createapp.dev/webpack) - Frontend build config generator
 - [CSS Matic](https://www.cssmatic.com/) - The ultimate CSS tools for web designers.
 - [Enjoy CSS](http://enjoycss.com/) - All in one CSS3 generator.
 - [Colorful Background](http://www.webcore-it.com/colorful-background/#) - Generate CSS gradient background.
 - [CSS Menu Maker](http://cssmenumaker.com/) - Build & download HTML, CSS, & jQuery menus for desktop & mobile websites.
 - [On/Off Flip switch](https://proto.io/freebies/onoff/) - Generate pure CSS3 On/Off flipswitches with animated transitions.
 - [CSS Arrow Please](http://www.cssarrowplease.com/) - CSS arrow generator.
-- [polychroma](https://polychroma.now.sh/) - Genrate linear-gradient
-- [uigradients](https://uigradients.com/) - Select or genrate linear-gradient effect
+- [polychroma](https://polychroma.now.sh/) - Generate linear-gradient
+- [uigradients](https://uigradients.com/) - Select or generate linear-gradient effect
 - [Clippy](https://bennettfeely.com/clippy/) - Generating values for shape functions for use with CSS clip-path property.
 - [Webcode](https://webcode.tools/) - The Ultimate Web Code Generator
-- [Type Scale](http://type-scale.com/) - Genrate typography css file.
+- [Type Scale](http://type-scale.com/) - Generate typography css file.
 - [Uinames](https://uinames.com/) - Get random human name.
 
 ## CSS Games
@@ -148,8 +149,9 @@
   - [CS50 IDE](https://ide.cs50.io/)
   - [stackblitz](https://stackblitz.com/) - Code editor for frontend frameworks
   - [codesandbox](https://codesandbox.io/) - Code editor for frontend frameworks
+  - [Web Component](https://webcomponents.dev/) - The Modern IDE for Web Platform Developers
 
-- Snipptes
+- Snippets
 
   - [Codepen](https://codepen.io/)
   - [jsfiddle](https://jsfiddle.net/)
@@ -198,7 +200,7 @@
 
 ## Free API
 
-- [JSON Placholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping
 - [Public API Resources](https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 - [Organized Docs for all Popular Web Technologies](https://devdocs.io)
 
