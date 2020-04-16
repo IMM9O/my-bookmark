@@ -68,6 +68,8 @@
 
 ### Forms
 
+- [Angular Reactive Forms: trigger validation on submit](https://loiane.com/2017/08/angular-reactive-forms-trigger-validation-on-submit/)
+
 ### Routing
 
 - [Angular— Animating Router transitions (v4+)](https://medium.com/google-developer-experts/angular-2-animate-router-transitions-6de179e00204)
@@ -80,8 +82,6 @@
 
 ### SSR ( Server Sde Render )
 
-- []()
-
 ### Testing
 
 - [Angular—  Testing Guide (v4+)](https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0)
@@ -89,6 +89,10 @@
 ### Deploying
 
 - [Deploying an Angular CLI App to Production with Firebase](https://scotch.io/tutorials/deploying-an-angular-cli-app-to-production-with-firebase)
+
+### Connecting with third-party services
+
+- [Integrating Google Analytics With Angular 2+](https://scotch.io/tutorials/integrating-google-analytics-with-angular-2)
 
 ## MOOCs
 

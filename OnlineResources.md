@@ -115,7 +115,6 @@
 - [Clippy](https://bennettfeely.com/clippy/) - Generating values for shape functions for use with CSS clip-path property.
 - [Webcode](https://webcode.tools/) - The Ultimate Web Code Generator
 - [Type Scale](http://type-scale.com/) - Generate typography css file.
-- [Uinames](https://uinames.com/) - Get random human name.
 
 ## CSS Games
 
@@ -202,8 +201,15 @@
 ## Free API
 
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping
+- [Link Preview](https://www.linkpreview.net/docs/)
 - [Public API Resources](https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 - [Organized Docs for all Popular Web Technologies](https://devdocs.io)
+
+## Development Helper
+
+- [Dummy / Fake Credit Card Generator 💳](https://saijogeorge.com/dummy-credit-card-generator/)
+- [Lorem Ipsum generator](https://www.lipsum.com/)
+- [Uinames](https://uinames.com/) - Get random human name.
 
 ## Markets Share
 
