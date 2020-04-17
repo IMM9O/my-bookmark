@@ -2,6 +2,8 @@
 
 In this guid a list for FrontEnd Development tools you can use to build modern FrontEnd applications starting from editor to deploy it on production.
 
+I listed only tools that more popular and more supported from community. Some tools are becoming essential and some can be replaced.
+
 **Note:** Some tools listed blew not valid for frontend apps only but can be valid in any kind of apps or stack.
 
 ## Editors
@@ -159,7 +161,7 @@ My Recommendations goes to jset for sure as it will do all the work you need the
 - [axios](https://github.com/axios/axios)
 - [HttpClient](https://angular.io/guide/http) - for angular apps.
 - [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) - Built in the browser.
-- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Builtin the browser.
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - Built in the browser.
 
 ## Server-Side Render
 

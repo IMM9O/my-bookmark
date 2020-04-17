@@ -10,19 +10,19 @@
 
 ## News & Blogs
 
-- [Official Blog](http://blog.ionic.io/)
-- [devdactic](https://devdactic.com/devblog/)
-- [mcgivery](http://mcgivery.com/)
-- [gonehybrid](https://www.gonehybrid.com/)
-- [joshmorony](https://www.joshmorony.com/)
-- [the polyglot developer](https://www.thepolyglotdeveloper.com/)
-- [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg) - 📹 Youtube Channel
+- 📰 [Ionic Blog](http://blog.ionic.io/) ☑️
+- 📰 [devdactic](https://devdactic.com/devblog/)
+- 📰 [mcgivery](http://mcgivery.com/)
+- 📰 [gonehybrid](https://www.gonehybrid.com/)
+- 📰 [the polyglot developer](https://www.thepolyglotdeveloper.com/)
+- 📺 [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg) - 📹 Youtube Channel
+- 📰 📺 [joshmorony](https://www.joshmorony.com/)
 
 ## Articles
 
 - [The 9 Most Common Mistakes That Ionic Developers Make](https://www.toptal.com/ionic/most-common-ionic-development-mistakes)
 - [Preparing for Release and Publishing Your Ionic App](https://github.com/hughred22/YouTube-Video-Listing-Ionic-Mobile-App/wiki/Preparing-for-Release-and-Publishing-Your-Ionic-App)
 
-## MOOCs
+## Courses & Videos
 
 - English

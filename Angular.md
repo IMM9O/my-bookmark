@@ -10,13 +10,13 @@
 
 ## News & Blogs
 
-- [Angular Blog](https://blog.angular.io/) - Officially angular blog
-- [Mgechev](http://blog.mgechev.com/)
-- [Todd Motto](https://toddmotto.com/)
-- [Thoughtram](https://blog.thoughtram.io/)
-- [Angular Class](https://angularclass.com/blog/)
-- [Angular University](https://angular-university.io/)
-- [Angular FireBase](https://angularfirebase.com/lessons/)
+- 📰 [Angular Blog](https://blog.angular.io/) ☑️
+- 📰 [Mgechev](http://blog.mgechev.com/)
+- 📰 [Thoughtram](https://blog.thoughtram.io/)
+- 📰 📺 [Todd Motto](https://toddmotto.com/)
+- 📰 📺 [Angular Class](https://angularclass.com/blog/)
+- 📰 📺 [Angular University](https://angular-university.io/)
+- 📰 📺 [Angular FireBase](https://angularfirebase.com/lessons/)
 
 ## Articles
 
@@ -94,7 +94,7 @@
 
 - [Integrating Google Analytics With Angular 2+](https://scotch.io/tutorials/integrating-google-analytics-with-angular-2)
 
-## MOOCs
+## Courses & Videos
 
 - English
 

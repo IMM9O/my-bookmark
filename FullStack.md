@@ -83,7 +83,7 @@
 
 ## Articles
 
-- Genral
+- General
 
   - [13 Simple Rules for Good Coding (from my 15 years of experience)](https://hackernoon.com/few-simple-rules-for-good-coding-my-15-years-experience-96cb29d4acd9)
   - [Learn to Code: 13 Tips that Could Save You Years of Effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f)
@@ -104,7 +104,7 @@
   - [What is the best way to 'master' HTML and CSS?](https://www.quora.com/What-is-the-best-way-to-master-HTML-and-CSS)
   - [How to quickly prototype apps with CSS Grid and CSS Variables](https://medium.freecodecamp.org/how-to-quickly-prototype-apps-with-css-grid-and-css-variables-8d3d96d68eaa)
 
-## MOOCs
+## Courses & Videos
 
 - English
 

@@ -6,14 +6,15 @@
 
 ## News & Blogs
 
-- [Laravel News](https://laravel-news.com/)
-- [Laracasts](https://laracasts.com/)
-- [Mattstauffer Blog](https://mattstauffer.com/blog/)
-- [Laravel Daily Team](http://laraveldaily.com/blog/)
-- [Laravel Tricks](https://laravel-tricks.com/)
-- [Laravel Recipes](http://laravel-recipes.com/)
-- [Just Laravel](http://justlaravel.com/)
-- [خدمات ويب](https://5dmat-web.com/)
+- 📰 [Laravel News](https://laravel-news.com/) ☑️
+- 📰 [Mattstauffer Blog](https://mattstauffer.com/blog/)
+- 📰 [Laravel Article](https://laravelarticle.com/)
+- 📰 [Laravel Tricks](https://laravel-tricks.com/)
+- 📰 [Laravel Recipes](http://laravel-recipes.com/)
+- 📰 [Laravel Daily Team](https://laraveldaily.com/)
+- 📰 [Just Laravel](http://justlaravel.com/)
+- 📺 [Laracasts](https://laracasts.com/) ☑️
+- 📺 [خدمات ويب](https://5dmat-web.com/)
 
 ## Articles
 
@@ -51,10 +52,11 @@
   - [Top 10 essential laravel packages in 2020](https://laravelarticle.com/essential-laravel-packages)
   - [Using Laravel Mix with webpack for All Your Assets](https://scotch.io/tutorials/using-laravel-mix-with-webpack-for-all-your-assets)
 
-## MOOCs
+## Courses & Videos
 
 - English
 
   - [Eloquent by Example](https://eloquentbyexample.com/)
   - [Useful Laravel Packages](https://codewithdre.com/useful-laravel-packages) - [Free version](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
   - [Single-Page Laravel](https://singlepagelaravel.com/) - [Free Version](https://www.youtube.com/playlist?list=PLP7iaQb3O2XuXbzUejA0F2Am0u14-teQ3)
+  - [Refactoring to Collections](https://adamwathan.me/refactoring-to-collections/)

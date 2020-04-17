@@ -14,7 +14,6 @@
   - [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
   - [Top JavaScript Libraries & Tech to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
 
-
 ## Articles
 
 - [12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
@@ -53,8 +52,7 @@
   - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
   - [Mozilla Service Worker Guid](https://serviceworke.rs/)
 
-
-## MOOCs
+## Courses & Videos
 
 - English
 

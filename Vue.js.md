@@ -4,18 +4,19 @@
 
 ## Guides & Cheat Sheets
 
-- [Best Free Vue.js Learning Resources](http://whatpixel.com/vuejs-learning-resources/)
 - [Vuejs Cheat Sheets](https://vuejs-tips.github.io/cheatsheet/)
 - [Vuex Cheat Sheets](https://vuejs-tips.github.io/vuex-cheatsheet/)
-- [The Vue Handbook: a thorough introduction to Vue.js](https://medium.freecodecamp.org/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446)
+- [The Vue Handbook](https://www.freecodecamp.org/news/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446/)
+- [Best Free Vue.js Learning Resources](http://whatpixel.com/vuejs-learning-resources/)
 
 ## News & Blogs
 
-- [Vue Mastery](https://medium.com/vue-mastery)
-- [Vuejs Developers](https://vuejsdevelopers.com/)
+- 📰 [Vue Mastery](https://medium.com/vue-mastery) ☑️
+- 📰 [Vuejs Developers](https://vuejsdevelopers.com/)
+- 📺 [Vue Mastery Courses](https://www.vuemastery.com/) ☑️
+- 📺 [Vueschool](https://vueschool.io/)
 
 ## Articles
-
 
 - [Learn Vue](https://css-tricks.com/guides/vue/) - Article Series by css-Tricks
 - [Why 43% of Front-End Developers want to learn Vue.js](https://medium.com/vue-mastery/why-43-of-front-end-developers-want-to-learn-vue-js-7f23348bc5be)
@@ -24,8 +25,7 @@
 - [Building Your First App With Vue.js](https://tutorialzine.com/2016/08/building-your-first-app-with-vue-js) - tutorialzine
 - [⭐️ Intro to Vuex and Accessing State](https://medium.com/vue-mastery/vuex-intro-tutorial-course-38ca0bca7ef4)
 
-
-## MOOCs
+## MOOC
 
 - English
 
@@ -34,7 +34,6 @@
   - [Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) - by _The Net Ninja_ on Youtube.
   - [Modern Frontend with Vue.js ](https://www.youtube.com/watch?v=D_z-RAweP1k) - Evan You - Laracon EU 2016
 
-
-- Arabic
+* Arabic
 
   - [VueJs 2 من الصفر إلى الإحتراف](https://www.youtube.com/playlist?list=PL1FWK-sgJ9eljz7Tm5SSUcCt5sxmwoFlC)

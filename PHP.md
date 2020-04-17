@@ -8,4 +8,4 @@
 
 ## Articles
 
-## MOOCs
+## Courses & Videos

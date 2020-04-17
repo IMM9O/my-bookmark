@@ -1,7 +1,7 @@
-<h1 style="text-align: center;">Doplyment</h1>
+<h1 style="text-align: center;">Deployment</h1>
 <p style="text-align: center;"> 
 How to deploy your static website to "Static Web Host"
-or how to exposing your local devolpment to public url for demoing 
+or how to exposing your local development to public url for demoing 
 </p>
 
 # Platforms
