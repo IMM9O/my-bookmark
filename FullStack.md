@@ -103,6 +103,7 @@
   - [Best Practices for Search Results](https://uxplanet.org/best-practices-for-search-results-1bbed9d7a311)
   - [What is the best way to 'master' HTML and CSS?](https://www.quora.com/What-is-the-best-way-to-master-HTML-and-CSS)
   - [How to quickly prototype apps with CSS Grid and CSS Variables](https://medium.freecodecamp.org/how-to-quickly-prototype-apps-with-css-grid-and-css-variables-8d3d96d68eaa)
+  - [The Complete CSS Flex Box Tutorial](https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc)
 
 ## Courses & Videos
 
