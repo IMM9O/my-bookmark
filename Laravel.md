@@ -8,6 +8,7 @@
 
 - 📰 [Laravel News](https://laravel-news.com/) ☑️
 - 📰 [Mattstauffer Blog](https://mattstauffer.com/blog/)
+- 📰 [Freek.dev](https://freek.dev/)
 - 📰 [Laravel Article](https://laravelarticle.com/)
 - 📰 [Laravel Tricks](https://laravel-tricks.com/)
 - 📰 [Laravel Recipes](http://laravel-recipes.com/)
@@ -18,31 +19,33 @@
 
 ## Articles
 
-- Basics
+- [2019 in Review](https://laravel-news.com/2019-in-review)
+
+* Basics
 
   - [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
   - [Laravel Route Tips to Improve Your Routing](https://laravel-news.com/laravel-route-tips-to-improve-your-routing)
   - [Laravel 6 CRUD tutorial](https://laravelarticle.com/laravel-6-crud-tutorial)
 
-* FrontEnd
+- FrontEnd
 
   - [Five Useful Laravel Blade Directives](https://laravel-news.com/five-useful-laravel-blade-directives)
   - [5 Laravel Helpers to Make Your Life Easier](https://laravel-news.com/5-laravel-helpers-make-life-easier)
   - [Various way of Laravel Validation](https://laravelarticle.com/various-way-of-laravel-validation)
   - [All About Writing Custom Blade Directives](https://scotch.io/tutorials/all-about-writing-custom-blade-directives)
 
-* Database
+- Database
 
   - [Eloquent Relationships Cheat Sheet](https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209)
   - [20 Laravel Eloquent Tips and Tricks](https://laravel-news.com/eloquent-tips-tricks)
 
-- Security
+* Security
 
-- Performance
+* Performance
 
-- Testing
+* Testing
 
-- Development
+* Development
 
   - [Packalyst](https://packalyst.com/) - A directory of Packages for your Laravel projects.
   - [Writing Custom Laravel Artisan Commands](https://laravel-news.com/custom-artisan-commands)

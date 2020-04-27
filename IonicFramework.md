@@ -15,8 +15,8 @@
 - 📰 [mcgivery](http://mcgivery.com/)
 - 📰 [gonehybrid](https://www.gonehybrid.com/)
 - 📰 [the polyglot developer](https://www.thepolyglotdeveloper.com/)
-- 📺 [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg) - 📹 Youtube Channel
 - 📰 📺 [joshmorony](https://www.joshmorony.com/)
+- 📺 [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg) - 📹 Youtube Channel
 
 ## Articles
 

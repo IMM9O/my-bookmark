@@ -51,19 +51,11 @@ In case you want to expose your local server without worrying about deploy it on
 - [surge](https://surge.sh/)
 - [netlify dev](https://www.netlify.com/products/dev/)
 
-## Linters
-
-### JavaScript Linting
+## Linters & Formatters
 
 - [ESLint](https://eslint.org/)
 - [TSLint](https://palantir.github.io/tslint/)
-
-### CSS Linting
-
 - [StyleLint](https://stylelint.io/)
-
-## Formatters
-
 - [Prettier](https://prettier.io/)
 
 ## Transpilers
@@ -165,10 +157,13 @@ My Recommendations goes to jset for sure as it will do all the work you need the
 
 ## Server-Side Render
 
-- [NextJs](https://nextjs.org/) - For React apps.
+- [NextJs](https://nextjs.org/) - For React/Any JavaScript apps.
 - [Angular Universal](https://angular.io/guide/universal) - For Angular apps.
 - [NuxtJs](https://nuxtjs.org/) - For Vue apps.
 
 ## CI/CD Tools
 
-##
+- [Travis CI](https://travis-ci.org/)
+- [Circle CI](https://circleci.com/)
+- [Jenkins](https://www.jenkins.io/)
+- [Netlify](https://www.netlify.com/)
