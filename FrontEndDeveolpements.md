@@ -1,10 +1,15 @@
 # FrontEnd Tools to get started with FrontEnd Development
 
-In this guid a list for FrontEnd Development tools you can use to build modern FrontEnd applications starting from editor to deploy it on production.
+Building frontend web app has it is own stack it is not just the framework you use but also tools and techniques to achieve that, so in this guide I gathering that tools and techniques together in one article so you can go back to it as a reference.
 
-I listed only tools that more popular and more supported from community. Some tools are becoming essential and some can be replaced.
+**Note:** I listed only tools that more popular and more supported from community. Some tools are becoming essential and some can be replaced.
 
 **Note:** Some tools listed blew not valid for frontend apps only but can be valid in any kind of apps or stack.
+
+## Guides & References
+
+- [MDN Dev](https://developer.mozilla.org/en-US/)
+- [Google Dev](https://web.dev/)
 
 ## Editors
 
@@ -12,12 +17,6 @@ I listed only tools that more popular and more supported from community. Some to
 - [Sublime Text](https://www.sublimetext.com/)
 - [Atom](https://atom.io/)
 - [Notepad++](https://notepad-plus-plus.org/)
-
-## Guides
-
-- [Google Dev](https://web.dev/)
-- [MDN Dev](https://developer.mozilla.org/en-US/)
-- [W3Schools](https://www.w3schools.com/)
 
 ## Package manager
 
@@ -60,24 +59,26 @@ In case you want to expose your local server without worrying about deploy it on
 
 ## Transpilers
 
+> A source-to-source translator, source-to-source compiler, transcompiler, or transpiler is a type of translator that takes the source code of a program written in a programming language as its input and produces an equivalent source code in the same or a different programming language. [Wikipedia](https://en.wikipedia.org/wiki/Source-to-source_compiler)
+
 ### JavaScript Transpilers
 
 - [Babel](https://babeljs.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Elm](https://elm-lang.org/)
 
-### CSS Preprocessing
+### CSS Transpilers
 
 - [sass](https://sass-lang.com/)
 - [less](http://lesscss.org/)
 - [Styles](https://stylus-lang.com/)
-
-### CSS Postprocessing
-
 - [PostCSS](https://postcss.org/)
 
-## JavaScript Bundlers
+## Bundlers
 
+A JavaScript bundler is a tool that puts your code and all its dependencies together in one JavaScript file.
+
+- [Browserify](http://browserify.org/)
 - [webpack](https://webpack.js.org/)
 - [rollup](https://rollupjs.org/)
 - [parcel](https://parceljs.org/)
@@ -85,13 +86,13 @@ In case you want to expose your local server without worrying about deploy it on
 ## JavaScript Testing
 
 **Note:** Some tools blew can do one or more categories.
-There are two techniques in test TDD or BDD and testing it self can be in three catagories:
+There are two techniques in test TDD or BDD and testing it self can split into three catagories:
 
 1. Unit Test
 2. Integration Test
 3. E2E Test
 
-My Recommendations goes to jset for sure as it will do all the work you need then jasmine
+My Recommendations goes to jset for sure as it will do all the work you need.
 
 ### Testing Structure
 
@@ -132,15 +133,9 @@ My Recommendations goes to jset for sure as it will do all the work you need the
 
 ## FrameWorks
 
-### JavaScript FrameWorks
-
 - [ReactJs](https://reactjs.org/)
 - [Angular](https://angular.io/)
 - [VueJs](https://vuejs.org/)
-
-### CSS Frameworks
-
-- [Bootstrap](https://getbootstrap.com/)
 
 ## State Management
 
