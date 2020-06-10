@@ -8,16 +8,6 @@
 - [260+ Ionic Framework Resources.](http://mcgivery.com/100-ionic-framework-resources/)
 - [Ionic Framework Introduction](https://ampersandacademy.com/tutorials/ionic-framework/ionic-framework-introduction)
 
-## News & Blogs
-
-- 📰 [Ionic Blog](http://blog.ionic.io/) ☑️
-- 📰 [devdactic](https://devdactic.com/devblog/)
-- 📰 [mcgivery](http://mcgivery.com/)
-- 📰 [gonehybrid](https://www.gonehybrid.com/)
-- 📰 [the polyglot developer](https://www.thepolyglotdeveloper.com/)
-- 📰 📺 [joshmorony](https://www.joshmorony.com/)
-- 📺 [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg) - 📹 Youtube Channel
-
 ## Articles
 
 - [The 9 Most Common Mistakes That Ionic Developers Make](https://www.toptal.com/ionic/most-common-ionic-development-mistakes)

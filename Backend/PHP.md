@@ -4,8 +4,6 @@
 
 ## Guides & Cheat Sheets
 
-## News & Blogs
-
 ## Articles
 
 ## Courses & Videos

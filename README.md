@@ -5,11 +5,10 @@
 * Web Development
 
   - [Full Stack Web Development](FullStack.md)
-
-    - [CSS](https://github.com/IMM9O/fully-css-curriculum)
-
-  - [CSS](Frontend/CSS.md)
-  - [HTML](Frontend/CSS.md)
+  - [HTML & CSS](Frontend/HTML_CSS.md)
+  - [Accessibility](Frontend/Accessibility.md)
+  - [Performance](Frontend/Performance.md)
+  - [Security](Frontend/Security.md)
   - [JavaScript](Frontend/JavaScript.md)
 
     - [Angular](Frontend/Angular.md) - Client Side JavaScript Framework.

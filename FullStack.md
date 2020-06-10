@@ -6,8 +6,6 @@
 
 - References
 
-  - [CSS Reference](http://cssreference.io/)
-  - [HTML Reference](http://htmlreference.io/)
   - [Free Code Camp Guide](https://guide.freecodecamp.org/)
   - [Over API](http://overapi.com/)
 
@@ -42,45 +40,6 @@
   - [Want to build something fun? Here’s a list of sample web app ideas.](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
   - [Here’s yet another list of exciting projects to build](https://medium.freecodecamp.org/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d)
 
-## News & Blogs
-
-- [WEB | Google Developers](https://developers.google.com/web/)
-- [MDN Web Docs](https://developer.mozilla.org/en-US/)
-- [w3schools](https://www.w3schools.com/)
-- [Tutorialzine](https://tutorialzine.com/)
-- [SABE](https://sabe.io/)
-- [Hacks Mozilla](https://hacks.mozilla.org/)
-- [CSS Tricks](https://css-tricks.com/)
-- [A List Apart](https://alistapart.com/)
-- [Smashing Magazine](https://www.smashingmagazine.com/)
-- [Site Point](https://www.sitepoint.com/)
-- [Hotjs](https://www.hotjs.net/)
-- [scotch.io](https://scotch.io/)
-- [coligo.io](https://coligo.io/)
-- [alligator.io](https://alligator.io/vuejs/)
-- [Tuts Plus](https://tutsplus.com/)
-- [Toptal Blog](https://www.toptal.com/blog)
-- [Airpair](https://www.airpair.com/)
-- [Monica](https://meowni.ca/)
-- [BEST ONLINE COURSES](http://www.coursescoupons.com/)
-- [التراس حاسبات ومعلومات](https://www.ultrasfci.com/)
-- [The Full List of 400 Slack Communities](https://medium.com/startupsco/the-full-list-of-400-slack-communities-5545e82cf65d)
-
-## Screencasts & Podcasts
-
-- [Scrimba](https://scrimba.com/)
-- [egghead](https://egghead.io/)
-- [Syntax](https://syntax.fm/)
-
-## E-Books
-
-- [Apress](https://www.apress.com/gp/).
-- [Goal Kicker](http://goalkicker.com/)
-- [Free UX Ebooks](https://www.uxpin.com/studio/ebooks/)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
-- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
-
 ## Articles
 
 - General
@@ -90,23 +49,14 @@
   - [10 Steps to Plan Better so you can Write Less Code](https://medium.freecodecamp.org/10-steps-to-plan-better-so-you-can-write-less-code-ece655e03608)
   - [All I Really Need to Know About InfoSec, I learned from Mr. Robot](https://medium.freecodecamp.org/all-i-really-need-to-know-about-infosec-i-learned-from-mr-robot-7902cca6d729)
   - [The Ultimate Reading List for Developers](https://medium.com/@YogevSitton/the-ultimate-reading-list-for-developers-e96c832d9687)
-  - [Learn Git in 15 Minutes - Tutorialzine](https://tutorialzine.com/2016/06/learn-git-in-30-minutes)
 
 - GIT
 
+  - [Learn Git in 15 Minutes - Tutorialzine](https://tutorialzine.com/2016/06/learn-git-in-30-minutes)
   - [Learn Git in 15 Minutes - Official Tutorial](https://try.github.io/levels/1/challenges/1)
+  - [How To Use Git And GitHub](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLwygftUY318GeCz26jz45yuMWazLgJmxZ) - Udacity
 
 - FrontEnd
 
   - [Front-End Performance Checklist](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
   - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-  - [Best Practices for Search Results](https://uxplanet.org/best-practices-for-search-results-1bbed9d7a311)
-  - [What is the best way to 'master' HTML and CSS?](https://www.quora.com/What-is-the-best-way-to-master-HTML-and-CSS)
-  - [How to quickly prototype apps with CSS Grid and CSS Variables](https://medium.freecodecamp.org/how-to-quickly-prototype-apps-with-css-grid-and-css-variables-8d3d96d68eaa)
-  - [The Complete CSS Flex Box Tutorial](https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc)
-
-## Courses & Videos
-
-- English
-
-  - [How To Use Git And GitHub](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLwygftUY318GeCz26jz45yuMWazLgJmxZ) - Udacity

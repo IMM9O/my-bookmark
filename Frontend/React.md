@@ -9,8 +9,6 @@
 - [React Cheat Sheet](https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-react-cheat-sheet-0-14-7.pdf) - egghead
 - [Redux Cheat Sheet](https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf) - egghead
 
-## News & Blogs
-
 ## Articles
 
 - [Learn react](https://www.kirupa.com/react/index.htm) - Article series by Kirupa

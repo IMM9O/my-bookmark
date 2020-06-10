@@ -116,17 +116,6 @@
 - [Webcode](https://webcode.tools/) - The Ultimate Web Code Generator
 - [Type Scale](http://type-scale.com/) - Generate typography css file.
 
-## CSS Games
-
-- [Flexbox Froggy](http://flexboxfroggy.com) - A game for learning CSS Flexbox.
-- [Grid Garden](http://cssgridgarden.com) - A game for learning CSS Grid layout.
-- [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies) - A survival zombie game! for learning CSS Flexbox.
-- [Grid Critters](https://geddski.teachable.com/p/gridcritters)
-- [CheckiO](https://checkio.org)
-- [Flukeout (CSS exercises)](http://flukeout.github.io)
-- [CSS Zen Garden](http://www.csszengarden.com) - Unleash your CSS powers and create a beautiful stylesheet for this site.
-- [All CSS Zen Garden Submissions](http://www.mezzoblue.com/zengarden/alldesigns/)
-
 ## CSS Calculator & Converter
 
 - [Specificity Calculator](http://specificity.keegan.st/) - A visual way to understand CSS specificity

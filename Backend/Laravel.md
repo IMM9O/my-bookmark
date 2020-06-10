@@ -4,19 +4,6 @@
 
 ## Guides & Cheat Sheets
 
-## News & Blogs
-
-- 📰 [Laravel News](https://laravel-news.com/) ☑️
-- 📰 [Mattstauffer Blog](https://mattstauffer.com/blog/)
-- 📰 [Freek.dev](https://freek.dev/)
-- 📰 [Laravel Article](https://laravelarticle.com/)
-- 📰 [Laravel Tricks](https://laravel-tricks.com/)
-- 📰 [Laravel Recipes](http://laravel-recipes.com/)
-- 📰 [Laravel Daily Team](https://laraveldaily.com/)
-- 📰 [Just Laravel](http://justlaravel.com/)
-- 📺 [Laracasts](https://laracasts.com/) ☑️
-- 📺 [خدمات ويب](https://5dmat-web.com/)
-
 ## Articles
 
 - [2019 in Review](https://laravel-news.com/2019-in-review)

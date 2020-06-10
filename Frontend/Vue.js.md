@@ -9,13 +9,6 @@
 - [The Vue Handbook](https://www.freecodecamp.org/news/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446/)
 - [Best Free Vue.js Learning Resources](http://whatpixel.com/vuejs-learning-resources/)
 
-## News & Blogs
-
-- 📰 [Vue Mastery](https://medium.com/vue-mastery) ☑️
-- 📰 [Vuejs Developers](https://vuejsdevelopers.com/)
-- 📺 [Vue Mastery Courses](https://www.vuemastery.com/) ☑️
-- 📺 [Vueschool](https://vueschool.io/)
-
 ## Articles
 
 - [Learn Vue](https://css-tricks.com/guides/vue/) - Article Series by css-Tricks

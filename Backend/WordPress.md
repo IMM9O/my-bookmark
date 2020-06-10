@@ -4,8 +4,6 @@
 
 ## Guides & Cheat Sheets
 
-## News & Blogs
-
 ## Articles
 
 - [29 WordPress Tweaks to Improve Posts and Pages](https://www.hongkiat.com/blog/wordpress-tweaks-for-post-management/)

@@ -8,16 +8,6 @@
 - [30 Learning Resources For Mastering Angular 2](https://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2)
 - [Top 10 Angular Tutorials, Community Blogs and Podcasts](http://blog.angular-university.io/top-10-angular-2-tutorials-blogs-and-podcasts/)
 
-## News & Blogs
-
-- 📰 [Angular Blog](https://blog.angular.io/) ☑️
-- 📰 [Mgechev](http://blog.mgechev.com/)
-- 📰 [Thoughtram](https://blog.thoughtram.io/)
-- 📰 📺 [Todd Motto](https://toddmotto.com/)
-- 📰 📺 [Angular Class](https://angularclass.com/blog/)
-- 📰 📺 [Angular University](https://angular-university.io/)
-- 📰 📺 [Angular FireBase](https://angularfirebase.com/lessons/)
-
 ## Articles
 
 ### Architecture & Performance
