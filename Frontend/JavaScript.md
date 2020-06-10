@@ -2,20 +2,15 @@
   <img width="400" src="http://logo-load.com/uploads/posts/2016-09/javascript-logo.png"  alt="javascript logo">
 </p>
 
-## Guides & Cheat Sheets
+# Bookmark
 
-- Cheat Sheets
-
-  - [ES6 features](http://es6-features.org) - One site combines the most important features.
-  - [ES2015+ cheatsheet](https://devhints.io/es6)
-
-- Guides
-
-  - [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
-  - [Top JavaScript Libraries & Tech to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
+- [ES6 features](http://es6-features.org) - One site combines the most important features.
+- [ES2015+ cheatsheet](https://devhints.io/es6)
 
 ## Articles
 
+- [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
+- [Top JavaScript Libraries & Tech to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
 - [12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
 - [TOP 200 JavaScript articles on medium (until Jan 2017)](https://hackernoon.com/top-200-javascript-articles-on-medium-until-jan-2017-a0c6a1bfe094)
 - [Modern JavaScript for Ancient Web Developers](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9)

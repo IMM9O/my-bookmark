@@ -2,7 +2,7 @@
   <img width="400" src="https://cdn.worldvectorlogo.com/logos/react.svg"  alt="react logo">
 </p>
 
-## Guides & Cheat Sheets
+## Bookmark
 
 - [How to Learn React — A roadmap from beginner to advanced](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
 - [React.js cheatsheet](https://devhints.io/react)

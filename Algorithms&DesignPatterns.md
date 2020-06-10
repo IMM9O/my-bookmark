@@ -1,5 +1,3 @@
-## Guides & Cheat Sheets
-
 ## Articles
 
 - [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)

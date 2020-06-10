@@ -2,8 +2,6 @@
   <img width="400" src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png"  alt="laravel logo">
 </p>
 
-## Guides & Cheat Sheets
-
 ## Articles
 
 - [2019 in Review](https://laravel-news.com/2019-in-review)
