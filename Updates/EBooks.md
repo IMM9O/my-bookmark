@@ -1,0 +1,6 @@
+- [Apress](https://www.apress.com/gp/).
+- [Goal Kicker](http://goalkicker.com/)
+- [Free UX Ebooks](https://www.uxpin.com/studio/ebooks/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
