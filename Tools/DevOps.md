@@ -68,3 +68,21 @@ $ netlify dev --live
 **Note**
 
 `gh-pages` behind the scenes will create another branch called `gh-pages` to push your build files into it
+
+# Firebase
+
+1. You need to create new project first on [firebase console](https://console.firebase.google.com/)
+
+2. Install `firebase-tools` package
+
+```bash
+$ npm install -g firebase-tools
+```
+
+3. Login to the account `firebase login`
+
+4. Init firebase configuration for hosting `firebase init`
+
+5. When your website ready just type `firebase deploy` 
+
+
