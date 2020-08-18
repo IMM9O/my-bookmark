@@ -1,23 +1,21 @@
-# Fullstack Developer bookmark
+# My Bookmark 🔗🔗
 
 - [Algorithms & Design Patterns](Algorithms&DesignPatterns.md)
 
 * Web Development
 
-  - [Full Stack Web Development](FullStack.md)
-  - [HTML & CSS](Frontend/HTML_CSS.md)
-  - [JavaScript](Frontend/JavaScript.md)
+  - [Full Stack](Tec/FullStack.md)
 
-    - [Angular](Frontend/Angular.md) - Client Side JavaScript Framework.
-    - [React](Frontend/React.md) - Client Side JavaScript Framework.
-    - [Vue](Frontend/Vue.js.md) - Client Side JavaScript Framework.
+  - [FrontEnd Stack](Tec/FrontEnd.md)
+  - [HTML & CSS](Tec/HTML_CSS.md)
+  - [JavaScript](Tec/JavaScript.md)
 
-  - [PHP](Backend/PHP.md)
-    - [Laravel](Backend/Laravel.md) - Server Side PHP Framework.
+  - [Angular](Tec/Angular.md) - Client Side JavaScript Framework.
+  - [React](Tec/React.md) - Client Side JavaScript Framework.
+  - [Vue](Tec/Vue.js.md) - Client Side JavaScript Framework.
 
-* Mobile Development
-
-  - [Ionic](Mobile/IonicFramework.md) - Hybrid Mobile App JavaScript Framework.
+  - [Laravel](Tec/Laravel.md) - Server Side PHP Framework.
+  - [WordPress](Tec/WordPress.md) - CMS Built with php.
 
 * Tools
 
