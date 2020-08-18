@@ -4,15 +4,14 @@
 
 ## Bookmark
 
-- [How to Learn React — A roadmap from beginner to advanced](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
+- [How to Learn React — A roadmap from beginner to advanced](https://www.freecodecamp.org/news/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6/)
 - [React.js cheatsheet](https://devhints.io/react)
-- [React Cheat Sheet](https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-react-cheat-sheet-0-14-7.pdf) - egghead
-- [Redux Cheat Sheet](https://github.com/linkmesrl/react-journey-2016/blob/master/resources/egghead-redux-cheat-sheet-3-2-1.pdf) - egghead
 
 ## Articles
 
 - [Learn react](https://www.kirupa.com/react/index.htm) - Article series by Kirupa
 - [React](https://css-tricks.com/guides/react/) - Article Series by css-Tricks
+- [8 React.js Project Ideas to Help You Start Learning by Doing](https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/)
 - [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 - [React’s Five Fingers of Death. Master these five concepts, then master React.](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)
 - [8 Key React Component Decisions](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594)
@@ -27,5 +26,6 @@
 
 - English
 
+  - [Complete React Tutorial (with Redux)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG) - by _The Net Ninja_ on Youtube 📃.
   - [Building a chat app with React.js and Chatkit](https://scrimba.com/g/greactchatkit) - scrimba
-  - [Complete React Tutorial (with Redux)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG) - by _The Net Ninja_ on Youtube.
+  - [Realtime Chat App | React, GraphQL & Websockets](https://www.youtube.com/watch?v=E3NHd-PkLrQ)

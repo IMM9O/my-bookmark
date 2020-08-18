@@ -47,11 +47,16 @@
   - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
   - [Mozilla Service Worker Guid](https://serviceworke.rs/)
 
+- WebComponents
+
+
+- JavaScript Flavor
+
+
+
 ## Courses & Videos
 
 - English
 
-  - [Regular Expressions Demystified](https://www.youtube.com/playlist?list=PL55RiY5tL51ryV3MhCbH8bLl7O_RZGUUE) - playlist by _Academind_
-  - [Demystifying Regular Expressions](https://www.youtube.com/watch?v=EkluES9Rvak)
   - [JavaScript30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge.
   - [Introduction to TypeScript](https://scrimba.com/g/gintrototypescript) - scrimba
