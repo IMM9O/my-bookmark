@@ -4,6 +4,8 @@
 
 ## Bookmark
 
+- [indepth](https://indepth.dev/)
+
 ## Articles
 
 - [Top 8 Resources to Explore Angular 4](https://hackernoon.com/top-8-resources-to-explore-angular-4-ff2c1b42020a)
@@ -24,6 +26,7 @@
 - [OPTIMISING PERFORMANCE OF YOUR ENTERPRISE ANGULAR APPLICATION](https://ordina-jworks.github.io/angular/2017/04/04/optimising-performance-of-your-enterprise-angular-application.html)
 - [Catalysing your Angular 4 app Performance](https://medium.com/paramsingh-66174/catalysing-your-angular-4-app-performance-9211979075f6)
 - [Global Error Handling with Angular2+](https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c)
+- [The Last Guide For Angular Change Detection You'll Ever Need](https://www.mokkapps.de/blog/the-last-guide-for-angular-change-detection-you-will-ever-need/)
 
 ### Development
 

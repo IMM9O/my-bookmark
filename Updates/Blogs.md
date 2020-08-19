@@ -1,4 +1,6 @@
 - [WEB | Google Developers](https://developers.google.com/web/)
+- [Free Code Camp Guide](https://guide.freecodecamp.org/)
+- [Over API](http://overapi.com/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [w3schools](https://www.w3schools.com/)
 - [Tutorialzine](https://tutorialzine.com/)

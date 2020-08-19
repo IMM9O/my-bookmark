@@ -20,5 +20,9 @@
 - [What is the best way to 'master' HTML and CSS?](https://www.quora.com/What-is-the-best-way-to-master-HTML-and-CSS)
 - [How to quickly prototype apps with CSS Grid and CSS Variables](https://medium.freecodecamp.org/how-to-quickly-prototype-apps-with-css-grid-and-css-variables-8d3d96d68eaa)
 - [The Complete CSS Flex Box Tutorial](https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc)
+- [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
+- [Everything I Know About Style Guides, Design Systems, and Component Libraries](https://leerob.io/blog/style-guides-component-libraries-design-systems)
+- [Switch font color for different backgrounds with CSS](https://css-tricks.com/switch-font-color-for-different-backgrounds-with-css/)
+
 
 ## Courses & Videos

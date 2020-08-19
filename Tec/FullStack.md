@@ -4,11 +4,6 @@
 
 ## Guides & Cheat Sheets
 
-- References
-
-  - [Free Code Camp Guide](https://guide.freecodecamp.org/)
-  - [Over API](http://overapi.com/)
-
 - Resources
 
   - [Hackdesign](https://hackdesign.org) - An easy to follow design course for people who do amazing things.
@@ -18,6 +13,7 @@
   - [100+ FREE Resources to Learn Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
   - [200+ Best Free Tools & Resources for Front-End Web Developers — Medium](https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643#.oq3s5llo4)
   - [The Ultimate Guide to Learning Full Stack Web Development in 6 months, for \$30](https://codeburst.io/the-ultimate-guide-to-learning-full-stack-web-development-in-6-months-for-30-72b3854a7458)
+  - [Don’t be a Junior Developer: The Roadmap](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/?utm_source=medium&utm_medium=dont-be-junior-the-roadmap)
 
 - Guides
 

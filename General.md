@@ -1,5 +1,10 @@
 # General Software Topics
 
+## Career Advice
+
+- [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
+- [23 Alternative Career Paths that Software Developers Can Grow Into](https://www.freecodecamp.org/news/alternative-career-paths/)
+
 
 ## Design Patterns
 
