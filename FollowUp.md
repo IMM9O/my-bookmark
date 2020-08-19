@@ -2,25 +2,28 @@
 
 ## Web Development
 
-- 🎙[Syntax](https://syntax.fm/)
-- 📺[Scrimba](https://scrimba.com/)
-- 📺[egghead](https://egghead.io/)
+- RoadMaps
+
+| Ref/Year  | Traversy Media                                     | Academind                                        | state of js                        |
+|-----------|----------------------------------------------------|--------------------------------------------------|------------------------------------|
+| 2018      | [1](https://www.youtube.com/watch?v=Zftx68K-1D4)   | [1](https://www.youtube.com/watch?v=g13dSerjICk) | [1](https://2017.stateofjs.com/)   |
+| 2019      | [1](https://www.youtube.com/watch?v=UnTQVlqmDQ0)   | [1](https://www.youtube.com/watch?v=VLm3Y7Odb74) | [1](https://2018.stateofjs.com/)   |
+| 2020      | [1](https://www.youtube.com/watch?v=0pThnRneDjw)   | [1](https://www.youtube.com/watch?v=Pw8U9l8acPA) | [1](https://2019.stateofjs.com/)   |
+
+- 🎙  [Syntax](https://syntax.fm/)
+- 📺 [Scrimba](https://scrimba.com/)
+- 📺 [egghead](https://egghead.io/)
 - [Google Developers](https://developers.google.com/web/)
 - [Hacks Mozilla](https://hacks.mozilla.org/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [CSS Tricks](https://css-tricks.com/)
-- [Tutorialzine](https://tutorialzine.com/)
-- [SABE](https://sabe.io/)
 - [A List Apart](https://alistapart.com/)
-- [Site Point](https://www.sitepoint.com/)
-- [Hotjs](https://www.hotjs.net/)
-- [scotch.io](https://scotch.io/)
-- [coligo.io](https://coligo.io/)
-- [alligator.io](https://alligator.io/vuejs/)
-- [Tuts Plus](https://tutsplus.com/)
 - [Toptal Blog](https://www.toptal.com/blog)
-- [Airpair](https://www.airpair.com/)
-- [Monica](https://meowni.ca/)
+- [scotch.io](https://scotch.io/)
+- [alligator.io](https://alligator.io/)
+- [Tutorialzine](https://tutorialzine.com/)
+- [Tuts Plus](https://tutsplus.com/)
+
 
 ## Laravel
 
