@@ -1,6 +1,6 @@
 # My Bookmark 🔗🔗
 
-- [Algorithms & Design Patterns](Algorithms&DesignPatterns.md)
+- [General Software Topics](General.md)
 
 * Web Development
 
