@@ -1,21 +1,20 @@
 # General Software Topics
+> All Links related to development process like management, editor, IDE, git ...etc.
+
 
 ## Career Advice
 
 - [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
 - [23 Alternative Career Paths that Software Developers Can Grow Into](https://www.freecodecamp.org/news/alternative-career-paths/)
+- [13 Simple Rules for Good Coding (from my 15 years of experience)](https://hackernoon.com/few-simple-rules-for-good-coding-my-15-years-experience-96cb29d4acd9)
+- [Learn to Code: 13 Tips that Could Save You Years of Effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f)
+- [10 Steps to Plan Better so you can Write Less Code](https://medium.freecodecamp.org/10-steps-to-plan-better-so-you-can-write-less-code-ece655e03608)
+- [All I Really Need to Know About InfoSec, I learned from Mr. Robot](https://medium.freecodecamp.org/all-i-really-need-to-know-about-infosec-i-learned-from-mr-robot-7902cca6d729)
 
 
-## Design Patterns
+## GIT
 
-- [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
-- [Model-View-ViewModel (MVVM) Explained](https://www.codeproject.com/Articles/100175/Model-View-ViewModel-MVVM-Explained)
-- [What is the difference between MVC and MVVM? - stackoverflow](https://stackoverflow.com/questions/667781/what-is-the-difference-between-mvc-and-mvvm)
-- [What are MVP and MVC and what is the difference? - stackoverflow](https://stackoverflow.com/questions/2056/what-are-mvp-and-mvc-and-what-is-the-difference)
-- [What is the MVVM design pattern? - quora](https://www.quora.com/What-is-the-MVVM-design-pattern)
-- [The 7 Software “-ilities” You Need To Know](http://codesqueeze.com/the-7-software-ilities-you-need-to-know/)
-- [3 Key Software Principles You Must Understand](https://code.tutsplus.com/tutorials/3-key-software-principles-you-must-understand--net-25161)
-- [SOLID Principles : The Definitive Guide](https://android.jlelse.eu/solid-principles-the-definitive-guide-75e30a284dea)
+- [Learn Git in 15 Minutes - Tutorialzine](https://tutorialzine.com/2016/06/learn-git-in-30-minutes)
+- [Learn Git in 15 Minutes - Official Tutorial](https://try.github.io/levels/1/challenges/1)
+- [How To Use Git And GitHub](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLwygftUY318GeCz26jz45yuMWazLgJmxZ) - Udacity
 
-
-## Algorithms

@@ -1,14 +1,12 @@
 # My Bookmark 🔗🔗
 
 - [General Software Topics](General.md)
+- [Follow Up](FollowUp.md)
+- [Pin Picks](PinPicks.md)
 
 * Web Development
 
-  - [Full Stack](Tec/FullStack.md)
-
   - [FrontEnd Stack](Tec/FrontEnd.md)
-  - [HTML & CSS](Tec/HTML_CSS.md)
-  - [JavaScript](Tec/JavaScript.md)
 
   - [Angular](Tec/Angular.md) - Client Side JavaScript Framework.
   - [React](Tec/React.md) - Client Side JavaScript Framework.

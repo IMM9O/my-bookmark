@@ -1,14 +1,17 @@
-- [WEB | Google Developers](https://developers.google.com/web/)
-- [Free Code Camp Guide](https://guide.freecodecamp.org/)
-- [Over API](http://overapi.com/)
-- [MDN Web Docs](https://developer.mozilla.org/en-US/)
-- [w3schools](https://www.w3schools.com/)
+# Follow Up List
+
+## Web Development
+
+- 🎙[Syntax](https://syntax.fm/)
+- 📺[Scrimba](https://scrimba.com/)
+- 📺[egghead](https://egghead.io/)
+- [Google Developers](https://developers.google.com/web/)
+- [Hacks Mozilla](https://hacks.mozilla.org/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [CSS Tricks](https://css-tricks.com/)
 - [Tutorialzine](https://tutorialzine.com/)
 - [SABE](https://sabe.io/)
-- [Hacks Mozilla](https://hacks.mozilla.org/)
-- [CSS Tricks](https://css-tricks.com/)
 - [A List Apart](https://alistapart.com/)
-- [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Site Point](https://www.sitepoint.com/)
 - [Hotjs](https://www.hotjs.net/)
 - [scotch.io](https://scotch.io/)
@@ -18,10 +21,8 @@
 - [Toptal Blog](https://www.toptal.com/blog)
 - [Airpair](https://www.airpair.com/)
 - [Monica](https://meowni.ca/)
-- [BEST ONLINE COURSES](http://www.coursescoupons.com/)
-- [التراس حاسبات ومعلومات](https://www.ultrasfci.com/)
 
-# Laravel
+## Laravel
 
 - 📰 [Laravel News](https://laravel-news.com/) ☑️
 - 📰 [Mattstauffer Blog](https://mattstauffer.com/blog/)
@@ -34,7 +35,7 @@
 - 📺 [Laracasts](https://laracasts.com/) ☑️
 - 📺 [خدمات ويب](https://5dmat-web.com/)
 
-# Angular
+## Angular
 
 - 📰 [Angular Blog](https://blog.angular.io/) ☑️
 - 📰 [Mgechev](http://blog.mgechev.com/)
@@ -44,14 +45,14 @@
 - 📰 📺 [Angular University](https://angular-university.io/)
 - 📰 📺 [Angular FireBase](https://angularfirebase.com/lessons/)
 
-# Vuejs
+## VueJs
 
 - 📰 [Vue Mastery](https://medium.com/vue-mastery) ☑️
 - 📰 [Vuejs Developers](https://vuejsdevelopers.com/)
 - 📺 [Vue Mastery Courses](https://www.vuemastery.com/) ☑️
 - 📺 [Vueschool](https://vueschool.io/)
 
-# Ionic
+## Ionic
 
 - 📰 [Ionic Blog](http://blog.ionic.io/) ☑️
 - 📰 [devdactic](https://devdactic.com/devblog/)
@@ -60,3 +61,33 @@
 - 📰 [the polyglot developer](https://www.thepolyglotdeveloper.com/)
 - 📰 📺 [joshmorony](https://www.joshmorony.com/)
 - 📺 [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg) - 📹 Youtube Channel
+
+
+## Tech Communities in Egypt ( Facebook )
+
+- [Code Geist](https://www.facebook.com/CodeGeist.CG/)
+- [Product Guys](https://www.facebook.com/ProductGuys/)
+- [EGDroid](https://www.facebook.com/egdroid/)
+- [Ministry of Testing Cairo](https://www.facebook.com/ministryoftestcairo/)
+- [Geeks API](https://www.facebook.com/GeeksAPI/)
+- [SwiftyCamp](https://www.facebook.com/SwiftyCamp/)
+- [Swift Cairo](https://www.facebook.com/swiftcairo/)
+- [Tafra.io](https://www.facebook.com/tafraio/)
+- [Testing Geeks](https://www.facebook.com/EGTestingGeeks/)
+- [Egyptian Programmers - المبرمجون المصريون](https://www.facebook.com/EgyptianProgrammers/)
+- [Cairo Testing Meetup](https://www.facebook.com/cairotestingmeetup/)
+- [Agile Club](https://www.facebook.com/TheAgileClub/)
+- [Egypt Scrum Club](https://www.facebook.com/egyptscrumclub/)
+- [Ask Developer Podcast](https://www.facebook.com/askdeveloper/)
+- [Google Cloud Developers Community Egypt](https://www.facebook.com/GCDCEgypt/)
+- [GDG Cairo](https://www.facebook.com/GDGCairo/)
+- [Data Science عربي](https://www.facebook.com/DataScienceArabi/)
+- [Cairo AI](https://www.facebook.com/cairoaicommunity/)
+- [Egypt Game Developers](https://www.facebook.com/egyptgamedevs/)
+- [IGDA Egypt Chapter](https://www.facebook.com/IGDA.Egypt.Chapter/)
+- [S3Geeks](https://www.facebook.com/S3Geeks/)
+- [EgyptJS](https://www.facebook.com/EgyptJS/)
+- [Women Techmakers Cairo](https://www.facebook.com/WTMCairo/)
+- [Egyptian Geeks](https://www.facebook.com/groups/egyptian.geeks)
+- [Angular Army (ng-arab)](https://www.facebook.com/groups/angular.army)
+
