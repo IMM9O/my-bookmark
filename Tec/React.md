@@ -2,12 +2,12 @@
   <img width="400" src="https://cdn.worldvectorlogo.com/logos/react.svg"  alt="react logo">
 </p>
 
-## Bookmark
+### Bookmark
 
 - [How to Learn React — A roadmap from beginner to advanced](https://www.freecodecamp.org/news/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6/)
 - [React.js cheatsheet](https://devhints.io/react)
 
-## Articles
+### Articles
 
 - [Learn react](https://www.kirupa.com/react/index.htm) - Article series by Kirupa
 - [React](https://css-tricks.com/guides/react/) - Article Series by css-Tricks
@@ -24,7 +24,7 @@
 - [21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
 - [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://indepth.dev/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react/)
 
-## Courses & Videos
+### Courses & Videos
 
 - English
 

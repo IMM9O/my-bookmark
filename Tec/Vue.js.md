@@ -2,13 +2,13 @@
   <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Vue.js_Logo.svg"  alt="vuejs logo">
 </p>
 
-## Bookmark
+### Bookmark
 
 - [Vuejs Cheat Sheets](https://vuejs-tips.github.io/cheatsheet/)
 - [Vuex Cheat Sheets](https://vuejs-tips.github.io/vuex-cheatsheet/)
 - [The Vue Handbook](https://www.freecodecamp.org/news/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446/)
 
-## Articles
+### Articles
 
 - [Best Free Vue.js Learning Resources](http://whatpixel.com/vuejs-learning-resources/)
 - [Learn Vue](https://css-tricks.com/guides/vue/) - Article Series by css-Tricks
@@ -18,7 +18,7 @@
 - [Building Your First App With Vue.js](https://tutorialzine.com/2016/08/building-your-first-app-with-vue-js) - tutorialzine
 - [⭐️ Intro to Vuex and Accessing State](https://medium.com/vue-mastery/vuex-intro-tutorial-course-38ca0bca7ef4)
 
-## Courses & Videos
+### Courses & Videos
 
 - English
 

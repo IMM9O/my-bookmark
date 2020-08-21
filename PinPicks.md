@@ -5,7 +5,7 @@
 ⌛ All Links that worth my time every time ⌛
 </p>
 
-## Reference
+### Reference
 
 - [MDN Dev](https://developer.mozilla.org/en-US/)
 - [Google Dev](https://web.dev/)
@@ -16,18 +16,13 @@
 - [ES6 features](http://es6-features.org) - One site combines the most important features.
 - [ES2015+ cheatsheet](https://devhints.io/es6)
 
-
-## Comprehensive Guides
+### Resources
+> Links for comprehensive guides 🛣
 
 - [Hackdesign](https://hackdesign.org) - An easy to follow design course for people who do amazing things.
 - [HTML & CSS is Hard](https://internetingishard.com/html-and-css/) - A friendly web development tutorial for complete beginners.
 - [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)
 - [From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b)
-
-
-## Resources
-> Links to another links 🛣
-
 - [Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x) - Diagram by _LearnCode.academy_
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Github repository by _kamranahmedse_
 - [Grab Front End Guide](https://github.com/grab/front-end-guide) - Grap Roadmap
@@ -37,8 +32,7 @@
 - [The Ultimate Reading List for Developers](https://medium.com/@YogevSitton/the-ultimate-reading-list-for-developers-e96c832d9687)
 
 
-
-## Projects Ideas
+### Projects Ideas
 
 - [8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
 - [Here’s Yet Another List of Exciting Projects to Build](https://medium.com/better-programming/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d)
@@ -49,7 +43,7 @@
 - [Here’s yet another list of exciting projects to build](https://medium.freecodecamp.org/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d)
 - [8 React.js Project Ideas to Help You Start Learning by Doing](https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/)
 
-## EBooks
+### EBooks
 
 - [Apress](https://www.apress.com/gp/).
 - [Goal Kicker](http://goalkicker.com/)

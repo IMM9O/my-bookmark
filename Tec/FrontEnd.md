@@ -1,6 +1,6 @@
 <p align="center">All FrontEnd related topics</p>
 
-## HTML & CSS
+### HTML & CSS
 
 - [Flexbox Froggy](http://flexboxfroggy.com) - A game for learning CSS Flexbox.
 - [Grid Garden](http://cssgridgarden.com) - A game for learning CSS Grid layout.
@@ -15,12 +15,12 @@
 - [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
 - [Switch font color for different backgrounds with CSS](https://css-tricks.com/switch-font-color-for-different-backgrounds-with-css/)
 
-## UI/UX
+### UI/UX
 
 - [Everything I Know About Style Guides, Design Systems, and Component Libraries](https://leerob.io/blog/style-guides-component-libraries-design-systems)
 - [Best Practices for Search Results](https://uxplanet.org/best-practices-for-search-results-1bbed9d7a311)
 
-## JavaScript
+### JavaScript
 
 - [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
 - [Top JavaScript Libraries & Tech to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
@@ -60,37 +60,37 @@
 - [JavaScript30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge.
 - [Introduction to TypeScript](https://scrimba.com/g/gintrototypescript) - scrimba
 
-## Web Components
+### Web Components
 
 
 
-## PWA
+### PWA
 
 - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 - [Mozilla Service Worker Guid](https://serviceworke.rs/)
 
-## Performance
+### Performance
 
 - [Front-End Performance Checklist](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
 - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
-## Localization
+### Localization
 
 
 
-## Accessibility
+### Accessibility
 
 
 
-## Security
+### Security
 
 
 
-## Reactivity
+### Reactivity
 
 - [Change And Its Detection In JavaScript Frameworks](https://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)
 
-## Design Patterns
+### Design Patterns
 
 - [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
 - [Model-View-ViewModel (MVVM) Explained](https://www.codeproject.com/Articles/100175/Model-View-ViewModel-MVVM-Explained)
@@ -101,6 +101,6 @@
 - [3 Key Software Principles You Must Understand](https://code.tutsplus.com/tutorials/3-key-software-principles-you-must-understand--net-25161)
 - [SOLID Principles : The Definitive Guide](https://android.jlelse.eu/solid-principles-the-definitive-guide-75e30a284dea)
 
-## Algorithms
+### Algorithms
 
 

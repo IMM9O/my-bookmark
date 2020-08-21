@@ -2,7 +2,7 @@
   <img width="400" src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png"  alt="laravel logo">
 </p>
 
-## Articles
+### Articles
 
 - [2019 in Review](https://laravel-news.com/2019-in-review)
 
@@ -40,7 +40,7 @@
   - [Top 10 essential laravel packages in 2020](https://laravelarticle.com/essential-laravel-packages)
   - [Using Laravel Mix with webpack for All Your Assets](https://scotch.io/tutorials/using-laravel-mix-with-webpack-for-all-your-assets)
 
-## Courses & Videos
+### Courses & Videos
 
 - English
 

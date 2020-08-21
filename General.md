@@ -2,7 +2,7 @@
 > All Links related to development process like management, editor, IDE, git ...etc.
 
 
-## Career Advice
+### Career Advice
 
 - [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
 - [23 Alternative Career Paths that Software Developers Can Grow Into](https://www.freecodecamp.org/news/alternative-career-paths/)
@@ -12,7 +12,7 @@
 - [All I Really Need to Know About InfoSec, I learned from Mr. Robot](https://medium.freecodecamp.org/all-i-really-need-to-know-about-infosec-i-learned-from-mr-robot-7902cca6d729)
 
 
-## GIT
+### GIT
 
 - [Learn Git in 15 Minutes - Tutorialzine](https://tutorialzine.com/2016/06/learn-git-in-30-minutes)
 - [Learn Git in 15 Minutes - Official Tutorial](https://try.github.io/levels/1/challenges/1)

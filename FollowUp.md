@@ -1,6 +1,6 @@
 # Follow Up List
 
-## Web Development
+### Web Development
 
 - RoadMaps
 
@@ -26,15 +26,13 @@
 - [alligator.io](https://alligator.io/)
 - [Tuts Plus](https://tutsplus.com/)
 
-## Updates
+### Updates
 > All tools or apps upgrade features like(Chrome Dev Tool, Firefox Dev Tool, VS Code)
 
 - [Chrome Dev tools](https://developers.google.com/web/updates)
 - [VS Code](https://code.visualstudio.com/updates)
 
-
-
-## Laravel
+### Laravel
 
 - 📰 [Laravel News](https://laravel-news.com/) ☑️
 - 📰 [Mattstauffer Blog](https://mattstauffer.com/blog/)
@@ -47,7 +45,7 @@
 - 📺 [Laracasts](https://laracasts.com/) ☑️
 - 📺 [خدمات ويب](https://5dmat-web.com/)
 
-## Angular
+### Angular
 
 - 📰 [Angular Blog](https://blog.angular.io/) ☑️
 - 📰 [Mgechev](http://blog.mgechev.com/)
@@ -57,14 +55,14 @@
 - 📰 📺 [Angular University](https://angular-university.io/)
 - 📰 📺 [Angular FireBase](https://angularfirebase.com/lessons/)
 
-## VueJs
+### VueJs
 
 - 📰 [Vue Mastery](https://medium.com/vue-mastery) ☑️
 - 📰 [Vuejs Developers](https://vuejsdevelopers.com/)
 - 📺 [Vue Mastery Courses](https://www.vuemastery.com/) ☑️
 - 📺 [Vueschool](https://vueschool.io/)
 
-## Ionic
+### Ionic
 
 - 📰 [Ionic Blog](http://blog.ionic.io/) ☑️
 - 📰 [devdactic](https://devdactic.com/devblog/)
@@ -75,7 +73,7 @@
 - 📺 [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg) - 📹 Youtube Channel
 
 
-## Tech Communities in Egypt ( Facebook )
+### Tech Communities in Egypt ( Facebook )
 
 - [Code Geist](https://www.facebook.com/CodeGeist.CG/)
 - [Product Guys](https://www.facebook.com/ProductGuys/)
