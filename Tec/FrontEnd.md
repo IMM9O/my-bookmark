@@ -9,14 +9,16 @@
 - [CheckiO](https://checkio.org)
 - [Flukeout (CSS exercises)](http://flukeout.github.io)
 - [CSS Zen Garden](http://www.csszengarden.com) - Unleash your CSS powers and create a beautiful stylesheet for this site.
-- [All CSS Zen Garden Submissions](http://www.mezzoblue.com/zengarden/alldesigns/)
 
-- [What is the best way to 'master' HTML and CSS?](https://www.quora.com/What-is-the-best-way-to-master-HTML-and-CSS)
 - [How to quickly prototype apps with CSS Grid and CSS Variables](https://medium.freecodecamp.org/how-to-quickly-prototype-apps-with-css-grid-and-css-variables-8d3d96d68eaa)
 - [The Complete CSS Flex Box Tutorial](https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc)
 - [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
-- [Everything I Know About Style Guides, Design Systems, and Component Libraries](https://leerob.io/blog/style-guides-component-libraries-design-systems)
 - [Switch font color for different backgrounds with CSS](https://css-tricks.com/switch-font-color-for-different-backgrounds-with-css/)
+
+## UI/UX
+
+- [Everything I Know About Style Guides, Design Systems, and Component Libraries](https://leerob.io/blog/style-guides-component-libraries-design-systems)
+- [Best Practices for Search Results](https://uxplanet.org/best-practices-for-search-results-1bbed9d7a311)
 
 ## JavaScript
 
@@ -61,27 +63,27 @@
 ## Web Components
 
 
+
 ## PWA
 
 - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 - [Mozilla Service Worker Guid](https://serviceworke.rs/)
-
-
-## Localization
-
-
-## Accessibility
-
-- [Best Practices for Search Results](https://uxplanet.org/best-practices-for-search-results-1bbed9d7a311)
-
 
 ## Performance
 
 - [Front-End Performance Checklist](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
 - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
+## Localization
+
+
+
+## Accessibility
+
+
 
 ## Security
+
 
 
 ## Reactivity
@@ -99,6 +101,6 @@
 - [3 Key Software Principles You Must Understand](https://code.tutsplus.com/tutorials/3-key-software-principles-you-must-understand--net-25161)
 - [SOLID Principles : The Definitive Guide](https://android.jlelse.eu/solid-principles-the-definitive-guide-75e30a284dea)
 
-
 ## Algorithms
+
 

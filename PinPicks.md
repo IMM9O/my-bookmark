@@ -7,16 +7,14 @@
 
 ## Reference
 
-- [Over API](http://overapi.com/)
-- [Free Code Camp Guide](https://guide.freecodecamp.org/)
 - [MDN Dev](https://developer.mozilla.org/en-US/)
 - [Google Dev](https://web.dev/)
+- [Google Developers](https://developers.google.com/web/fundamentals)
+- [SABE](https://sabe.io/)
 - [CSS Reference](http://cssreference.io/)
 - [HTML Reference](http://htmlreference.io/)
 - [ES6 features](http://es6-features.org) - One site combines the most important features.
 - [ES2015+ cheatsheet](https://devhints.io/es6)
-- [SABE](https://sabe.io/)
-- [w3schools](https://www.w3schools.com/)
 
 
 ## Comprehensive Guides
@@ -44,12 +42,12 @@
 
 - [8 Crazy Ideas For Building a Web Site](https://medium.com/@kevink/8-crazy-ideas-for-building-a-web-site-a25b3f69c517)
 - [Here’s Yet Another List of Exciting Projects to Build](https://medium.com/better-programming/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d)
-
 - [6 Absurd Ideas For Building Your First Web App](https://medium.freecodecamp.org/6-absurd-ideas-for-building-your-first-web-application-24afca35e519)
 - [The secret to being a top developer is building things! Here’s a list of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 - [✅ Every time you build a to-do list app, a puppy 🐕 dies 😢](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d)
 - [Want to build something fun? Here’s a list of sample web app ideas.](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
 - [Here’s yet another list of exciting projects to build](https://medium.freecodecamp.org/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d)
+- [8 React.js Project Ideas to Help You Start Learning by Doing](https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/)
 
 ## EBooks
 

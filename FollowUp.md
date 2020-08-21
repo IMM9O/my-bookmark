@@ -13,16 +13,25 @@
 - 🎙  [Syntax](https://syntax.fm/)
 - 📺 [Scrimba](https://scrimba.com/)
 - 📺 [egghead](https://egghead.io/)
-- [Google Developers](https://developers.google.com/web/)
-- [Hacks Mozilla](https://hacks.mozilla.org/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
+- [InDepth](https://indepth.dev/)
+- [Bites & Pieces](https://blog.bitsrc.io/)
+- [Free Code Camp](https://www.freecodecamp.org/news/)
 - [CSS Tricks](https://css-tricks.com/)
+- [Hacks Mozilla](https://hacks.mozilla.org/)
+- [Tutorialzine](https://tutorialzine.com/)
 - [A List Apart](https://alistapart.com/)
 - [Toptal Blog](https://www.toptal.com/blog)
 - [scotch.io](https://scotch.io/)
 - [alligator.io](https://alligator.io/)
-- [Tutorialzine](https://tutorialzine.com/)
 - [Tuts Plus](https://tutsplus.com/)
+
+## Updates
+> All tools or apps upgrade features like(Chrome Dev Tool, Firefox Dev Tool, VS Code)
+
+- [Chrome Dev tools](https://developers.google.com/web/updates)
+- [VS Code](https://code.visualstudio.com/updates)
+
 
 
 ## Laravel
