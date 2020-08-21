@@ -1,19 +1,18 @@
-# My Bookmark 🔗🔗
+# My Bookmark 🔗
 
 - [General Software Topics](General.md)
-- [Follow Up](FollowUp.md)
+- [FrontEnd Stack](FrontEnd.md)
 - [Pin Picks](PinPicks.md)
+- [Follow Up](FollowUp.md)
 
-* Web Development
+* Frameworks
 
-  - [FrontEnd Stack](Tec/FrontEnd.md)
+  - [Angular](Frameworks/Angular.md) - Client Side JavaScript Framework.
+  - [React](Frameworks/React.md) - Client Side JavaScript Framework.
+  - [Vue](Frameworks/Vue.js.md) - Client Side JavaScript Framework.
 
-  - [Angular](Tec/Angular.md) - Client Side JavaScript Framework.
-  - [React](Tec/React.md) - Client Side JavaScript Framework.
-  - [Vue](Tec/Vue.js.md) - Client Side JavaScript Framework.
-
-  - [Laravel](Tec/Laravel.md) - Server Side PHP Framework.
-  - [WordPress](Tec/WordPress.md) - CMS Built with php.
+  - [Laravel](Frameworks/Laravel.md) - Server Side PHP Framework.
+  - [WordPress](Frameworks/WordPress.md) - CMS Built with php.
 
 * Tools
 
