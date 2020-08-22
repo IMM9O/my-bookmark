@@ -10,6 +10,7 @@
 - [MDN Dev](https://developer.mozilla.org/en-US/)
 - [Google Dev](https://web.dev/)
 - [Google Developers](https://developers.google.com/web/fundamentals)
+- [JavaScript Info](https://javascript.info/)
 - [SABE](https://sabe.io/)
 - [CSS Reference](http://cssreference.io/)
 - [HTML Reference](http://htmlreference.io/)
@@ -23,6 +24,7 @@
 - [HTML & CSS is Hard](https://internetingishard.com/html-and-css/) - A friendly web development tutorial for complete beginners.
 - [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)
 - [From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b)
+- [The Ultimate Guide to Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html)
 - [Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x) - Diagram by _LearnCode.academy_
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Github repository by _kamranahmedse_
 - [Grab Front End Guide](https://github.com/grab/front-end-guide) - Grap Roadmap

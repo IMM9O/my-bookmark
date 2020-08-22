@@ -2,17 +2,15 @@
   <img width="400" src="https://angular.io/assets/images/logos/angular/angular.svg"  alt="angular logo">
 </p>
 
-### Bookmark
 
-- [indepth](https://indepth.dev/)
-
-### Articles
+### Resources
+> Links for comprehensive guides 🛣
 
 - [Top 8 Resources to Explore Angular 4](https://hackernoon.com/top-8-resources-to-explore-angular-4-ff2c1b42020a)
 - [30 Learning Resources For Mastering Angular 2](https://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2)
 - [Top 10 Angular Tutorials, Community Blogs and Podcasts](http://blog.angular-university.io/top-10-angular-2-tutorials-blogs-and-podcasts/)
 
-#### Architecture & Performance
+### Architecture & Performance
 
 - [Best practices for a clean and performant Angular application](https://medium.freecodecamp.org/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f)
 - [Angular Practice Exercises](https://jcoop.io/angular-practice-exercises/)
@@ -28,18 +26,21 @@
 - [Global Error Handling with Angular2+](https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c)
 - [The Last Guide For Angular Change Detection You'll Ever Need](https://www.mokkapps.de/blog/the-last-guide-for-angular-change-detection-you-will-ever-need/)
 
-#### Development
+### Development
+> Tools & Setup (Angular CLI, VS Code and angular de tool)
 
 - [Debugging Angular app using Visual Studio Code](https://medium.com/@auchenberg/super-charged-live-editing-and-javascript-debugging-for-angular-using-visual-studio-code-c29da251ec71)
-- [Angular - Shortcut to Importing Styles Files in Components](https://scotch.io/tutorials/angular-shortcut-to-importing-styles-files-in-components)
 - [Enable HMR in Angular CLI apps](https://medium.com/@beeman/tutorial-enable-hmr-in-angular-cli-apps-1b0d13b80130)
-- [Configure a proxy for your API calls with Angular CLI](https://juristr.com/blog/2016/11/configure-proxy-api-angular-cli/)
-- [Deploying an i18n Angular app with angular-cli](https://medium.com/@feloy/deploying-an-i18n-angular-app-with-angular-cli-fc788f17e358)
+- [Deploying an i18n Angular app with Angular CLI](https://medium.com/@feloy/deploying-an-i18n-angular-app-with-angular-cli-fc788f17e358)
 - [6 Best Practices & Pro Tips when using Angular CLI](https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81)
+- [Configure a proxy for your API calls with Angular CLI](https://juristr.com/blog/2016/11/configure-proxy-api-angular-cli/)
 - [Analyzing bundle size with the Angular CLI and Webpack](https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack)
+- [Short TypeScript Import Paths in Angular9](https://blog.bitsrc.io/short-typescript-import-paths-in-angular9-22ce34bd424d)
+- [Angular - Shortcut to Importing Styles Files in Components](https://scotch.io/tutorials/angular-shortcut-to-importing-styles-files-in-components)
 
-#### Templates
+### Components
 
+- [Introducing Advanced Angular Component Patterns](https://medium.com/angular-in-depth/introducing-advanced-angular-component-patterns-13e102e6bbfc)
 - [Angular ng-template, ng-container and ngTemplateOutlet - The Complete Guide](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
 - [Angular ng-content and Content Projection: The Complete Guide](https://blog.angular-university.io/angular-ng-content/)
 - [Angular2 Tips & Tricks](https://medium.com/@amcdnl/angular2-things-you-might-not-know-439ce70d335a)
@@ -48,42 +49,42 @@
 - [ANGULAR 2 BEST PRACTICES: CHANGE DETECTOR PERFORMANCE](https://www.lucidchart.com/techblog/2016/05/04/angular-2-best-practices-change-detector-performance/)
 - [Angular OnPush Change Detection and Component Design - Avoid Common Pitfalls](http://blog.angular-university.io/onpush-change-detection-how-it-works/)
 - [These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
-
-#### Styling
-
 - [Angular ngClass and ngStyle: The Complete Guide](https://blog.angular-university.io/angular-ngclass-ngstyle/)
 - [Angular :host, :host-context, ::ng-deep - The Complete Guide](https://blog.angular-university.io/angular-host-context/)
 
-#### State Management
+### Complier
+
+
+### State Management
 
 - [Managing State in Angular Applications](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f)
 - [Using NgRx 4 to Manage State in Angular Applications](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)
 
-#### Forms
+### Forms
 
 - [Angular Reactive Forms: trigger validation on submit](https://loiane.com/2017/08/angular-reactive-forms-trigger-validation-on-submit/)
 
-#### Routing
+### Routing
 
 - [Angular— Animating Router transitions (v4+)](https://medium.com/google-developer-experts/angular-2-animate-router-transitions-6de179e00204)
 
-#### API Clients ( Http, Socket and GraphQL )
+### API Clients ( Http, Socket and GraphQL )
 
 - [Angular 4.3 HttpClient (Accessing REST Web Services With Angular)](https://medium.com/codingthesmartway-com-blog/angular-4-3-httpclient-accessing-rest-web-services-with-angular-2305b8fd654b)
 - [Angular Authentication: Using the Http Client and Http Interceptors](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)
 - [Angular Authentication: Using Route Guards](https://ryanchenkie.com/angular-authentication-using-route-guards)
 
-#### SSR ( Server Sde Render )
+### SSR ( Server Sde Render )
 
-#### Testing
+### Testing
 
 - [Angular—  Testing Guide (v4+)](https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0)
 
-#### Deploying
+### Deploying
 
 - [Deploying an Angular CLI App to Production with Firebase](https://scotch.io/tutorials/deploying-an-angular-cli-app-to-production-with-firebase)
 
-#### Connecting with third-party services
+### Connecting with third-party services
 
 - [Integrating Google Analytics With Angular 2+](https://scotch.io/tutorials/integrating-google-analytics-with-angular-2)
 
