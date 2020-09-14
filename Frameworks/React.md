@@ -5,17 +5,14 @@
 ### Resources
 > Links for comprehensive guides 🛣
 
-- [How to Learn React — A roadmap from beginner to advanced](https://www.freecodecamp.org/news/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6/)
 - [React.js cheatsheet](https://devhints.io/react)
-
-### Development
-> Tools & Setup (create-react-app, react dev tool)
-
-- [Live edit and debug your React apps directly from VS Code — without leaving the editor 🔥 🎉🎈](https://medium.com/@auchenberg/live-edit-and-debug-your-react-apps-directly-from-vs-code-without-leaving-the-editor-3da489ed905f)
+- [The React Handbook](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/)
 
 
 ### Articles
 
+- [How to Learn React — A roadmap from beginner to advanced](https://www.freecodecamp.org/news/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6/)
+- [Live edit and debug your React apps directly from VS Code — without leaving the editor 🔥 🎉🎈](https://medium.com/@auchenberg/live-edit-and-debug-your-react-apps-directly-from-vs-code-without-leaving-the-editor-3da489ed905f)
 - [Learn react](https://www.kirupa.com/react/index.htm) - Article series by Kirupa
 - [React](https://css-tricks.com/guides/react/) - Article Series by css-Tricks
 - [8 React.js Project Ideas to Help You Start Learning by Doing](https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/)
