@@ -38,7 +38,7 @@
 - [Short TypeScript Import Paths in Angular9](https://blog.bitsrc.io/short-typescript-import-paths-in-angular9-22ce34bd424d)
 - [Angular - Shortcut to Importing Styles Files in Components](https://scotch.io/tutorials/angular-shortcut-to-importing-styles-files-in-components)
 
-### Components
+### UI Reusability (Components, Directives and Pipes)
 
 - [Introducing Advanced Angular Component Patterns](https://medium.com/angular-in-depth/introducing-advanced-angular-component-patterns-13e102e6bbfc)
 - [Angular ng-template, ng-container and ngTemplateOutlet - The Complete Guide](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
@@ -52,29 +52,33 @@
 - [Angular ngClass and ngStyle: The Complete Guide](https://blog.angular-university.io/angular-ngclass-ngstyle/)
 - [Angular :host, :host-context, ::ng-deep - The Complete Guide](https://blog.angular-university.io/angular-host-context/)
 
-### Complier
+### Forms
+
+- [Angular Reactive Forms: trigger validation on submit](https://loiane.com/2017/08/angular-reactive-forms-trigger-validation-on-submit/)
 
 
-### State Management
+### API Clients (Http, Socket, GraphQL and 3rd-party services)
+
+- [Angular 4.3 HttpClient (Accessing REST Web Services With Angular)](https://medium.com/codingthesmartway-com-blog/angular-4-3-httpclient-accessing-rest-web-services-with-angular-2305b8fd654b)
+- [Angular Authentication: Using the Http Client and Http Interceptors](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)
+- [Angular Authentication: Using Route Guards](https://ryanchenkie.com/angular-authentication-using-route-guards)
+- [Integrating Google Analytics With Angular 2+](https://scotch.io/tutorials/integrating-google-analytics-with-angular-2)
+
+
+### State Management (ngrx)
 
 - [Managing State in Angular Applications](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f)
 - [Using NgRx 4 to Manage State in Angular Applications](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)
 
-### Forms
-
-- [Angular Reactive Forms: trigger validation on submit](https://loiane.com/2017/08/angular-reactive-forms-trigger-validation-on-submit/)
 
 ### Routing
 
 - [Angular— Animating Router transitions (v4+)](https://medium.com/google-developer-experts/angular-2-animate-router-transitions-6de179e00204)
 
-### API Clients ( Http, Socket and GraphQL )
 
-- [Angular 4.3 HttpClient (Accessing REST Web Services With Angular)](https://medium.com/codingthesmartway-com-blog/angular-4-3-httpclient-accessing-rest-web-services-with-angular-2305b8fd654b)
-- [Angular Authentication: Using the Http Client and Http Interceptors](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)
-- [Angular Authentication: Using Route Guards](https://ryanchenkie.com/angular-authentication-using-route-guards)
+### Server Sde Render (SSR)
 
-### SSR ( Server Sde Render )
+### Static Site Generator (SSG)
 
 ### Testing
 
@@ -84,9 +88,6 @@
 
 - [Deploying an Angular CLI App to Production with Firebase](https://scotch.io/tutorials/deploying-an-angular-cli-app-to-production-with-firebase)
 
-### Connecting with third-party services
-
-- [Integrating Google Analytics With Angular 2+](https://scotch.io/tutorials/integrating-google-analytics-with-angular-2)
 
 ### Courses & Videos
 
