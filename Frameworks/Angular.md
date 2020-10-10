@@ -10,23 +10,9 @@
 - [30 Learning Resources For Mastering Angular 2](https://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2)
 - [Top 10 Angular Tutorials, Community Blogs and Podcasts](http://blog.angular-university.io/top-10-angular-2-tutorials-blogs-and-podcasts/)
 
-### Architecture & Performance (PWA, SSR and SSG)
-
-- [Best practices for a clean and performant Angular application](https://medium.freecodecamp.org/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f)
-- [Angular Practice Exercises](https://jcoop.io/angular-practice-exercises/)
-- [Scalable Single-Page Application Architecture](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
-- [Building maintainable Angular applications](https://medium.com/curated-by-versett/building-maintainable-angular-2-applications-5b9ec4b463a1)
-- [Best-practices learnt from delivering a quality Angular4 application](https://hackernoon.com/best-practices-learnt-from-delivering-a-quality-angular4-application-2cd074ea53b3)
-- [Angular best practices](https://docs.google.com/presentation/d/1dlEE3JMmFtsb1FdFmxhj-vxEfWPfDVp5pXf-YbqAj8o/preview?slide=id.p)
-- [Angular performance checklist](https://github.com/mgechev/angular-performance-checklist)
-- [3 Tips for Angular Runtime Performance from the Real World](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e)
-- [Angular Runtime Performance Guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/)
-- [OPTIMISING PERFORMANCE OF YOUR ENTERPRISE ANGULAR APPLICATION](https://ordina-jworks.github.io/angular/2017/04/04/optimising-performance-of-your-enterprise-angular-application.html)
-- [Catalysing your Angular 4 app Performance](https://medium.com/paramsingh-66174/catalysing-your-angular-4-app-performance-9211979075f6)
-- [Global Error Handling with Angular2+](https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c)
-- [The Last Guide For Angular Change Detection You'll Ever Need](https://www.mokkapps.de/blog/the-last-guide-for-angular-change-detection-you-will-ever-need/)
-
-### UI/UX (Components, Directives, Pipes, styles, forms, animation, routing, i18n and a11y)
+### The core
+> Covering all core feature for angular app
+> Components, Templates & Layout composition, styles, forms, animation, routing, i18n and a11y
 
 - [Introducing Advanced Angular Component Patterns](https://medium.com/angular-in-depth/introducing-advanced-angular-component-patterns-13e102e6bbfc)
 - [Angular ng-template, ng-container and ngTemplateOutlet - The Complete Guide](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
@@ -42,8 +28,9 @@
 - [Angular Reactive Forms: trigger validation on submit](https://loiane.com/2017/08/angular-reactive-forms-trigger-validation-on-submit/)
 - [Angular— Animating Router transitions (v4+)](https://medium.com/google-developer-experts/angular-2-animate-router-transitions-6de179e00204)
 
-### Data access layer
-> State Management (Http, Socket, GraphQL, ngrx, akita, ngxs, ...etc)
+### State Management
+> Data fetching: Http, Socket and GraphQL
+> Date Stores: ngrx, akita, ngxs, ...etc
 
 - [Angular 4.3 HttpClient (Accessing REST Web Services With Angular)](https://medium.com/codingthesmartway-com-blog/angular-4-3-httpclient-accessing-rest-web-services-with-angular-2305b8fd654b)
 - [Angular Authentication: Using the Http Client and Http Interceptors](https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8)
@@ -52,9 +39,26 @@
 - [Managing State in Angular Applications](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f)
 - [Using NgRx 4 to Manage State in Angular Applications](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)
 
+### Architecture & Performance
+> Covering topics like render large list, code splitting & lazy loading, PWA, SSR and SSG
 
-### Static analytics (Testing, Debugging, Linting, Formating, ...etc)
-> All tools that won't effect the output production code
+- [Best practices for a clean and performant Angular application](https://medium.freecodecamp.org/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f)
+- [Angular Practice Exercises](https://jcoop.io/angular-practice-exercises/)
+- [Scalable Single-Page Application Architecture](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
+- [Building maintainable Angular applications](https://medium.com/curated-by-versett/building-maintainable-angular-2-applications-5b9ec4b463a1)
+- [Best-practices learnt from delivering a quality Angular4 application](https://hackernoon.com/best-practices-learnt-from-delivering-a-quality-angular4-application-2cd074ea53b3)
+- [Angular best practices](https://docs.google.com/presentation/d/1dlEE3JMmFtsb1FdFmxhj-vxEfWPfDVp5pXf-YbqAj8o/preview?slide=id.p)
+- [Angular performance checklist](https://github.com/mgechev/angular-performance-checklist)
+- [3 Tips for Angular Runtime Performance from the Real World](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e)
+- [Angular Runtime Performance Guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/)
+- [OPTIMISING PERFORMANCE OF YOUR ENTERPRISE ANGULAR APPLICATION](https://ordina-jworks.github.io/angular/2017/04/04/optimising-performance-of-your-enterprise-angular-application.html)
+- [Catalysing your Angular 4 app Performance](https://medium.com/paramsingh-66174/catalysing-your-angular-4-app-performance-9211979075f6)
+- [Global Error Handling with Angular2+](https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c)
+- [The Last Guide For Angular Change Detection You'll Ever Need](https://www.mokkapps.de/blog/the-last-guide-for-angular-change-detection-you-will-ever-need/)
+
+
+### Static analytics
+> All tools that won't affect the production code: CLI, Testing, Debugging, Linting, Formating, ...etc
 
 - [Angular—  Testing Guide (v4+)](https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0)
 - [Debugging Angular app using Visual Studio Code](https://medium.com/@auchenberg/super-charged-live-editing-and-javascript-debugging-for-angular-using-visual-studio-code-c29da251ec71)
