@@ -25,6 +25,7 @@
 - [scotch.io](https://scotch.io/)
 - [alligator.io](https://alligator.io/)
 - [Tuts Plus](https://tutsplus.com/)
+- [Log rocket blog](https://blog.logrocket.com/)
 
 ### Updates
 > All tools or apps upgrade features like(Chrome Dev Tool, Firefox Dev Tool, VS Code)
@@ -32,18 +33,11 @@
 - [Chrome Dev tools](https://developers.google.com/web/updates)
 - [VS Code](https://code.visualstudio.com/updates)
 
-### Laravel
+## React
 
-- 📰 [Laravel News](https://laravel-news.com/) ☑️
-- 📰 [Mattstauffer Blog](https://mattstauffer.com/blog/)
-- 📰 [Freek.dev](https://freek.dev/)
-- 📰 [Laravel Article](https://laravelarticle.com/)
-- 📰 [Laravel Tricks](https://laravel-tricks.com/)
-- 📰 [Laravel Recipes](http://laravel-recipes.com/)
-- 📰 [Laravel Daily Team](https://laraveldaily.com/)
-- 📰 [Just Laravel](http://justlaravel.com/)
-- 📺 [Laracasts](https://laracasts.com/) ☑️
-- 📺 [خدمات ويب](https://5dmat-web.com/)
+- 📰 [React Blog](https://reactjs.org/blog/) ☑️
+- 📰 [Kent C. Dodds's Blog](https://kentcdodds.com/)
+- 📰 [Epic React](https://epicreact.dev/articles)
 
 ### Angular
 
@@ -58,9 +52,22 @@
 ### VueJs
 
 - 📰 [Vue Mastery](https://medium.com/vue-mastery) ☑️
-- 📰 [Vuejs Developers](https://vuejsdevelopers.com/)
 - 📺 [Vue Mastery Courses](https://www.vuemastery.com/) ☑️
 - 📺 [Vueschool](https://vueschool.io/)
+- 📰 [Vuejs Developers](https://vuejsdevelopers.com/)
+
+### Laravel
+
+- 📺 [Laracasts](https://laracasts.com/) ☑️
+- 📰 [Laravel News](https://laravel-news.com/) ☑️
+- 📰 [Mattstauffer Blog](https://mattstauffer.com/blog/)
+- 📰 [Freek.dev](https://freek.dev/)
+- 📰 [Laravel Article](https://laravelarticle.com/)
+- 📰 [Laravel Tricks](https://laravel-tricks.com/)
+- 📰 [Laravel Recipes](http://laravel-recipes.com/)
+- 📰 [Laravel Daily Team](https://laraveldaily.com/)
+- 📰 [Just Laravel](http://justlaravel.com/)
+- 📺 [خدمات ويب](https://5dmat-web.com/)
 
 ### Ionic
 

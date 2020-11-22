@@ -30,7 +30,7 @@
 ### Courses & Videos
 
 - [Why 43% of Front-End Developers want to learn Vue.js](https://medium.com/vue-mastery/why-43-of-front-end-developers-want-to-learn-vue-js-7f23348bc5be)
-- [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) - laracasts
+- [Modern Frontend with Vue.js](https://www.youtube.com/watch?v=D_z-RAweP1k) - Evan You - Laracon EU 2016
 - [Learn Vuejs](https://scrimba.com/g/glearnvue) - scrimba
+- [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) - laracasts
 - [Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) - by _The Net Ninja_ on Youtube.
-- [Modern Frontend with Vue.js ](https://www.youtube.com/watch?v=D_z-RAweP1k) - Evan You - Laracon EU 2016

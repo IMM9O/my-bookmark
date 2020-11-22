@@ -42,7 +42,6 @@
 ### Architecture & Performance
 > Covering topics like render large list, code splitting & lazy loading, PWA, SSR and SSG
 
-- [Best practices for a clean and performant Angular application](https://medium.freecodecamp.org/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f)
 - [Angular Practice Exercises](https://jcoop.io/angular-practice-exercises/)
 - [Scalable Single-Page Application Architecture](http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
 - [Building maintainable Angular applications](https://medium.com/curated-by-versett/building-maintainable-angular-2-applications-5b9ec4b463a1)
@@ -55,6 +54,7 @@
 - [Catalysing your Angular 4 app Performance](https://medium.com/paramsingh-66174/catalysing-your-angular-4-app-performance-9211979075f6)
 - [Global Error Handling with Angular2+](https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c)
 - [The Last Guide For Angular Change Detection You'll Ever Need](https://www.mokkapps.de/blog/the-last-guide-for-angular-change-detection-you-will-ever-need/)
+= [Best practices for a clean and performant Angular application](https://www.freecodecamp.org/news/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f/)
 
 
 ### Static analytics

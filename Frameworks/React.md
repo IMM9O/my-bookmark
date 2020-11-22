@@ -49,7 +49,4 @@
 
 - [Complete React Tutorial (with Redux)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG) - by _The Net Ninja_ on Youtube 📃.
 - [Building a chat app with React.js and Chatkit](https://scrimba.com/g/greactchatkit) - scrimba
-- [Realtime Chat App | React, GraphQL & Websockets](https://www.youtube.com/watch?v=E3NHd-PkLrQ)
-- [Building a Netflix Clone - React Tutorial - Styled Components - Firebase (Firestore & Auth)](https://www.youtube.com/watch?v=x_EEwGe-a9o)
-- [🔴 Build a Discord clone with REACT.JS for beginners! (With REDUX)](https://www.youtube.com/watch?v=zc1loX80TX8)
-- 
+
