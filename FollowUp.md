@@ -2,22 +2,15 @@
 
 ### Web Development
 
-- RoadMaps
-
-| Ref/Year  | Traversy Media                                     | Academind                                        | state of js                        |
-|-----------|----------------------------------------------------|--------------------------------------------------|------------------------------------|
-| 2018      | [1](https://www.youtube.com/watch?v=Zftx68K-1D4)   | [1](https://www.youtube.com/watch?v=g13dSerjICk) | [1](https://2017.stateofjs.com/)   |
-| 2019      | [1](https://www.youtube.com/watch?v=UnTQVlqmDQ0)   | [1](https://www.youtube.com/watch?v=VLm3Y7Odb74) | [1](https://2018.stateofjs.com/)   |
-| 2020      | [1](https://www.youtube.com/watch?v=0pThnRneDjw)   | [1](https://www.youtube.com/watch?v=Pw8U9l8acPA) | [1](https://2019.stateofjs.com/)   |
-
 - 🎙  [Syntax](https://syntax.fm/)
-- 📺 [Scrimba](https://scrimba.com/)
 - 📺 [egghead](https://egghead.io/)
+- 📺 [scrimba](https://scrimba.com/)
+- [CSS Tricks](https://css-tricks.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [InDepth](https://indepth.dev/)
 - [Bites & Pieces](https://blog.bitsrc.io/)
+- [Weekly Webtips](https://www.webtips.dev/)
 - [Free Code Camp](https://www.freecodecamp.org/news/)
-- [CSS Tricks](https://css-tricks.com/)
 - [Hacks Mozilla](https://hacks.mozilla.org/)
 - [Tutorialzine](https://tutorialzine.com/)
 - [A List Apart](https://alistapart.com/)
@@ -26,6 +19,7 @@
 - [alligator.io](https://alligator.io/)
 - [Tuts Plus](https://tutsplus.com/)
 - [Log rocket blog](https://blog.logrocket.com/)
+- [Ahmad Shadeed](https://ishadeed.com/) - Product Designer and Front End Developer from Palestine.
 
 ### Updates
 > All tools or apps upgrade features like(Chrome Dev Tool, Firefox Dev Tool, VS Code)
