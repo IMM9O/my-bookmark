@@ -70,7 +70,7 @@
     - [Short TypeScript Import Paths in Angular9](https://blog.bitsrc.io/short-typescript-import-paths-in-angular9-22ce34bd424d)
     - [Angular - Shortcut to Importing Styles Files in Components](https://scotch.io/tutorials/angular-shortcut-to-importing-styles-files-in-components)
 
-    - Deploying & CI/CD
+  - Deploying & CI/CD
 
       - [Deploying an Angular CLI App to Production with Firebase](https://scotch.io/tutorials/deploying-an-angular-cli-app-to-production-with-firebase)
 
