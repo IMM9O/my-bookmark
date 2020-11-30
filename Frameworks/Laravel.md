@@ -2,7 +2,10 @@
   <img width="400" src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png"  alt="laravel logo">
 </p>
 
-### Articles
+## Resources
+> Links for comprehensive guides 🛣
+
+## Articles
 
 - [2019 in Review](https://laravel-news.com/2019-in-review)
 
@@ -40,10 +43,10 @@
   - [Top 10 essential laravel packages in 2020](https://laravelarticle.com/essential-laravel-packages)
   - [Using Laravel Mix with webpack for All Your Assets](https://scotch.io/tutorials/using-laravel-mix-with-webpack-for-all-your-assets)
 
-### Courses & Videos
+## Courses
 
 - [Larvel from scratch](https://laracasts.com/series/laravel-6-from-scratch)
-- 💲 [Useful Laravel Packages](https://codewithdre.com/useful-laravel-packages) - [Free version](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
+- 💲 [Useful Laravel Packages](https://codewithdre.com/useful-laravel-packages)/[Free version](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
 - 💲 [Single-Page Laravel](https://singlepagelaravel.com/) - [Free Version](https://www.youtube.com/playlist?list=PLP7iaQb3O2XuXbzUejA0F2Am0u14-teQ3)
 - 💲 [Eloquent by Example](https://eloquentbyexample.com/)
 - 💲 [Refactoring to Collections](https://adamwathan.me/refactoring-to-collections/)

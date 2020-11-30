@@ -2,18 +2,15 @@
 
 ### HTML & CSS
 
-- [Flexbox Froggy](http://flexboxfroggy.com) - A game for learning CSS Flexbox.
-- [Grid Garden](http://cssgridgarden.com) - A game for learning CSS Grid layout.
-- [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies) - A survival zombie game! for learning CSS Flexbox.
-- [Grid Critters](https://geddski.teachable.com/p/gridcritters)
-- [CheckiO](https://checkio.org)
-- [Flukeout (CSS exercises)](http://flukeout.github.io)
+
 - [CSS Zen Garden](http://www.csszengarden.com) - Unleash your CSS powers and create a beautiful stylesheet for this site.
 
-- [How to quickly prototype apps with CSS Grid and CSS Variables](https://medium.freecodecamp.org/how-to-quickly-prototype-apps-with-css-grid-and-css-variables-8d3d96d68eaa)
-- [The Complete CSS Flex Box Tutorial](https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc)
-- [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
+- [The Complete CSS Flex Tutorial](https://jst.hashnode.dev/complete-css-flex-tutorial)
+- [The Complete CSS Grid Tutorial](https://jst.hashnode.dev/css-grid-tutorial)
+- [How to quickly prototype apps with CSS Grid and CSS Variables](https://www.freecodecamp.org/news/how-to-quickly-prototype-apps-with-css-grid-and-css-variables-8d3d96d68eaa/)
 - [Switch font color for different backgrounds with CSS](https://css-tricks.com/switch-font-color-for-different-backgrounds-with-css/)
+- [10 Best Practices for Quickly Improving Your CSS](https://www.webtips.dev/10-best-practices-for-quickly-improving-your-css)
+- [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
 
 ### UI/UX
 
