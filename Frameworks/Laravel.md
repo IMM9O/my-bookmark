@@ -43,6 +43,7 @@
   - [Top 10 essential laravel packages in 2020](https://laravelarticle.com/essential-laravel-packages)
   - [Using Laravel Mix with webpack for All Your Assets](https://scotch.io/tutorials/using-laravel-mix-with-webpack-for-all-your-assets)
 
+
 ## Courses
 
 - [Larvel from scratch](https://laracasts.com/series/laravel-6-from-scratch)
@@ -50,3 +51,8 @@
 - 💲 [Single-Page Laravel](https://singlepagelaravel.com/) - [Free Version](https://www.youtube.com/playlist?list=PLP7iaQb3O2XuXbzUejA0F2Am0u14-teQ3)
 - 💲 [Eloquent by Example](https://eloquentbyexample.com/)
 - 💲 [Refactoring to Collections](https://adamwathan.me/refactoring-to-collections/)
+
+## Project based videos
+
+
+## Talks

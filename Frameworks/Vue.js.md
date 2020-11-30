@@ -34,6 +34,9 @@
 - [Learn Vuejs](https://scrimba.com/g/glearnvue) - scrimba
 - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) - laracasts
 
+## Project based videos
+
+
 ## Talks
 - [Modern Frontend with Vue.js](https://www.youtube.com/watch?v=D_z-RAweP1k) - Evan You - Laracon EU 2016
 

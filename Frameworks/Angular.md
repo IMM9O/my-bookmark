@@ -82,4 +82,8 @@
 - 💲 [Angular - The Complete Guide (2020 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 - 💲 [The Modern Angular Bootcamp [2020]](https://www.udemy.com/course/the-modern-angular-bootcamp/)
 
+## Project based videos
+
+- [Codelab: Building a web application with Angular and Firebase](https://www.youtube.com/watch?v=SnF-6S0bGU4)
+
 ## Talks

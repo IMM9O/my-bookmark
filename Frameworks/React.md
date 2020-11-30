@@ -48,4 +48,25 @@
 - [Complete React Tutorial (with Redux)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG) - by _The Net Ninja_ on Youtube 📃.
 - [Building a chat app with React.js and Chatkit](https://scrimba.com/g/greactchatkit) - scrimba
 
+## Project based videos
+
+- [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
+- [Realtime Chat App | React, GraphQL & Websockets](https://www.youtube.com/watch?v=E3NHd-PkLrQ)
+- [Intermediate React Tutorial - Todoist Clone (with Firebase, Custom Hooks, SCSS, React Testing)](https://www.youtube.com/watch?v=hT3j87FMR6M)
+- [Building a Netflix Clone - React Tutorial - Styled Components - Firebase (Firestore & Auth)](https://www.youtube.com/watch?v=x_EEwGe-a9o)
+- [🔴 How to Make an AMAZON Clone with REACT JS for Beginners (in 4 hours)](https://www.youtube.com/watch?v=1_IYL9ZMR_Y)
+- [🔴 How to Build a NETFLIX Clone with REACT JS for Beginners (in 3 Hours!)](https://www.youtube.com/watch?v=XtMThy8QKqU)
+- [🔴 How to Build a Instagram Clone with REACT JS for Beginners (in 3 Hours!)](https://www.youtube.com/watch?v=f7T48W0cwXM)
+- [🔴 Build a Discord clone with REACT.JS for beginners! (With REDUX)](https://www.youtube.com/watch?v=zc1loX80TX8)
+- [🔴 Build a Slack Clone in React JS (Realtime chat app using Firebase)](https://www.youtube.com/watch?v=Oo4ziTddOxs)
+- [🔴 Build a TWITTER Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=rJjaqSTzOxI)
+- [🔴 Build a Spotify Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=pnkuI8KXW_8)
+- [🔴 Build a Facebook Clone with REACT JS for Beginners!](https://www.youtube.com/watch?v=B-kxUMHBxNo)
+- [🔴 Let's Build a TINDER Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=DQfeB_FKKkc)
+- [🔴 Let's Build a GOOGLE Clone with REACT JS for Beginners!](https://www.youtube.com/watch?v=DAWWf7q8sqM)
+- [🔴 Let's Build a YouTube Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=NT299zIk2JY)
+- [🔴 Let's Build a Tik Tok Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=GePLvNgWROg)
+- [🔴 Let's Build a WhatsApp Clone with REACT JS for Beginners!](https://www.youtube.com/watch?v=pUxrDcITyjg)
+
+
 ## Talks
