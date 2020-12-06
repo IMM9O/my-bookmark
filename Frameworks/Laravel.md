@@ -51,8 +51,3 @@
 - 💲 [Single-Page Laravel](https://singlepagelaravel.com/) - [Free Version](https://www.youtube.com/playlist?list=PLP7iaQb3O2XuXbzUejA0F2Am0u14-teQ3)
 - 💲 [Eloquent by Example](https://eloquentbyexample.com/)
 - 💲 [Refactoring to Collections](https://adamwathan.me/refactoring-to-collections/)
-
-## Project based videos
-
-
-## Talks

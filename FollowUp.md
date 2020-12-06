@@ -32,6 +32,7 @@
 - 📰 [React Blog](https://reactjs.org/blog/) ☑️
 - 📰 [Kent C. Dodds's Blog](https://kentcdodds.com/)
 - 📰 [Epic React](https://epicreact.dev/articles)
+- 📰 [Overreacted](https://overreacted.io/)
 
 ### Angular
 
