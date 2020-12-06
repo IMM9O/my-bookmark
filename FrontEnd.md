@@ -1,5 +1,11 @@
-<p align="center">All FrontEnd related topics</p>
+<p align="center">All FrontEnd related topics (HTML, CSS, JavaScript, i18n, a11y, security, performance and SEO)</p>
 
+
+## Resources
+> Links for comprehensive guides 🛣
+
+
+## Articles
 ### HTML & CSS
 
 
@@ -54,10 +60,6 @@
     - [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
     - [Soft Skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
 
-
-- [JavaScript30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge.
-- [Introduction to TypeScript](https://scrimba.com/g/gintrototypescript) - scrimba
-
 ### Web Components
 
 
@@ -71,17 +73,6 @@
 
 - [Front-End Performance Checklist](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
 - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-
-### Localization
-
-
-
-### Accessibility
-
-
-
-### Security
-
 
 
 ### Reactivity
@@ -98,5 +89,11 @@
 - [The 7 Software “-ilities” You Need To Know](http://codesqueeze.com/the-7-software-ilities-you-need-to-know/)
 - [3 Key Software Principles You Must Understand](https://code.tutsplus.com/tutorials/3-key-software-principles-you-must-understand--net-25161)
 - [SOLID Principles : The Definitive Guide](https://android.jlelse.eu/solid-principles-the-definitive-guide-75e30a284dea)
+
+
+## Courses
+
+- 📀 [Introduction to TypeScript](https://scrimba.com/g/gintrototypescript) - scrimba
+- 📀 [Introduction To Responsive Web Design - HTML & CSS Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s&list=WL)
 
 
