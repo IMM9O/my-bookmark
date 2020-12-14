@@ -5,9 +5,23 @@
 ⌛ All Links that worth my time every time ⌛
 </p>
 
-### Resources
-> Links for comprehensive guides 🛣
+- [CSS Reference](http://cssreference.io/)
+- [HTML Reference](http://htmlreference.io/)
+- [MDN Dev](https://developer.mozilla.org/en-US/)
+- [JavaScript Info](https://javascript.info/)
+- [Google Dev](https://web.dev/)
+- [Google Developers](https://developers.google.com/web/fundamentals)
+- [SABE](https://sabe.io/)
+- [Goal Kicker](http://goalkicker.com/)
+- [Grab Front End Guide](https://github.com/grab/front-end-guide)
+- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Don’t be a Junior Developer: The Roadmap](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
 
+- [Hackdesign](https://hackdesign.org) - An easy to follow design course for people who do amazing things.
+- [HTML & CSS is Hard](https://internetingishard.com/html-and-css/) - A friendly web development tutorial for complete beginners.
+
+## Resources
+> Links for comprehensive guides 🛣
 
 - [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)
 - [From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b)
