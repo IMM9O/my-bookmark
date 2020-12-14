@@ -1,15 +1,25 @@
 # Follow Up List
 
-### Web Development
+## Reference
 
-- 🎙  [Syntax](https://syntax.fm/)
-- 📺 [egghead](https://egghead.io/)
-- 📺 [scrimba](https://scrimba.com/)
+- [CSS Reference](http://cssreference.io/)
+- [HTML Reference](http://htmlreference.io/)
+- [MDN Dev](https://developer.mozilla.org/en-US/)
+- [JavaScript Info](https://javascript.info/)
+- [Google Dev](https://web.dev/)
+- [Google Developers](https://developers.google.com/web/fundamentals)
+- [SABE](https://sabe.io/)
+- [Goal Kicker](http://goalkicker.com/)
+
+
+## Blogs
+
+- [Bites & Pieces](https://blog.bitsrc.io/)
+- [Weekly Webtips](https://www.webtips.dev/)
+- [javascript scene](https://medium.com/javascript-scene)
 - [CSS Tricks](https://css-tricks.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [InDepth](https://indepth.dev/)
-- [Bites & Pieces](https://blog.bitsrc.io/)
-- [Weekly Webtips](https://www.webtips.dev/)
 - [Free Code Camp](https://www.freecodecamp.org/news/)
 - [Hacks Mozilla](https://hacks.mozilla.org/)
 - [Tutorialzine](https://tutorialzine.com/)
@@ -21,13 +31,22 @@
 - [Log rocket blog](https://blog.logrocket.com/)
 - [Ahmad Shadeed](https://ishadeed.com/) - Product Designer and Front End Developer from Palestine.
 
-### Updates
+## Updates
 > All tools or apps upgrade features like(Chrome Dev Tool, Firefox Dev Tool, VS Code)
 
 - [Chrome Dev tools](https://developers.google.com/web/updates)
 - [VS Code](https://code.visualstudio.com/updates)
 
-## React
+## Podcast 🎙
+
+- [Syntax](https://syntax.fm/)
+
+## Youtube & Screencasts 📺
+
+- [egghead](https://egghead.io/)
+- [scrimba](https://scrimba.com/)
+
+### React
 
 - 📰 [React Blog](https://reactjs.org/blog/) ☑️
 - 📰 [Kent C. Dodds's Blog](https://kentcdodds.com/)

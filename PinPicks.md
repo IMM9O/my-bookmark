@@ -5,18 +5,6 @@
 ⌛ All Links that worth my time every time ⌛
 </p>
 
-### Reference
-
-- [CSS Reference](http://cssreference.io/)
-- [HTML Reference](http://htmlreference.io/)
-- [MDN Dev](https://developer.mozilla.org/en-US/)
-- [JavaScript Info](https://javascript.info/)
-- [Google Dev](https://web.dev/)
-- [Google Developers](https://developers.google.com/web/fundamentals)
-- [SABE](https://sabe.io/)
-- [ES6 features](http://es6-features.org) - One site combines the most important features.
-- [ES2015+ cheatsheet](https://devhints.io/es6)
-
 ### Resources
 > Links for comprehensive guides 🛣
 
@@ -32,12 +20,7 @@
 - [100+ FREE Resources to Learn Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [200+ Best Free Tools & Resources for Front-End Web Developers — Medium](https://medium.com/@ti_asif/200-best-free-tools-resources-for-front-end-web-developers-3fb3c415a643#.oq3s5llo4)
 - [The Ultimate Reading List for Developers](https://medium.com/@YogevSitton/the-ultimate-reading-list-for-developers-e96c832d9687)
-
-
-### EBooks
-
-- [Apress](https://www.apress.com/gp/).
-- [Goal Kicker](http://goalkicker.com/)
+- [The Complete CSS Flex Tutorial](https://jst.hashnode.dev/complete-css-flex-tutorial)
+- [The Complete CSS Grid Tutorial](https://jst.hashnode.dev/css-grid-tutorial)
+- [TOP 200 JavaScript articles on medium (until Jan 2017)](https://hackernoon.com/top-200-javascript-articles-on-medium-until-jan-2017-a0c6a1bfe094)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
-- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
