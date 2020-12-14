@@ -1,5 +1,13 @@
 # Follow Up List
 
+## Roadmaps
+
+- [Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x) - Diagram by _LearnCode.academy_
+- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Grab Front End Guide](https://github.com/grab/front-end-guide)
+- [Don’t be a Junior Developer: The Roadmap](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
+- [The Ultimate Guide to Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html)
+
 ## Reference
 
 - [CSS Reference](http://cssreference.io/)
@@ -10,7 +18,9 @@
 - [Google Developers](https://developers.google.com/web/fundamentals)
 - [SABE](https://sabe.io/)
 - [Goal Kicker](http://goalkicker.com/)
-
+- [The CSS Handbook: a handy guide to CSS for developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
+- [Hackdesign](https://hackdesign.org) - An easy to follow design course for people who do amazing things.
+- [HTML & CSS is Hard](https://internetingishard.com/html-and-css/) - A friendly web development tutorial for complete beginners.
 
 ## Blogs
 
@@ -32,6 +42,7 @@
 - [Ahmad Shadeed](https://ishadeed.com/) - Product Designer and Front End Developer from Palestine.
 
 ## Updates
+
 > All tools or apps upgrade features like(Chrome Dev Tool, Firefox Dev Tool, VS Code)
 
 - [Chrome Dev tools](https://developers.google.com/web/updates)
@@ -93,7 +104,6 @@
 - 📰 📺 [joshmorony](https://www.joshmorony.com/)
 - 📺 [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg) - 📹 Youtube Channel
 
-
 ### Tech Communities in Egypt ( Facebook )
 
 - [Code Geist](https://www.facebook.com/CodeGeist.CG/)
@@ -121,4 +131,3 @@
 - [Women Techmakers Cairo](https://www.facebook.com/WTMCairo/)
 - [Egyptian Geeks](https://www.facebook.com/groups/egyptian.geeks)
 - [Angular Army (ng-arab)](https://www.facebook.com/groups/angular.army)
-
