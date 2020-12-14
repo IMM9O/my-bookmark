@@ -11,10 +11,6 @@
 - [10 Steps to Plan Better so you can Write Less Code](https://medium.freecodecamp.org/10-steps-to-plan-better-so-you-can-write-less-code-ece655e03608)
 - [All I Really Need to Know About InfoSec, I learned from Mr. Robot](https://medium.freecodecamp.org/all-i-really-need-to-know-about-infosec-i-learned-from-mr-robot-7902cca6d729)
 
-### Algorithms
-
-
-
 ### GIT
 
 - [Learn Git in 15 Minutes - Tutorialzine](https://tutorialzine.com/2016/06/learn-git-in-30-minutes)

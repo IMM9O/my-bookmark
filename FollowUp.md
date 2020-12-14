@@ -19,10 +19,6 @@
 - [Log rocket blog](https://blog.logrocket.com/)
 - [Ahmad Shadeed](https://ishadeed.com/) - Product Designer and Front End Developer from Palestine.
 
-## Updates
-
-> All tools or apps upgrade features like(Chrome Dev Tool, Firefox Dev Tool, VS Code)
-
 - [Chrome Dev tools](https://developers.google.com/web/updates)
 - [VS Code](https://code.visualstudio.com/updates)
 
