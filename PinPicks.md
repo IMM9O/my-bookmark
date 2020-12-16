@@ -15,10 +15,12 @@
 - [Goal Kicker](http://goalkicker.com/)
 - [Grab Front End Guide](https://github.com/grab/front-end-guide)
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [A Recap of Frontend Development in 2019](https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2019-1e7d07966d6c)
 - [Don’t be a Junior Developer: The Roadmap](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
 
 - [Hackdesign](https://hackdesign.org) - An easy to follow design course for people who do amazing things.
 - [HTML & CSS is Hard](https://internetingishard.com/html-and-css/) - A friendly web development tutorial for complete beginners.
+- [Front-End Performance Checklist](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
 
 - [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)
 - [From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b)
