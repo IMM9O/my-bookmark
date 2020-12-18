@@ -31,6 +31,7 @@
 
 ## React
 
+- [Build a Project with GraphQL, Node, MongoDB and React.js](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
 - [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
 - [Realtime Chat App | React, GraphQL & Websockets](https://www.youtube.com/watch?v=E3NHd-PkLrQ)
 - [Intermediate React Tutorial - Todoist Clone (with Firebase, Custom Hooks, SCSS, React Testing)](https://www.youtube.com/watch?v=hT3j87FMR6M)

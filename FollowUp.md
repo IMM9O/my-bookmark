@@ -43,6 +43,8 @@
 - 📰 [Angular Blog](https://blog.angular.io/) ☑️
 - 📰 [Mgechev](http://blog.mgechev.com/)
 - 📰 [Thoughtram](https://blog.thoughtram.io/)
+- 📺 [Demos with Angular](https://www.youtube.com/c/DemoswithAngular/videos)
+- 📺 [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
 - 📰 📺 [Todd Motto](https://toddmotto.com/)
 - 📰 📺 [Angular Class](https://angularclass.com/blog/)
 - 📰 📺 [Angular University](https://angular-university.io/)
