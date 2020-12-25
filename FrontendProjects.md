@@ -2,10 +2,10 @@
     <img width="200" height="200" src="_assets/video-player.svg" alt="one shoot">
 
 # FrontEnd Projects
+
 </div>
 
 > Get your hands dirty and build something from a - z
-
 
 ## Projects Ideas
 
@@ -20,7 +20,6 @@
 
 ## HTML & CSS
 
-
 ## JavaScript
 
 - [JavaScript 30](https://javascript30.com/)
@@ -31,39 +30,19 @@
 
 ## React
 
-- [Build a Project with GraphQL, Node, MongoDB and React.js](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
-- [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
+- [Build a Project with GraphQL, Node, MongoDB and React.js](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_) - Youtube list
 - [Realtime Chat App | React, GraphQL & Websockets](https://www.youtube.com/watch?v=E3NHd-PkLrQ)
+- [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
 - [Intermediate React Tutorial - Todoist Clone (with Firebase, Custom Hooks, SCSS, React Testing)](https://www.youtube.com/watch?v=hT3j87FMR6M)
 - [Building a Netflix Clone - React Tutorial - Styled Components - Firebase (Firestore & Auth)](https://www.youtube.com/watch?v=x_EEwGe-a9o)
-- [🔴 How to Make an AMAZON Clone with REACT JS for Beginners (in 4 hours)](https://www.youtube.com/watch?v=1_IYL9ZMR_Y)
-- [🔴 How to Build a NETFLIX Clone with REACT JS for Beginners (in 3 Hours!)](https://www.youtube.com/watch?v=XtMThy8QKqU)
-- [🔴 How to Build a Instagram Clone with REACT JS for Beginners (in 3 Hours!)](https://www.youtube.com/watch?v=f7T48W0cwXM)
-- [🔴 Build a Discord clone with REACT.JS for beginners! (With REDUX)](https://www.youtube.com/watch?v=zc1loX80TX8)
-- [🔴 Build a Slack Clone in React JS (Realtime chat app using Firebase)](https://www.youtube.com/watch?v=Oo4ziTddOxs)
-- [🔴 Build a TWITTER Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=rJjaqSTzOxI)
-- [🔴 Build a Spotify Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=pnkuI8KXW_8)
-- [🔴 Build a Facebook Clone with REACT JS for Beginners!](https://www.youtube.com/watch?v=B-kxUMHBxNo)
-- [🔴 Let's Build a TINDER Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=DQfeB_FKKkc)
-- [🔴 Let's Build a GOOGLE Clone with REACT JS for Beginners!](https://www.youtube.com/watch?v=DAWWf7q8sqM)
-- [🔴 Let's Build a YouTube Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=NT299zIk2JY)
-- [🔴 Let's Build a Tik Tok Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=GePLvNgWROg)
-- [🔴 Let's Build a WhatsApp Clone with REACT JS for Beginners!](https://www.youtube.com/watch?v=pUxrDcITyjg)
+- [React Projects](https://www.youtube.com/playlist?list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb) - Youtube list _Traversy Media_
+- [Master React JS by Building Real Projects](https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR) - Youtube List _JavaScript Mastery_
+- [Build App Clones with ReactJS](https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP) - Youtube list _Clever Programmer_
+
 ## Angular
 
 - [Codelab: Building a web application with Angular and Firebase](https://www.youtube.com/watch?v=SnF-6S0bGU4)
 
 ## Vue
 
-
 ## Laravel
-
-
-
-
-
-
-
-
-
-
