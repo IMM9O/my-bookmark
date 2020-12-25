@@ -51,6 +51,7 @@
 - 📰 [Angular Blog](https://blog.angular.io/) ☑️
 - 📰 [Mgechev](http://blog.mgechev.com/)
 - 📰 [Thoughtram](https://blog.thoughtram.io/)
+- 📰 [Netbasal](https://netbasal.medium.com/)
 - 📺 [Demos with Angular](https://www.youtube.com/c/DemoswithAngular/videos)
 - 📢 [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
 - 📢 [AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)
