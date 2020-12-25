@@ -30,6 +30,14 @@
 
 - [egghead](https://egghead.io/)
 - [scrimba](https://scrimba.com/)
+- [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
+- [freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+- [Front End Center](https://www.youtube.com/channel/UCbxzdZTDn4YB4Z-ukch2ivw)
+- 📢 [JavaScript Conferences by GitNation](https://www.youtube.com/channel/UCQM428Hwrvxla8DCgjGONSQ)
+- 📢 [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)
 
 ### React
 
@@ -44,7 +52,8 @@
 - 📰 [Mgechev](http://blog.mgechev.com/)
 - 📰 [Thoughtram](https://blog.thoughtram.io/)
 - 📺 [Demos with Angular](https://www.youtube.com/c/DemoswithAngular/videos)
-- 📺 [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
+- 📢 [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
+- 📢 [AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)
 - 📰 📺 [Todd Motto](https://toddmotto.com/)
 - 📰 📺 [Angular Class](https://angularclass.com/blog/)
 - 📰 📺 [Angular University](https://angular-university.io/)
@@ -70,14 +79,14 @@
 - 📰 [Just Laravel](http://justlaravel.com/)
 - 📺 [خدمات ويب](https://5dmat-web.com/)
 
-### Ionic
+### Cross platform Mobile (Android & IOS)
 
 - 📰 [Ionic Blog](http://blog.ionic.io/) ☑️
 - 📰 [devdactic](https://devdactic.com/devblog/)
 - 📰 [mcgivery](http://mcgivery.com/)
 - 📰 [gonehybrid](https://www.gonehybrid.com/)
 - 📰 [the polyglot developer](https://www.thepolyglotdeveloper.com/)
-- 📺 [joshmorony](https://www.joshmorony.com/)
+- 📺 [joshmorony](https://www.youtube.com/c/JoshuaMorony/featured)
 - 📺 [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg) - 📹 Youtube Channel
 
 ### Tech Communities in Egypt ( Facebook )

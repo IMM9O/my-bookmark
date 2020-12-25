@@ -5,6 +5,7 @@
 ⌛ All Links that worth my time every time ⌛
 </p>
 
+- [Web Skills](https://andreasbm.github.io/web-skills/)
 - [CSS Reference](http://cssreference.io/)
 - [HTML Reference](http://htmlreference.io/)
 - [MDN Dev](https://developer.mozilla.org/en-US/)
