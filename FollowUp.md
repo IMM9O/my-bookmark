@@ -26,15 +26,20 @@
 
 - [Syntax](https://syntax.fm/)
 
-## Youtube & Screencasts 📺
+## MOOCs & Screencasts 📺
 
-- [egghead](https://egghead.io/)
-- [scrimba](https://scrimba.com/)
-- [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
+- 💲 [Udacity](https://www.udacity.com/)
+- 💲 [Udemy](https://www.udemy.com/)
+- 🔔 [egghead](https://egghead.io/)
+- 🔔 [pluralsight](https://app.pluralsight.com/)
+
+## Youtube
+
 - [freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+- [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 - [Front End Center](https://www.youtube.com/channel/UCbxzdZTDn4YB4Z-ukch2ivw)
 - 📢 [JavaScript Conferences by GitNation](https://www.youtube.com/channel/UCQM428Hwrvxla8DCgjGONSQ)
 - 📢 [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)
