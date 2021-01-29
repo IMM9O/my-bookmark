@@ -3,7 +3,7 @@
 - [Dribbble](https://dribbble.com/)
 - [Calltoidea](http://www.calltoidea.com/)
 
-## WireFrame
+## WireFrame & UI Mocking Tools
 
 - [In Browser Wireframing](https://app.moqups.com)
 - [Very Basic In Browser Wireframing](https://wireframe.cc)
@@ -19,10 +19,41 @@
 
 - [Colors](https://coolors.co/) - Create, save and share perfect palettes in seconds!.
 - [Flat Colors](http://flatuicolors.com/) - Quickly pick up flat colors.
-- [Web Gradients](https://webgradients.com/) - WebGradients is a free collection of 180 linear gradients.
 - [Material Palette](https://www.materialpalette.com/) - Create and download colors palettes and patterns.
 - [Color Supplyyy](http://colorsupplyyy.com/app/)
 - [Paletton](http://paletton.com).
+
+
+## Icons
+
+- [Linea](http://linea.io)
+- [Freepik](https://www.freepik.com/free-icons)
+- [IcoMoon](https://icomoon.io/) - Pixel Perfect Icon Solutions.
+- [Devicon](http://konpa.github.io/devicon/)
+- [flaticon](https://www.flaticon.com/) - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
+- [Fontello](http://fontello.com/) - Search or genrate custome icons.
+- [Ionicons](http://ionicons.com)
+- [Flaticons](http://flaticons.net)
+- [IconFinder](https://www.iconfinder.com/free_icons) - +100,000 free icons!.
+- [Icon Store](https://iconstore.co)
+- [Iconmonstr](https://iconmonstr.com)
+- [GlyphSearch](https://glyphsearch.com/) - Search on most popular fonts library.
+- [endlessicons](http://www.endlessicons.com/) - Free icon library.
+- [Font Awesome](http://fontawesome.io/) - Font Awesome is a font and icon toolkit based on CSS and LESS.
+- [Noun Project](https://thenounproject.com/) - Over a million curated icons, created by a global community.
+- [perfecticons](http://perfecticons.com/) - The easiest way to create resolution independent social icons.
+- [We Love Icon Fonts](http://weloveiconfonts.com)
+- [Material Design Icons](http://google.github.io/material-design-icons/)
+
+## Background Gradient
+
+- [Color Space](https://mycolor.space/)
+- [Gradient Hunt](https://gradienthunt.com/)
+- [UI Gradients](https://uigradients.com/) - Select or generate linear-gradient effect
+- [CSS Gradient](https://cssgradient.io/)
+- [Web Gradients](https://webgradients.com/) - WebGradients is a free collection of 180 linear gradients.
+- [Gradienta](https://gradienta.io/) - Multicolor Gradients.
+
 
 ## Images
 
@@ -81,9 +112,13 @@
 
 ## illustration
 
-- [unDraw](https://undraw.co/illustrations)
-- [Blush](https://blush.design/)
 - [Humaaans](https://www.humaaans.com/)
+- [Avataaars](https://avataaars.com/)
+- [free illustrations](https://freellustrations.com/)
+- [Opendoodles](https://opendoodles.com)
+- [Stubborn](https://stubborn.fun/) - illustration generator
+- [Blush](https://blush.design/)
+- [unDraw](https://undraw.co/illustrations)
 - [DrawKit](https://www.drawkit.io/)
 - [Sketchvalley](https://sketchvalley.com/)
 - [Stories by freepik](https://www.freepik.com/stories)
@@ -97,27 +132,6 @@
 - [Vector Creator](https://icons8.com/vector-creator)
 
 
-## Icons
-
-- [Linea](http://linea.io)
-- [Freepik](https://www.freepik.com/free-icons)
-- [IcoMoon](https://icomoon.io/) - Pixel Perfect Icon Solutions.
-- [Devicon](http://konpa.github.io/devicon/)
-- [flaticon](https://www.flaticon.com/) - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
-- [Fontello](http://fontello.com/) - Search or genrate custome icons.
-- [Ionicons](http://ionicons.com)
-- [Flaticons](http://flaticons.net)
-- [IconFinder](https://www.iconfinder.com/free_icons) - +100,000 free icons!.
-- [Icon Store](https://iconstore.co)
-- [Iconmonstr](https://iconmonstr.com)
-- [GlyphSearch](https://glyphsearch.com/) - Search on most popular fonts library.
-- [endlessicons](http://www.endlessicons.com/) - Free icon library.
-- [Font Awesome](http://fontawesome.io/) - Font Awesome is a font and icon toolkit based on CSS and LESS.
-- [Noun Project](https://thenounproject.com/) - Over a million curated icons, created by a global community.
-- [perfecticons](http://perfecticons.com/) - The easiest way to create resolution independent social icons.
-- [We Love Icon Fonts](http://weloveiconfonts.com)
-- [Material Design Icons](http://google.github.io/material-design-icons/)
-
 ## Generators
 
 - [Create App](https://createapp.dev/webpack) - Frontend build config generator
@@ -128,7 +142,6 @@
 - [On/Off Flip switch](https://proto.io/freebies/onoff/) - Generate pure CSS3 On/Off flipswitches with animated transitions.
 - [CSS Arrow Please](http://www.cssarrowplease.com/) - CSS arrow generator.
 - [polychroma](https://polychroma.now.sh/) - Generate linear-gradient
-- [uigradients](https://uigradients.com/) - Select or generate linear-gradient effect
 - [Clippy](https://bennettfeely.com/clippy/) - Generating values for shape functions for use with CSS clip-path property.
 - [Webcode](https://webcode.tools/) - The Ultimate Web Code Generator
 - [Type Scale](http://type-scale.com/) - Generate typography css file.
