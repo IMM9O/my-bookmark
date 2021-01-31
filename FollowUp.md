@@ -2,36 +2,34 @@
 
 ## Blogs
 
-- [Bites & Pieces](https://blog.bitsrc.io/)
-- [Weekly Webtips](https://www.webtips.dev/)
-- [javascript scene](https://medium.com/javascript-scene)
 - [CSS Tricks](https://css-tricks.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
-- [InDepth](https://indepth.dev/)
 - [Free Code Camp](https://www.freecodecamp.org/news/)
-- [Hacks Mozilla](https://hacks.mozilla.org/)
-- [Tutorialzine](https://tutorialzine.com/)
-- [A List Apart](https://alistapart.com/)
-- [Toptal Blog](https://www.toptal.com/blog)
-- [scotch.io](https://scotch.io/)
+- [Bites & Pieces](https://blog.bitsrc.io/)
+- [Weekly Webtips](https://www.webtips.dev/)
 - [alligator.io](https://alligator.io/)
-- [Tuts Plus](https://tutsplus.com/)
-- [Log rocket blog](https://blog.logrocket.com/)
-- [Ahmad Shadeed](https://ishadeed.com/) - Product Designer and Front End Developer from Palestine.
+- [javascript scene](https://medium.com/javascript-scene)
+- [Toptal Blog](https://www.toptal.com/blog) - InDepth articles.
+- [Tutorialzine](https://tutorialzine.com/) - Short tutorials. 
+- [Ahmad Shadeed](https://ishadeed.com/) - CSS & Design. 
 
-- [Chrome Dev tools](https://developers.google.com/web/updates)
+## Updates
+> Browsers and tools blogs
+
 - [VS Code](https://code.visualstudio.com/updates)
+- [Chrome Dev tools](https://developers.google.com/web/updates)
+- [Hacks Mozilla](https://hacks.mozilla.org/)
 
 ## Podcast 🎙
 
 - [Syntax](https://syntax.fm/)
 
-## MOOCs & Screencasts 📺
+## Courses 📺
 
-- 💲 [Udacity](https://www.udacity.com/)
 - 💲 [Udemy](https://www.udemy.com/)
-- 🔔 [egghead](https://egghead.io/)
-- 🔔 [pluralsight](https://app.pluralsight.com/)
+- 💲 [Egghead](https://egghead.io/)
+- 💲 [Pluralsight](https://app.pluralsight.com/)
+- 💲 [Udacity](https://www.udacity.com/)
 
 ## Youtube
 
@@ -44,35 +42,38 @@
 - 📢 [JavaScript Conferences by GitNation](https://www.youtube.com/channel/UCQM428Hwrvxla8DCgjGONSQ)
 - 📢 [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)
 
-### React
 
+## Frameworks and Tools
+#### React
+
+- 📰 [Log rocket blog](https://blog.logrocket.com/)
 - 📰 [React Blog](https://reactjs.org/blog/) ☑️
 - 📰 [Kent C. Dodds's Blog](https://kentcdodds.com/)
 - 📰 [Epic React](https://epicreact.dev/articles)
 - 📰 [Overreacted](https://overreacted.io/)
 
-### Angular
+#### Angular
 
 - 📰 [Angular Blog](https://blog.angular.io/) ☑️
-- 📰 [Mgechev](http://blog.mgechev.com/)
-- 📰 [Thoughtram](https://blog.thoughtram.io/)
+- 📰 [InDepth](https://indepth.dev/)
 - 📰 [Netbasal](https://netbasal.medium.com/)
+- 📰 [Todd Blog](https://ultimatecourses.com/blog/)
+- 📰 [Angular University](https://blog.angular-university.io/)
+- 📰 [Angular FireBase](https://angularfirebase.com/lessons/)
+- 📰 [Thoughtram](https://blog.thoughtram.io/categories/angular)
+- 📰 [Mgechev](http://blog.mgechev.com/)
 - 📺 [Demos with Angular](https://www.youtube.com/c/DemoswithAngular/videos)
 - 📢 [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
 - 📢 [AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)
-- 📰 📺 [Todd Motto](https://toddmotto.com/)
-- 📰 📺 [Angular Class](https://angularclass.com/blog/)
-- 📰 📺 [Angular University](https://angular-university.io/)
-- 📰 📺 [Angular FireBase](https://angularfirebase.com/lessons/)
 
-### VueJs
+#### VueJs
 
 - 📰 [Vue Mastery](https://medium.com/vue-mastery) ☑️
 - 📺 [Vue Mastery Courses](https://www.vuemastery.com/) ☑️
 - 📺 [Vueschool](https://vueschool.io/)
 - 📰 [Vuejs Developers](https://vuejsdevelopers.com/)
 
-### Laravel
+#### Laravel
 
 - 📺 [Laracasts](https://laracasts.com/) ☑️
 - 📰 [Laravel News](https://laravel-news.com/) ☑️
@@ -85,7 +86,7 @@
 - 📰 [Just Laravel](http://justlaravel.com/)
 - 📺 [خدمات ويب](https://5dmat-web.com/)
 
-### Cross platform Mobile (Android & IOS)
+#### Cross platform Mobile (Android & IOS)
 
 - 📰 [Ionic Blog](http://blog.ionic.io/) ☑️
 - 📰 [devdactic](https://devdactic.com/devblog/)
@@ -95,7 +96,7 @@
 - 📺 [joshmorony](https://www.youtube.com/c/JoshuaMorony/featured)
 - 📺 [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg) - 📹 Youtube Channel
 
-### Tech Communities in Egypt ( Facebook )
+## Tech Communities in Egypt ( Facebook )
 
 - [Code Geist](https://www.facebook.com/CodeGeist.CG/)
 - [Product Guys](https://www.facebook.com/ProductGuys/)
