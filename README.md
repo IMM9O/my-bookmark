@@ -2,9 +2,8 @@
 
 ### Resources
 
-- [Pin Picks](PinPicks.md)
-- [Follow Up](FollowUp.md)
-- [FrontEnd Stack](FrontEnd.md)
+- [Follow Up 📌](FollowUp.md)
+- [FrontEnd Picks](FrontEnd.md)
 - [General Software Topics](General.md)
 
 ### Frameworks
@@ -17,5 +16,4 @@
 ### Tools
 
 - [Online Resources](Tools/OnlineResources.md)
-- [FrontEnd](Tools/FrontEndDevelopments.md)
 - [DevOps](Tools/DevOps.md)

@@ -4,20 +4,57 @@ How to deploy your static website to "Static Web Host"
 or how to exposing your local development to public url for demoing 
 </p>
 
-# Platforms
 
-of course, this is not a final or complete list, there are many providers available online but these are the easiest and most famous
-providers.
 
-- [ngrok](https://dashboard.ngrok.com/)
-- [netlify](https://www.netlify.com)
+# Publish to Popular Platforms
+
 - [GitHub Pages](https://pages.github.com/)
 - [Firebase Hosting](https://firebase.google.com/docs/hosting)
-- [zeit](https://zeit.co/)
+- [netlify](https://www.netlify.com)
+- [Vercel](https://vercel.com/)
 
-# Static Web Host Platforms features
+## GitHub Pages
 
-# Netlify
+**How to use it ?**
+
+1.  Install [gh-pages](https://github.com/tschaub/gh-pages) locally `npm install gh-pages --save-dev`
+2.  Add new script to `package.json` file to deploy your website
+
+```json
+    "scripts": {
+      // replase dist with your build dir folder
+      "deploy": "gh-pages -d [dist]"
+    }
+    /*
+     * Replace <username> and <repositoryname> with your username
+     * from GitHub and the name of your new repository.
+     */
+    "home": "https://<username>.github.io/<repositoryname>/",
+```
+
+3.  Deploy your website to Github Pages by running this command `npm run deploy`
+
+**Note**
+
+`gh-pages` behind the scenes will create another branch called `gh-pages` to push your build files into it
+
+## Firebase
+
+1. You need to create new project first on [firebase console](https://console.firebase.google.com/)
+
+2. Install `firebase-tools` package
+
+```bash
+$ npm install -g firebase-tools
+```
+
+3. Login to the account `firebase login`
+
+4. Init firebase configuration for hosting `firebase init`
+
+5. When your website ready just type `firebase deploy` 
+
+## Netlify
 
 **How to use it ?**
 
@@ -44,45 +81,25 @@ $ netlify dev
 $ netlify dev --live
 ```
 
-# GitHub Pages
 
-**How to use it ?**
 
-1.  Install [gh-pages](https://github.com/tschaub/gh-pages) locally `npm install gh-pages --save-dev`
-2.  Add new script to `package.json` file to deploy your website
 
-```json
-    "scripts": {
-      // replase dist with your build dir folder
-      "deploy": "gh-pages -d [dist]"
-    }
-    /*
-     * Replace <username> and <repositoryname> with your username
-     * from GitHub and the name of your new repository.
-     */
-    "home": "https://<username>.github.io/<repositoryname>/",
-```
+# Test Before publish
+## Local Server
 
-3.  Deploy your website to Github Pages by running this command `npm run deploy`
+- [HTTP Server](https://github.com/http-party/http-server)
+- [Live Server](https://github.com/tapio/live-server)
+- [Webpack Dev Server](https://webpack.js.org/configuration/dev-server/)
+- [BrowserSync](https://www.browsersync.io/)
+- [Express](https://www.express.com/)
 
-**Note**
+## Sharing work in progress
 
-`gh-pages` behind the scenes will create another branch called `gh-pages` to push your build files into it
+In case you want to expose your local server without worrying about deploy it on acutely server.
 
-# Firebase
-
-1. You need to create new project first on [firebase console](https://console.firebase.google.com/)
-
-2. Install `firebase-tools` package
-
-```bash
-$ npm install -g firebase-tools
-```
-
-3. Login to the account `firebase login`
-
-4. Init firebase configuration for hosting `firebase init`
-
-5. When your website ready just type `firebase deploy` 
-
+- [localtunnel](https://github.com/localtunnel/localtunnel)
+- [ngrok](https://ngrok.com/)
+- [Vercel](https://vercel.com/)
+- [surge](https://surge.sh/)
+- [netlify dev](https://www.netlify.com/products/dev/)
 

@@ -1,5 +1,39 @@
-# Follow Up List
+# Follow Up List  📌
 
+<p align="center">
+⌛ All Links that worth my time every time ⌛
+</p>
+
+## References
+
+- [Web Skills](https://andreasbm.github.io/web-skills/)
+- [HTML Reference](http://htmlreference.io/)
+- [CSS Reference](http://cssreference.io/)
+- [Web Dev](https://web.dev/)
+- [MDN Dev](https://developer.mozilla.org/en-US/)
+- [JavaScript Info](https://javascript.info/)
+- [Google Developers](https://developers.google.com/web/fundamentals)
+- [Don’t be a Junior Developer: The Roadmap](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
+- [A Recap of Frontend Development in 2019](https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2019-1e7d07966d6c)
+- [From Zero to Front-end Hero (Part 1)](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/)
+- [From Zero to Front-end Hero (Part 2)](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-2-adfa4824da9b/)
+- [CSS Zen Garden](http://www.csszengarden.com) - Unleash your CSS powers and create a beautiful stylesheet for this site.
+
+#### Written Tutorials
+
+- [SABE](https://sabe.io/)
+- [Tutorialzine](https://tutorialzine.com/) - Short tutorials.
+- [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
+- [Hackdesign](https://hackdesign.org) - An easy to follow design course for people who do amazing things.
+- [HTML & CSS is Hard](https://internetingishard.com/html-and-css/) - A friendly web development tutorial for complete beginners.
+
+#### Courses 📺
+
+- 💲 [Udemy](https://www.udemy.com/)
+- 💲 [Egghead](https://egghead.io/)
+- 💲 [scrimba](https://scrimba.com/)
+- 💲 [Pluralsight](https://app.pluralsight.com/)
+- 💲 [Udacity](https://www.udacity.com/)
 ## Blogs
 
 - [CSS Tricks](https://css-tricks.com/)
@@ -7,40 +41,30 @@
 - [Free Code Camp](https://www.freecodecamp.org/news/)
 - [Bites & Pieces](https://blog.bitsrc.io/)
 - [Weekly Webtips](https://www.webtips.dev/)
-- [alligator.io](https://alligator.io/)
 - [javascript scene](https://medium.com/javascript-scene)
+- [alligator.io](https://alligator.io/)
+- [SCOTCH](https://scotch.io/)
 - [Toptal Blog](https://www.toptal.com/blog) - InDepth articles.
-- [Tutorialzine](https://tutorialzine.com/) - Short tutorials. 
 - [Ahmad Shadeed](https://ishadeed.com/) - CSS & Design. 
 
 ## Updates
 > Browsers and tools blogs
 
 - [VS Code](https://code.visualstudio.com/updates)
-- [Chrome Dev tools](https://developers.google.com/web/updates)
-- [Hacks Mozilla](https://hacks.mozilla.org/)
+- [Chrome Dev tools](https://developers.google.com/web/updates) - [Youtube](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) - Latest updates from google chrome.
+- [Hacks Mozilla](https://hacks.mozilla.org/) - Latest updates from Mozilla Firefox.
+- [Webkit](https://webkit.org/blog/) - Latest updates from webkit technology. 
+
+## Newsletter
+
+- [Node Weekly](https://nodeweekly.com/)
+- [Frontend focus](https://frontendfoc.us/)
+- [JavaScript Weekly](https://javascriptweekly.com/)
+- [React Status](https://react.statuscode.com/)
 
 ## Podcast 🎙
 
 - [Syntax](https://syntax.fm/)
-
-## Courses 📺
-
-- 💲 [Udemy](https://www.udemy.com/)
-- 💲 [Egghead](https://egghead.io/)
-- 💲 [Pluralsight](https://app.pluralsight.com/)
-- 💲 [Udacity](https://www.udacity.com/)
-
-## Youtube
-
-- [freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
-- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-- [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
-- [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
-- [Front End Center](https://www.youtube.com/channel/UCbxzdZTDn4YB4Z-ukch2ivw)
-- 📢 [JavaScript Conferences by GitNation](https://www.youtube.com/channel/UCQM428Hwrvxla8DCgjGONSQ)
-- 📢 [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)
 
 
 ## Frameworks and Tools
