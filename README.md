@@ -1,19 +1,16 @@
-# My Bookmark 🔗
+# My Bookmarks 🔗
 
-### Resources
 
 - [Follow Up 📌](FollowUp.md)
 - [FrontEnd Picks](FrontEnd.md)
 - [General Software Topics](General.md)
+- [Online Resources](OnlineResources.md)
 
-### Frameworks
+### Technologies
 
-- [React](Frameworks/React.md) - Client Side JavaScript Framework.
-- [Angular](Frameworks/Angular.md) - Client Side JavaScript Framework.
-- [Vue](Frameworks/Vue.js.md) - Client Side JavaScript Framework.
-- [Laravel](Frameworks/Laravel.md) - Server Side PHP Framework.
+- [React](technologies/react.md) - Client Side JavaScript Framework.
+- [Angular](technologies/angular.md) - Client Side JavaScript Framework.
+- [Vue](technologies/vue.md) - Client Side JavaScript Framework.
+- [Laravel](technologies/laravel.md) - Server Side PHP Framework.
+- [DevOps](technologies/devops.md)
 
-### Tools
-
-- [Online Resources](Tools/OnlineResources.md)
-- [DevOps](Tools/DevOps.md)
