@@ -40,12 +40,20 @@
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Free Code Camp](https://www.freecodecamp.org/news/)
 - [Bites & Pieces](https://blog.bitsrc.io/)
-- [Weekly Webtips](https://www.webtips.dev/)
-- [javascript scene](https://medium.com/javascript-scene)
-- [alligator.io](https://alligator.io/)
 - [SCOTCH](https://scotch.io/)
+- [Weekly Webtips](https://www.webtips.dev/)
+- [alligator.io](https://alligator.io/)
 - [Toptal Blog](https://www.toptal.com/blog) - InDepth articles.
-- [Ahmad Shadeed](https://ishadeed.com/) - CSS & Design. 
+- [Ahmad Shadeed](https://ishadeed.com/) - CSS & Design.
+
+#### Medium
+
+- [Dailyjs](https://medium.com/dailyjs)
+- [javascript scene](https://medium.com/javascript-scene)
+- [Better Programming](https://medium.com/better-programming)
+- [Javascript in plain english](https://medium.com/javascript-in-plain-english)
+- [levelup](https://levelup.gitconnected.com/)
+- [codeburst](https://codeburst.io/)
 
 ## Updates
 > Browsers and tools blogs
