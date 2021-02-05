@@ -73,6 +73,7 @@
 ## Podcast 🎙
 
 - [Syntax](https://syntax.fm/)
+- [CSS Podcast](https://thecsspodcast.libsyn.com/)
 
 
 ## Frameworks and Tools
@@ -97,6 +98,7 @@
 - 📺 [Demos with Angular](https://www.youtube.com/c/DemoswithAngular/videos)
 - 📢 [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
 - 📢 [AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)
+- 🎙 [The Angular Show](https://www.spreaker.com/show/angular-show)
 
 #### VueJs
 
