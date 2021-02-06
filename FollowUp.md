@@ -1,25 +1,35 @@
-# Follow Up List  📌
+# Follow Up List 📌
 
 <p align="center">
 ⌛ All Links that worth my time every time ⌛
 </p>
 
-## References
+## References & Documentations
 
-- [Web Skills](https://andreasbm.github.io/web-skills/)
 - [HTML Reference](http://htmlreference.io/)
 - [CSS Reference](http://cssreference.io/)
-- [Web Dev](https://web.dev/)
-- [MDN Dev](https://developer.mozilla.org/en-US/)
 - [JavaScript Info](https://javascript.info/)
+- [MDN Dev](https://developer.mozilla.org/en-US/)
+- [Web Dev](https://web.dev/)
 - [Google Developers](https://developers.google.com/web/fundamentals)
+
+## Roadmaps
+
+> Resources for web development paths
+
+- [Web Skills](https://andreasbm.github.io/web-skills/)
 - [Don’t be a Junior Developer: The Roadmap](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
 - [A Recap of Frontend Development in 2019](https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2019-1e7d07966d6c)
 - [From Zero to Front-end Hero (Part 1)](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/)
 - [From Zero to Front-end Hero (Part 2)](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-2-adfa4824da9b/)
-- [CSS Zen Garden](http://www.csszengarden.com) - Unleash your CSS powers and create a beautiful stylesheet for this site.
 
-#### Written Tutorials
+## Books
+
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [You don't know javascript](https://github.com/getify/You-Dont-Know-JS)
+- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+## Courses & Tutorials 📺
 
 - [SABE](https://sabe.io/)
 - [Tutorialzine](https://tutorialzine.com/) - Short tutorials.
@@ -27,45 +37,8 @@
 - [Hackdesign](https://hackdesign.org) - An easy to follow design course for people who do amazing things.
 - [HTML & CSS is Hard](https://internetingishard.com/html-and-css/) - A friendly web development tutorial for complete beginners.
 
-#### Courses 📺
-
-- 💲 [Udemy](https://www.udemy.com/)
-- 💲 [Egghead](https://egghead.io/)
-- 💲 [scrimba](https://scrimba.com/)
-- 💲 [Pluralsight](https://app.pluralsight.com/)
-- 💲 [Udacity](https://www.udacity.com/)
-## Blogs
-
-- [CSS Tricks](https://css-tricks.com/)
-- [Smashing Magazine](https://www.smashingmagazine.com/)
-- [Free Code Camp](https://www.freecodecamp.org/news/)
-- [Bites & Pieces](https://blog.bitsrc.io/)
-- [SCOTCH](https://scotch.io/)
-- [Weekly Webtips](https://www.webtips.dev/)
-- [alligator.io](https://alligator.io/)
-- [Toptal Blog](https://www.toptal.com/blog) - InDepth articles.
-- [Ahmad Shadeed](https://ishadeed.com/) - CSS & Design.
-
-#### Medium
-
-- [Dailyjs](https://medium.com/dailyjs)
-- [javascript scene](https://medium.com/javascript-scene)
-- [Better Programming](https://medium.com/better-programming)
-- [Javascript in plain english](https://medium.com/javascript-in-plain-english)
-- [levelup](https://levelup.gitconnected.com/)
-- [codeburst](https://codeburst.io/)
-
-## Updates
-> Browsers and tools blogs
-
-- [VS Code](https://code.visualstudio.com/updates)
-- [Chrome Dev tools](https://developers.google.com/web/updates) - [Youtube](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) - Latest updates from google chrome.
-- [Hacks Mozilla](https://hacks.mozilla.org/) - Latest updates from Mozilla Firefox.
-- [Webkit](https://webkit.org/blog/) - Latest updates from webkit technology. 
-
 ## Newsletter
 
-- [Node Weekly](https://nodeweekly.com/)
 - [Frontend focus](https://frontendfoc.us/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [React Status](https://react.statuscode.com/)
@@ -75,8 +48,24 @@
 - [Syntax](https://syntax.fm/)
 - [CSS Podcast](https://thecsspodcast.libsyn.com/)
 
+## Blogs
 
-## Frameworks and Tools
+- [CSS Tricks](https://css-tricks.com/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [Free Code Camp](https://www.freecodecamp.org/news/)
+- [Bites & Pieces](https://blog.bitsrc.io/)
+- [alligator.io](https://alligator.io/)
+- [SCOTCH](https://scotch.io/)
+- [Weekly Webtips](https://www.webtips.dev/)
+- [Toptal Blog](https://www.toptal.com/blog) - InDepth articles.
+- [Ahmad Shadeed](https://ishadeed.com/) - CSS & Design.
+- [VS Code](https://code.visualstudio.com/updates) - Latest updates from VS Code team.
+- [Chrome Dev blog](https://developer.chrome.com/blog/) - [Youtube Channel](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) - Latest updates from google chrome team.
+- [Hacks Mozilla](https://hacks.mozilla.org/) - Latest updates from Mozilla Firefox.
+- [Webkit](https://webkit.org/blog/) - Latest updates from webkit technology.
+
+## Frameworks
+
 #### React
 
 - 📰 [Log rocket blog](https://blog.logrocket.com/)
