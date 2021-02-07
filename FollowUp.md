@@ -46,7 +46,6 @@
 ## Podcast 🎙
 
 - [Syntax](https://syntax.fm/)
-- [CSS Podcast](https://thecsspodcast.libsyn.com/)
 
 ## Blogs
 
@@ -55,9 +54,6 @@
 - [Free Code Camp](https://www.freecodecamp.org/news/)
 - [Bites & Pieces](https://blog.bitsrc.io/)
 - [alligator.io](https://alligator.io/)
-- [SCOTCH](https://scotch.io/)
-- [Weekly Webtips](https://www.webtips.dev/)
-- [Toptal Blog](https://www.toptal.com/blog) - InDepth articles.
 - [Ahmad Shadeed](https://ishadeed.com/) - CSS & Design.
 - [VS Code](https://code.visualstudio.com/updates) - Latest updates from VS Code team.
 - [Chrome Dev blog](https://developer.chrome.com/blog/) - [Youtube Channel](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) - Latest updates from google chrome team.
