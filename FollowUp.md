@@ -1,52 +1,45 @@
-# Follow Up List 📌
+<center>
 
-<p align="center">
-⌛ All Links that worth my time every time ⌛
-</p>
+# Follow Up List 👨‍💻👨‍💻
 
-## References, Documentations and Resources
+</center>
+
+## References
+
+> Sticky posts, articles and websites 📌
 
 - [HTML Reference](http://htmlreference.io/)
 - [CSS Reference](http://cssreference.io/)
-- [JavaScript Info](https://javascript.info/)
 - [MDN Dev](https://developer.mozilla.org/en-US/)
-- [Google Developers](https://developers.google.com/web/fundamentals)
+- [JavaScript Info](https://javascript.info/)
 
+## Courses, Books 📚 & Tutorials 📺
+
+- 📕 [Eloquent JavaScript](https://eloquentjavascript.net/)
+- 📕 [You don't know javascript](https://github.com/getify/You-Dont-Know-JS)
+- 📕 [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Java5cript](https://www.java5cript.com/) - Free JavaScript Resources.
 - [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
 - [Don’t be a Junior Developer: The Roadmap](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
 - [How to Learn Web Development in 2021](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/)  - a Web Developer Roadmap.
-- [A Recap of Frontend Development in 2019](https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2019-1e7d07966d6c)
-- [From Zero to Front-end Hero (Part 1)](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/)
-- [From Zero to Front-end Hero (Part 2)](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-2-adfa4824da9b/)
-
-## Books
-
-- [Eloquent JavaScript](https://eloquentjavascript.net/)
-- [You don't know javascript](https://github.com/getify/You-Dont-Know-JS)
-- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-
-## Courses & Tutorials 📺
-
+- [Google Developers](https://developers.google.com/web/fundamentals)
 - [SABE](https://sabe.io/)
 - [Tutorialzine](https://tutorialzine.com/) - Short tutorials.
-- [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
 - [Hackdesign](https://hackdesign.org) - An easy to follow design course for people who do amazing things.
 - [HTML & CSS is Hard](https://internetingishard.com/html-and-css/) - A friendly web development tutorial for complete beginners.
 
-## Newsletter
+## Blogs, Podcast 🎙, Newsletter 📫 & Conferences 📢
 
-- [Frontend focus](https://frontendfoc.us/)
-- [JavaScript Weekly](https://javascriptweekly.com/)
-- [React Status](https://react.statuscode.com/)
-
-## Blogs
+> Keep yourself updated with the latest news about web development.
 
 - [Web Dev](https://web.dev/)
-- [Syntax](https://syntax.fm/) - Podcast 🎙
 - [CSS Tricks](https://css-tricks.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Free Code Camp](https://www.freecodecamp.org/news/)
+- 📫 [Frontend focus](https://frontendfoc.us/)
+- 📫 [JavaScript Weekly](https://javascriptweekly.com/)
+- 📫 [React Status](https://react.statuscode.com/)
+- 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers. 
 - [Ahmad Shadeed](https://ishadeed.com/) - CSS & Design.
 - [V8](https://v8.dev/) - JavaScript engine.
 - [VS Code](https://code.visualstudio.com/updates) - Latest updates from VS Code team.
@@ -55,7 +48,7 @@
 - [Hacks Mozilla](https://hacks.mozilla.org/) - Latest updates from Mozilla Firefox.
 - [Webkit](https://webkit.org/blog/) - Latest updates from webkit technology.
 
-## Frameworks
+## Web Development Frameworks
 
 #### React
 
