@@ -4,21 +4,18 @@
 ⌛ All Links that worth my time every time ⌛
 </p>
 
-## References & Documentations
+## References, Documentations and Resources
 
 - [HTML Reference](http://htmlreference.io/)
 - [CSS Reference](http://cssreference.io/)
 - [JavaScript Info](https://javascript.info/)
 - [MDN Dev](https://developer.mozilla.org/en-US/)
-- [Web Dev](https://web.dev/)
 - [Google Developers](https://developers.google.com/web/fundamentals)
 
-## Roadmaps
-
-> Resources for web development paths
-
-- [Web Skills](https://andreasbm.github.io/web-skills/)
+- [Java5cript](https://www.java5cript.com/) - Free JavaScript Resources.
+- [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
 - [Don’t be a Junior Developer: The Roadmap](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
+- [How to Learn Web Development in 2021](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/)  - a Web Developer Roadmap.
 - [A Recap of Frontend Development in 2019](https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2019-1e7d07966d6c)
 - [From Zero to Front-end Hero (Part 1)](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/)
 - [From Zero to Front-end Hero (Part 2)](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-2-adfa4824da9b/)
@@ -43,20 +40,18 @@
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [React Status](https://react.statuscode.com/)
 
-## Podcast 🎙
-
-- [Syntax](https://syntax.fm/)
-
 ## Blogs
 
+- [Web Dev](https://web.dev/)
+- [Syntax](https://syntax.fm/) - Podcast 🎙
 - [CSS Tricks](https://css-tricks.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Free Code Camp](https://www.freecodecamp.org/news/)
-- [Bites & Pieces](https://blog.bitsrc.io/)
-- [alligator.io](https://alligator.io/)
 - [Ahmad Shadeed](https://ishadeed.com/) - CSS & Design.
+- [V8](https://v8.dev/) - JavaScript engine.
 - [VS Code](https://code.visualstudio.com/updates) - Latest updates from VS Code team.
-- [Chrome Dev blog](https://developer.chrome.com/blog/) - [Youtube Channel](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) - Latest updates from google chrome team.
+- [Chrome Dev blog](https://developer.chrome.com/blog/)  ☑️
+- [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) Youtube Channel ☑️.
 - [Hacks Mozilla](https://hacks.mozilla.org/) - Latest updates from Mozilla Firefox.
 - [Webkit](https://webkit.org/blog/) - Latest updates from webkit technology.
 
@@ -72,7 +67,11 @@
 
 #### Angular
 
-- 📰 [Angular Blog](https://blog.angular.io/) ☑️
+- 📰 [Official Angular Blog](https://blog.angular.io/) ☑️
+- 📺 [Official Youtube Channel](https://www.youtube.com/c/Angular/featured) ☑️
+- 📢 [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA) ☑️
+- 🎙 [The Angular Show](https://www.spreaker.com/show/angular-show) ☑️
+- 📺 [Demos with Angular](https://www.youtube.com/c/DemoswithAngular/videos) ☑️
 - 📰 [InDepth](https://indepth.dev/)
 - 📰 [Netbasal](https://netbasal.medium.com/)
 - 📰 [Todd Blog](https://ultimatecourses.com/blog/)
@@ -80,10 +79,7 @@
 - 📰 [Angular FireBase](https://angularfirebase.com/lessons/)
 - 📰 [Thoughtram](https://blog.thoughtram.io/categories/angular)
 - 📰 [Mgechev](http://blog.mgechev.com/)
-- 📺 [Demos with Angular](https://www.youtube.com/c/DemoswithAngular/videos)
-- 📢 [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
 - 📢 [AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)
-- 🎙 [The Angular Show](https://www.spreaker.com/show/angular-show)
 
 #### VueJs
 
