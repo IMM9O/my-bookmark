@@ -13,7 +13,9 @@
 - [MDN Dev](https://developer.mozilla.org/en-US/)
 - [JavaScript Info](https://javascript.info/)
 
-## Courses, Books 📚 & Tutorials 📺
+## Courses & Books 📚📺
+
+> Learn web development in depth
 
 - 📕 [Eloquent JavaScript](https://eloquentjavascript.net/)
 - 📕 [You don't know javascript](https://github.com/getify/You-Dont-Know-JS)
@@ -36,10 +38,11 @@
 - [CSS Tricks](https://css-tricks.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Free Code Camp](https://www.freecodecamp.org/news/)
-- 📫 [Frontend focus](https://frontendfoc.us/)
-- 📫 [JavaScript Weekly](https://javascriptweekly.com/)
-- 📫 [React Status](https://react.statuscode.com/)
 - 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers. 
+- 📫 [JavaScript Weekly](https://javascriptweekly.com/)
+- 📫 [CSS Weekly](https://css-weekly.com/)
+- 📫 [React Status](https://react.statuscode.com/)
+- 📫 [Frontend focus](https://frontendfoc.us/)
 - [Ahmad Shadeed](https://ishadeed.com/) - CSS & Design.
 - [V8](https://v8.dev/) - JavaScript engine.
 - [VS Code](https://code.visualstudio.com/updates) - Latest updates from VS Code team.

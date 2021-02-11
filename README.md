@@ -4,7 +4,6 @@
 - [Follow Up 📌](FollowUp.md)
 - [FrontEnd Picks](FrontEnd.md)
 - [General Software Topics](General.md)
-- [Online Resources](OnlineResources.md)
 
 ### Technologies
 
