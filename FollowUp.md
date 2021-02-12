@@ -38,18 +38,20 @@
 - [CSS Tricks](https://css-tricks.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Free Code Camp](https://www.freecodecamp.org/news/)
-- 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers. 
+- [Digital Ocean Community](https://www.digitalocean.com/community)
+- [Ahmad Shadeed](https://ishadeed.com/) - CSS & Design.
+- 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
+- 🎙 [ShopTalk Show](https://shoptalkshow.com/) - A weekly podcast about just building websites.
 - 📫 [JavaScript Weekly](https://javascriptweekly.com/)
 - 📫 [CSS Weekly](https://css-weekly.com/)
 - 📫 [React Status](https://react.statuscode.com/)
-- 📫 [Frontend focus](https://frontendfoc.us/)
-- [Ahmad Shadeed](https://ishadeed.com/) - CSS & Design.
+- 📫 [Frontend Focus](https://frontendfoc.us/)
 - [V8](https://v8.dev/) - JavaScript engine.
-- [VS Code](https://code.visualstudio.com/updates) - Latest updates from VS Code team.
-- [Chrome Dev blog](https://developer.chrome.com/blog/)  ☑️
-- [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) Youtube Channel ☑️.
+- [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) - ☑️ Youtube Channel.
+- [Chrome Dev blog](https://developer.chrome.com/blog/) - ☑️ Latest update from google chrome.
 - [Hacks Mozilla](https://hacks.mozilla.org/) - Latest updates from Mozilla Firefox.
 - [Webkit](https://webkit.org/blog/) - Latest updates from webkit technology.
+- [VS Code](https://code.visualstudio.com/updates) - Latest updates from VS Code team.
 
 ## Web Development Frameworks
 
