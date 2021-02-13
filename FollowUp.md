@@ -1,8 +1,4 @@
-<center>
-
 # Follow Up List 👨‍💻👨‍💻
-
-</center>
 
 ## References
 
@@ -38,30 +34,28 @@
 - [CSS Tricks](https://css-tricks.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Free Code Camp](https://www.freecodecamp.org/news/)
-- [Digital Ocean Community](https://www.digitalocean.com/community)
-- [Ahmad Shadeed](https://ishadeed.com/) - CSS & Design.
+- [Bit Blog](https://blog.bitsrc.io/)
+- [Ahmad Shadeed](https://ishadeed.com/) - In depth CSS & Design.
 - 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
 - 🎙 [ShopTalk Show](https://shoptalkshow.com/) - A weekly podcast about just building websites.
-- 📫 [JavaScript Weekly](https://javascriptweekly.com/)
-- 📫 [CSS Weekly](https://css-weekly.com/)
-- 📫 [React Status](https://react.statuscode.com/)
 - 📫 [Frontend Focus](https://frontendfoc.us/)
-- [V8](https://v8.dev/) - JavaScript engine.
+- 📫 [CSS Weekly](https://css-weekly.com/)
+- 📫 [JavaScript Weekly](https://javascriptweekly.com/)
 - [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) - ☑️ Youtube Channel.
+
+- [V8](https://v8.dev/) - ☑️ JavaScript engine.
 - [Chrome Dev blog](https://developer.chrome.com/blog/) - ☑️ Latest update from google chrome.
 - [Hacks Mozilla](https://hacks.mozilla.org/) - Latest updates from Mozilla Firefox.
 - [Webkit](https://webkit.org/blog/) - Latest updates from webkit technology.
-- [VS Code](https://code.visualstudio.com/updates) - Latest updates from VS Code team.
 
 ## Web Development Frameworks
 
 #### React
 
-- 📰 [Log rocket blog](https://blog.logrocket.com/)
 - 📰 [React Blog](https://reactjs.org/blog/) ☑️
-- 📰 [Kent C. Dodds's Blog](https://kentcdodds.com/)
-- 📰 [Epic React](https://epicreact.dev/articles)
+- 📫 [React Status](https://react.statuscode.com/)
 - 📰 [Overreacted](https://overreacted.io/)
+- 📰 [Kent C. Dodds's Blog](https://kentcdodds.com/)
 
 #### Angular
 
@@ -74,16 +68,15 @@
 - 📰 [Netbasal](https://netbasal.medium.com/)
 - 📰 [Todd Blog](https://ultimatecourses.com/blog/)
 - 📰 [Angular University](https://blog.angular-university.io/)
-- 📰 [Angular FireBase](https://angularfirebase.com/lessons/)
 - 📰 [Thoughtram](https://blog.thoughtram.io/categories/angular)
 - 📰 [Mgechev](http://blog.mgechev.com/)
 - 📢 [AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)
 
 #### VueJs
 
-- 📰 [Vue Mastery](https://medium.com/vue-mastery) ☑️
-- 📺 [Vue Mastery Courses](https://www.vuemastery.com/) ☑️
-- 📺 [Vueschool](https://vueschool.io/)
+- 📰 [The vue point](https://medium.com/the-vue-point) ☑️ 
+- 📫 [Vuejs News](https://news.vuejs.org/) ☑️
+- 📰 [Vue Mastery](https://medium.com/vue-mastery)
 - 📰 [Vuejs Developers](https://vuejsdevelopers.com/)
 
 #### Laravel
