@@ -39,8 +39,8 @@
 - 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
 - 🎙 [ShopTalk Show](https://shoptalkshow.com/) - A weekly podcast about just building websites.
 - 📫 [Frontend Focus](https://frontendfoc.us/)
-- 📫 [CSS Weekly](https://css-weekly.com/)
 - 📫 [JavaScript Weekly](https://javascriptweekly.com/)
+- 📫 [Pointer](https://www.pointer.io/)
 - [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) - ☑️ Youtube Channel.
 
 - [V8](https://v8.dev/) - ☑️ JavaScript engine.
