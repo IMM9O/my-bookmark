@@ -34,19 +34,24 @@
 - [CSS Tricks](https://css-tricks.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Free Code Camp](https://www.freecodecamp.org/news/)
-- [Bit Blog](https://blog.bitsrc.io/)
-- [Ahmad Shadeed](https://ishadeed.com/) - In depth CSS & Design.
-- 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
-- 🎙 [ShopTalk Show](https://shoptalkshow.com/) - A weekly podcast about just building websites.
-- 📫 [Frontend Focus](https://frontendfoc.us/)
-- 📫 [JavaScript Weekly](https://javascriptweekly.com/)
-- 📫 [Pointer](https://www.pointer.io/)
 - [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) - ☑️ Youtube Channel.
+
+- [Bit Blog](https://blog.bitsrc.io/)
+- [LogRocket Blog](https://blog.logrocket.com/)
+
+- [Ahmad Shadeed](https://ishadeed.com/) - In depth CSS & Design.
 
 - [V8](https://v8.dev/) - ☑️ JavaScript engine.
 - [Chrome Dev blog](https://developer.chrome.com/blog/) - ☑️ Latest update from google chrome.
 - [Hacks Mozilla](https://hacks.mozilla.org/) - Latest updates from Mozilla Firefox.
 - [Webkit](https://webkit.org/blog/) - Latest updates from webkit technology.
+
+- 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
+- 🎙 [ShopTalk Show](https://shoptalkshow.com/) - A weekly podcast about just building websites.
+- 📫 [Frontend Focus](https://frontendfoc.us/)
+- 📫 [JavaScript Weekly](https://javascriptweekly.com/)
+- 📫 [Pointer](https://www.pointer.io/)
+
 
 ## Web Development Frameworks
 
