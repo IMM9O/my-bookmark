@@ -1,14 +1,12 @@
 <p align="center">All FrontEnd related topics (HTML, CSS, JavaScript, i18n, a11y, security, performance and SEO)</p>
 
-
 ## 2021
 
-#### January
+### January
 
 - [Front-End Performance Checklist](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 - [Blogged Answers: Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux)](https://blog.isquaredsoftware.com/2021/01/context-redux-differences/)
 - [The Tao of React.](https://alexkondov.com/tao-of-react/) This article made the rounds this month in the React community.
-
 
 ## 2020
 
@@ -18,9 +16,3 @@
 - [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
 - [Everything I Know About Style Guides, Design Systems, and Component Libraries](https://leerob.io/blog/style-guides-component-libraries-design-systems)
 - [Best Practices for Search Results](https://uxplanet.org/best-practices-for-search-results-1bbed9d7a311)
-
-
-
-
-
-

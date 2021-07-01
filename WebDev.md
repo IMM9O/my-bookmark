@@ -1,34 +1,42 @@
-# Follow Up List 👨‍💻👨‍💻
-
-## References
-
-> Sticky posts, articles and websites 📌
-
-- [HTML Reference](http://htmlreference.io/)
-- [CSS Reference](http://cssreference.io/)
-- [MDN Dev](https://developer.mozilla.org/en-US/)
-- [JavaScript Info](https://javascript.info/)
+# Web Development Follow Up List 👨‍💻👨‍💻
 
 ## Courses & Books 📚📺
 
 > Learn web development in depth
 
+- 🔖 [MDN Dev](https://developer.mozilla.org/en-US/)
+- 🔖 [JavaScript Info](https://javascript.info/)
+- 🔖 [SABE](https://sabe.io/)
 - 📕 [Eloquent JavaScript](https://eloquentjavascript.net/)
 - 📕 [You don't know javascript](https://github.com/getify/You-Dont-Know-JS)
 - 📕 [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- [Java5cript](https://www.java5cript.com/) - Free JavaScript Resources.
-- [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
-- [Don’t be a Junior Developer: The Roadmap](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
-- [How to Learn Web Development in 2021](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/)  - a Web Developer Roadmap.
-- [Google Developers](https://developers.google.com/web/fundamentals)
-- [SABE](https://sabe.io/)
-- [Tutorialzine](https://tutorialzine.com/) - Short tutorials.
-- [Hackdesign](https://hackdesign.org) - An easy to follow design course for people who do amazing things.
-- [HTML & CSS is Hard](https://internetingishard.com/html-and-css/) - A friendly web development tutorial for complete beginners.
+- 📗 [Hackdesign](https://hackdesign.org) - An easy to follow design course for people who do amazing things.
+- 📗 [HTML & CSS is Hard](https://internetingishard.com/html-and-css/) - A friendly web development tutorial for complete beginners.
+- 🔗 [Java5cript](https://www.java5cript.com/) - Free JavaScript Learning Resources.
+- 🔗 [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
 
-## Blogs, Podcast 🎙, Newsletter 📫 & Conferences 📢
+## References
+
+> Sticky posts, articles and cheat sheets 📌
+
+- [HTML Reference](http://htmlreference.io/)
+- [CSS Reference](http://cssreference.io/)
+- [Don’t be a Junior Developer: The Roadmap](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
+- [How to Learn Web Development in 2021](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/) - a Web Developer Roadmap.
+- [Head](https://htmlhead.dev/) - A simple guide to HTML `<head>` elements
+- [1-Line Layouts\*](https://1linelayouts.glitch.me/)
+- [SmolCSS](https://smolcss.dev/) - Minimal snippets for modern CSS layouts and components
+- [Modern CSS](https://moderncss.dev/) - Modern CSS Solutions for old css problems
+- 📜 [CSS Grid Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Tricks.
+- 📜 [Flexbox Complete Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks.
+- [Design System Checklist](https://www.designsystemchecklist.com/) - An open-source checklist to help you plan, build and grow your design system.
+- [A COMPREHENSIVE GUIDE TO FONT LOADING STRATEGIES](https://www.zachleat.com/web/comprehensive-webfonts/)
+
+## Keep learning
 
 > Keep yourself updated with the latest news about web development.
+
+### Blogs
 
 - [Web Dev](https://web.dev/)
 - [CSS Tricks](https://css-tricks.com/)
@@ -41,28 +49,30 @@
 
 - [Ahmad Shadeed](https://ishadeed.com/) - In depth CSS & Design.
 
+### Tools Updates (V8, Chrome, Firefox & Safari)
+
 - [V8](https://v8.dev/) - ☑️ JavaScript engine.
 - [Chrome Dev blog](https://developer.chrome.com/blog/) - ☑️ Latest update from google chrome.
-- [Hacks Mozilla](https://hacks.mozilla.org/) - Latest updates from Mozilla Firefox.
-- [Webkit](https://webkit.org/blog/) - Latest updates from webkit technology.
+- [Hacks Mozilla](https://hacks.mozilla.org/) - ☑️ Latest updates from Mozilla Firefox.
+- [Webkit](https://webkit.org/blog/) - ☑️ Latest updates from webkit technology.
+
+### Podcasts 🎙 & Newsletter 📫
 
 - 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
-- 🎙 [ShopTalk Show](https://shoptalkshow.com/) - A weekly podcast about just building websites.
-- 📫 [Frontend Focus](https://frontendfoc.us/)
-- 📫 [JavaScript Weekly](https://javascriptweekly.com/)
+- 📫 [Statuscode](http://statuscode.com/) - Weekly email newsletters on a range of programming niches.
+- 📫 [ZTM Newsletter](https://zerotomastery.io/blog/) - Monthly Newsletter for (Web Development, Python & Machine learning)
 - 📫 [Pointer](https://www.pointer.io/)
-
 
 ## Web Development Frameworks
 
-#### React
+### React
 
 - 📰 [React Blog](https://reactjs.org/blog/) ☑️
 - 📫 [React Status](https://react.statuscode.com/)
 - 📰 [Overreacted](https://overreacted.io/)
 - 📰 [Kent C. Dodds's Blog](https://kentcdodds.com/)
 
-#### Angular
+### Angular
 
 - 📰 [Official Angular Blog](https://blog.angular.io/) ☑️
 - 📺 [Official Youtube Channel](https://www.youtube.com/c/Angular/featured) ☑️
@@ -77,14 +87,14 @@
 - 📰 [Mgechev](http://blog.mgechev.com/)
 - 📢 [AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)
 
-#### VueJs
+### VueJs
 
-- 📰 [The vue point](https://medium.com/the-vue-point) ☑️ 
+- 📰 [The vue point](https://medium.com/the-vue-point) ☑️
 - 📫 [Vuejs News](https://news.vuejs.org/) ☑️
 - 📰 [Vue Mastery](https://medium.com/vue-mastery)
 - 📰 [Vuejs Developers](https://vuejsdevelopers.com/)
 
-#### Laravel
+### Laravel
 
 - 📺 [Laracasts](https://laracasts.com/) ☑️
 - 📰 [Laravel News](https://laravel-news.com/) ☑️
@@ -97,7 +107,7 @@
 - 📰 [Just Laravel](http://justlaravel.com/)
 - 📺 [خدمات ويب](https://5dmat-web.com/)
 
-#### Cross platform Mobile (Android & IOS)
+### Cross platform Mobile (Android & IOS)
 
 - 📰 [Ionic Blog](http://blog.ionic.io/) ☑️
 - 📰 [devdactic](https://devdactic.com/devblog/)

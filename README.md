@@ -1,11 +1,11 @@
 # My Bookmarks 🔗
 
 
-- [Follow Up 📌](FollowUp.md)
+- [Follow Up 📌](WebDev.md)
 - [FrontEnd Picks](FrontEnd.md)
 - [General Software Topics](General.md)
 
-### Technologies
+## Technologies
 
 - [React](technologies/react.md) - Client Side JavaScript Framework.
 - [Angular](technologies/angular.md) - Client Side JavaScript Framework.
