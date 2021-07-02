@@ -2,6 +2,7 @@
 > All Links related to development process like management, editor, IDE, git ...etc.
 
 
+---
 ## Career Advice
 
 - [Master the JavaScript Interview: Soft Skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
@@ -12,6 +13,8 @@
 - [10 Steps to Plan Better so you can Write Less Code](https://medium.freecodecamp.org/10-steps-to-plan-better-so-you-can-write-less-code-ece655e03608)
 - [All I Really Need to Know About InfoSec, I learned from Mr. Robot](https://medium.freecodecamp.org/all-i-really-need-to-know-about-infosec-i-learned-from-mr-robot-7902cca6d729)
 
+
+---
 
 ## Tools
 ### Code editor
@@ -42,9 +45,9 @@
 - [Microsoft Excel Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=Vl0H-qTclOg)
 
 
-## Data Structure & Algorithms
+---
 
-**Algorithms Types**
+## Problem Solving
 
 ![Algorithms Types](./_assets/types-of-algorithm.png)
 
@@ -55,12 +58,20 @@
 5. Backtracking Algorithm (Depend on recursive)
 6. Greedy Algorithm (Depend on recursive)
 
+---
+
+## Data Structure & Algorithms
+
+
 ### Courses & Books 📀 📚
 
 - [Algorithms and Data Structures - Full Course for Beginners from Treehouse](https://www.youtube.com/watch?v=8hly31xKli0)
 - [Understanding Sorting Algorithms](https://www.youtube.com/watch?v=l7-f9gS8VOs)
 - [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 - [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY)
+
+---
+
 ## Programming Paradigms
 
 ### Object Oriented Programming
@@ -77,6 +88,9 @@
 - No shared state
 
 
+
+
+---
 
 ## Software Design
 
@@ -95,6 +109,9 @@
 
 ### Design Patterns
 
+- 
+
+---
 
 ## Software Architecture
 
@@ -102,4 +119,32 @@
 ### Architecture Styles
 ### Architecture Principles
 
-## 
+---
+
+## Tech Communities in Egypt ( Facebook )
+
+- [Code Geist](https://www.facebook.com/CodeGeist.CG/)
+- [Product Guys](https://www.facebook.com/ProductGuys/)
+- [EGDroid](https://www.facebook.com/egdroid/)
+- [Ministry of Testing Cairo](https://www.facebook.com/ministryoftestcairo/)
+- [Geeks API](https://www.facebook.com/GeeksAPI/)
+- [SwiftyCamp](https://www.facebook.com/SwiftyCamp/)
+- [Swift Cairo](https://www.facebook.com/swiftcairo/)
+- [Tafra.io](https://www.facebook.com/tafraio/)
+- [Testing Geeks](https://www.facebook.com/EGTestingGeeks/)
+- [Egyptian Programmers - المبرمجون المصريون](https://www.facebook.com/EgyptianProgrammers/)
+- [Cairo Testing Meetup](https://www.facebook.com/cairotestingmeetup/)
+- [Agile Club](https://www.facebook.com/TheAgileClub/)
+- [Egypt Scrum Club](https://www.facebook.com/egyptscrumclub/)
+- [Ask Developer Podcast](https://www.facebook.com/askdeveloper/)
+- [Google Cloud Developers Community Egypt](https://www.facebook.com/GCDCEgypt/)
+- [GDG Cairo](https://www.facebook.com/GDGCairo/)
+- [Data Science عربي](https://www.facebook.com/DataScienceArabi/)
+- [Cairo AI](https://www.facebook.com/cairoaicommunity/)
+- [Egypt Game Developers](https://www.facebook.com/egyptgamedevs/)
+- [IGDA Egypt Chapter](https://www.facebook.com/IGDA.Egypt.Chapter/)
+- [S3Geeks](https://www.facebook.com/S3Geeks/)
+- [EgyptJS](https://www.facebook.com/EgyptJS/)
+- [Women Techmakers Cairo](https://www.facebook.com/WTMCairo/)
+- [Egyptian Geeks](https://www.facebook.com/groups/egyptian.geeks)
+- [Angular Army (ng-arab)](https://www.facebook.com/groups/angular.army)

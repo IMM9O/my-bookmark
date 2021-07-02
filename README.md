@@ -1,9 +1,9 @@
 # My Bookmarks 🔗
 
 
-- [Follow Up 📌](WebDev.md)
-- [FrontEnd Picks](FrontEnd.md)
 - [General Software Topics](General.md)
+- [Web Development Follow Up List 👨‍💻👨‍💻](WebDev.md)
+- [FrontEnd Picks](FrontEnd.md)
 
 ## Technologies
 
