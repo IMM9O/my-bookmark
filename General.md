@@ -30,6 +30,16 @@
 - [Learn Git in 15 Minutes - Official Tutorial](https://try.github.io/levels/1/challenges/1)
 - [How To Use Git And GitHub](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLwygftUY318GeCz26jz45yuMWazLgJmxZ) - Udacity
 
+### Markdown
+
+### Searching
+
+
+### CMD
+
+
+### Text Search && Manipulation
+
 
 ### Artifacts
 
@@ -40,6 +50,10 @@
 - State Transition Diagram & Tables ([State Machine](https://en.wikipedia.org/wiki/State_diagram))
 - [FlowChart Diagram](https://en.wikipedia.org/wiki/Flowchart) & [Decision Table](https://en.wikipedia.org/wiki/Decision_table)
 
+### Debugging
+
+
+
 ### Misc
 
 - [Microsoft Excel Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=Vl0H-qTclOg)
@@ -47,21 +61,16 @@
 
 ---
 
-## Problem Solving
+## Data Structure & Algorithms
 
 ![Algorithms Types](./_assets/types-of-algorithm.png)
 
-1. Divide and Conquer Algorithm
-2. Brute Force Algorithm
-3. Recursive Algorithm
-4. Dynamic Programming Algorithm  (Depend on recursive)
-5. Backtracking Algorithm (Depend on recursive)
-6. Greedy Algorithm (Depend on recursive)
-
----
-
-## Data Structure & Algorithms
-
+1. Greedy - choose the best option at the current time, without any consideration for the future.
+2. Brute Force - look at all the possibilities and selects the best solution.
+3. Divide and Conquer - divide the problem into smaller parts and then solve those parts.
+4. Dynamic Programming - build up a solution using previously found sub-solutions.
+5. Backtracking - similarly to brute force, try to generate all possible solutions, but each time you generate next solution you test if it satisfies all conditions, and only then continue generating subsequent solutions. Otherwise, backtrack, and go on a different path of finding a solution. Normally the DFS traversal of state-space is being used.
+6. Recursive Algorithm
 
 ### Courses & Books 📀 📚
 
@@ -86,9 +95,7 @@
 - Pure function
 - Immutability
 - No shared state
-
-
-
+- No Side effects
 
 ---
 
@@ -96,18 +103,20 @@
 
 ### Design Principles
 
-- S.O.L.I.D Principles
+> In general those concepts are the main building blocks to any design pattern
 
-- [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
-
-
-- Encapsulate what vars
-- Composition over inheritance
-- DRY (Don't repeat your self)
-- YAGNI (You aren't gonna need it)
-
+- KISS Principles (Keep it simple and stupid).
+- [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898).
+- Encapsulate what vars.
+- Composition over inheritance.
+- DRY (Don't repeat your self).
+- YAGNI (You aren't gonna need it).
 
 ### Design Patterns
+
+![Design Pattern Types](./_assets/dp_types.png)
+
+> In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design.
 
 - 
 
