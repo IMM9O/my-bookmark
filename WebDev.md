@@ -21,16 +21,20 @@
 
 - [HTML Reference](http://htmlreference.io/)
 - [CSS Reference](http://cssreference.io/)
+- [Head](https://htmlhead.dev/) - A simple guide to HTML `<head>` elements
+- [Can I use](https://caniuse.com/)
+- [Can I email](https://www.caniemail.com/)
+- [Can Include](https://caninclude.glitch.me/)
+- [Design System Checklist](https://www.designsystemchecklist.com/) - An open-source checklist to help you plan, build and grow your design system.
+
 - [Don’t be a Junior Developer: The Roadmap](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
 - [How to Learn Web Development in 2021](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/) - a Web Developer Roadmap.
-- [Head](https://htmlhead.dev/) - A simple guide to HTML `<head>` elements
 - [1-Line Layouts\*](https://1linelayouts.glitch.me/)
 - [SmolCSS](https://smolcss.dev/) - Minimal snippets for modern CSS layouts and components
 - [Modern CSS](https://moderncss.dev/) - Modern CSS Solutions for old css problems
+- [A COMPREHENSIVE GUIDE TO FONT LOADING STRATEGIES](https://www.zachleat.com/web/comprehensive-webfonts/)
 - 📜 [CSS Grid Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Tricks.
 - 📜 [Flexbox Complete Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks.
-- [Design System Checklist](https://www.designsystemchecklist.com/) - An open-source checklist to help you plan, build and grow your design system.
-- [A COMPREHENSIVE GUIDE TO FONT LOADING STRATEGIES](https://www.zachleat.com/web/comprehensive-webfonts/)
 
 ## Keep learning
 
@@ -44,12 +48,17 @@
 - [Free Code Camp](https://www.freecodecamp.org/news/)
 - [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) - ☑️ Youtube Channel.
 
-- [Bit Blog](https://blog.bitsrc.io/)
-- [LogRocket Blog](https://blog.logrocket.com/)
+- MOOC Blogs
+    - [educative](https://www.educative.io/blog)
 
-- [Ahmad Shadeed](https://ishadeed.com/) - In depth CSS & Design.
+- Product Blogs
+    - [Bit Blog](https://blog.bitsrc.io/)
+    - [LogRocket Blog](https://blog.logrocket.com/)
 
-### Tools Updates (V8, Chrome, Firefox & Safari)
+- Personal
+    - [Ahmad Shadeed](https://ishadeed.com/) - In depth CSS & Design.
+
+### Browsers Updates (V8, Chrome, Firefox & Safari)
 
 - [V8](https://v8.dev/) - ☑️ JavaScript engine.
 - [Chrome Dev blog](https://developer.chrome.com/blog/) - ☑️ Latest update from google chrome.
@@ -62,6 +71,7 @@
 - 📫 [Statuscode](http://statuscode.com/) - Weekly email newsletters on a range of programming niches.
 - 📫 [ZTM Newsletter](https://zerotomastery.io/blog/) - Monthly Newsletter for (Web Development, Python & Machine learning)
 - 📫 [Pointer](https://www.pointer.io/)
+- 📫 [Refactoring](https://refactoring.fm/)
 
 ## Web Development Frameworks
 
