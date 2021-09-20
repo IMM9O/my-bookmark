@@ -127,3 +127,6 @@
 - 📺 [joshmorony](https://www.youtube.com/c/JoshuaMorony/featured)
 - 📺 [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg) - 📹 Youtube Channel
 
+### Static site generator
+
+- 📰 [11ty Rocks!](https://11ty.rocks/)

@@ -59,7 +59,21 @@
 - [Microsoft Excel Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=Vl0H-qTclOg)
 
 
+### Resources
+
+- [DEV RESOURCES](https://devresourc.es/)
+
+
 ---
+
+
+
+## Software Engineering
+
+- [Learn to think](https://brilliant.org/)
+- [CSS50](https://cs50.harvard.edu/)
+- [Refactoring](https://refactoring.guru/refactoring)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## Data Structure & Algorithms
 
@@ -99,7 +113,7 @@
 
 ---
 
-## Software Design
+## Software Design & Architecture
 
 ### Design Principles
 
@@ -119,11 +133,6 @@
 > In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design.
 
 - 
-
----
-
-## Software Architecture
-
 ### Architecture Patterns
 ### Architecture Styles
 ### Architecture Principles
