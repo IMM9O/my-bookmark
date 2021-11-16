@@ -15,6 +15,11 @@
 - 🔗 [Java5cript](https://www.java5cript.com/) - Free JavaScript Learning Resources.
 - 🔗 [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
 
+## Tools
+
+- [Checklist Design](https://www.checklist.design/)
+- [Roadmap.sh](https://roadmap.sh/)
+
 ## References
 
 > Sticky posts, articles and cheat sheets 📌
@@ -65,15 +70,24 @@
 - [Hacks Mozilla](https://hacks.mozilla.org/) - ☑️ Latest updates from Mozilla Firefox.
 - [Webkit](https://webkit.org/blog/) - ☑️ Latest updates from webkit technology.
 
-### Podcasts 🎙 & Newsletter 📫
+### Podcasts 🎙
 
 - 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
-- 📫 [Statuscode](http://statuscode.com/) - Weekly email newsletters on a range of programming niches.
+
+### Newsletter 📫
+
 - 📫 [ZTM Newsletter](https://zerotomastery.io/blog/) - Monthly Newsletter for (Web Development, Python & Machine learning)
+- 📫 [Frontend Focus](http://frontendfoc.us/)
+- 📫 [JavaScript Weekly](http://javascriptweekly.com/)
+- 📫 [Bytes](https://bytes.dev/)
+- 📫 [React Status](http://react.statuscode.com/)
+- 📫 [React Newsletter](https://reactnewsletter.com/)
+- 📫 [This Week In React](https://www.getrevue.co/profile/thisweekinreact)
 - 📫 [Pointer](https://www.pointer.io/)
 - 📫 [Refactoring](https://refactoring.fm/)
 
 ## Web Development Frameworks
+
 
 ### React
 
@@ -130,3 +144,5 @@
 ### Static site generator
 
 - 📰 [11ty Rocks!](https://11ty.rocks/)
+
+
