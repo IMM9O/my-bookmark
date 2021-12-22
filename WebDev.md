@@ -50,18 +50,13 @@
 - [Web Dev](https://web.dev/)
 - [CSS Tricks](https://css-tricks.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
-- [Free Code Camp](https://www.freecodecamp.org/news/)
 - [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) - ☑️ Youtube Channel.
-
-- MOOC Blogs
-    - [educative](https://www.educative.io/blog)
-
-- Product Blogs
-    - [Bit Blog](https://blog.bitsrc.io/)
-    - [LogRocket Blog](https://blog.logrocket.com/)
-
-- Personal
-    - [Ahmad Shadeed](https://ishadeed.com/) - In depth CSS & Design.
+- [Free Code Camp](https://www.freecodecamp.org/news/)
+- [educative](https://www.educative.io/blog)
+- [Bit Blog](https://blog.bitsrc.io/)
+- [Digital Ocean Community](https://www.digitalocean.com/community)
+- [LogRocket Blog](https://blog.logrocket.com/)
+- [Ahmad Shadeed](https://ishadeed.com/) - In depth CSS & Design.
 
 ### Browsers Updates (V8, Chrome, Firefox & Safari)
 
@@ -94,7 +89,7 @@
 - 📰 [React Blog](https://reactjs.org/blog/) ☑️
 - 📫 [React Status](https://react.statuscode.com/)
 - 📰 [Overreacted](https://overreacted.io/)
-- 📰 [Kent C. Dodds's Blog](https://kentcdodds.com/)
+- 📰 [Kent C. Dodds's Blog](https://kentcdodds.com/blog)
 
 ### Angular
 
