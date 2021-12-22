@@ -1,19 +1,23 @@
 <h1 style="text-align: center;">Deployment</h1>
 <p style="text-align: center;"> 
-How to deploy your static website to "Static Web Host"
-or how to exposing your local development to public url for demoing 
+Learn how to expose your website either static/frontend/fullstack to the cloud
 </p>
 
+## Glossary
 
+**DevOps:** A collection of techniques trying to bridge the gap between development and operations.
+**Pipeline:** A series of automated steps that to simplify the testing, building, and deployment of code.
+**CI/CD:** Continuous Integration / Continuous Delivery (sometimes Deployments). Subparts of a pipeline dedicated to integrating code, delivering it, and deploying it.
+**Cloud Provider:** Companies that offer rentable servers and hosting services that provide flexible computing.
 
-# Publish to Popular Platforms
+## Cloud Providers
 
-- [GitHub Pages](https://pages.github.com/)
-- [Firebase Hosting](https://firebase.google.com/docs/hosting)
-- [netlify](https://www.netlify.com)
-- [Vercel](https://vercel.com/)
+- [GitHub Pages](https://pages.github.com/) [Frontend]
+- [Firebase Hosting](https://firebase.google.com/docs/hosting) [Frontend]
+- [netlify](https://www.netlify.com) [Frontend]
+- [Vercel](https://vercel.com/) [Fullstack/Frontend]
 
-## GitHub Pages
+### GitHub Pages
 
 **How to use it ?**
 
@@ -21,24 +25,29 @@ or how to exposing your local development to public url for demoing
 2.  Add new script to `package.json` file to deploy your website
 
 ```json
-    "scripts": {
-      // replase dist with your build dir folder
-      "deploy": "gh-pages -d [dist]"
-    }
-    /*
-     * Replace <username> and <repositoryname> with your username
-     * from GitHub and the name of your new repository.
-     */
-    "home": "https://<username>.github.io/<repositoryname>/",
+  "scripts": {
+    // replace dist with your build dir folder
+    "deploy": "gh-pages -d [dist]"
+  }
 ```
 
-3.  Deploy your website to Github Pages by running this command `npm run deploy`
+3. Add "homepage” key at the top level in `package.json` file.
+
+```json
+  /*
+    * Replace <username> and <RepositoryName> with your username
+    * from GitHub and the name of your new repository.
+    */
+  "homepage": "https://<username>.github.io/<RepositoryName>/",
+```
+
+4.  Deploy your website to Github Pages by running this command `npm run deploy`
 
 **Note**
 
-`gh-pages` behind the scenes will create another branch called `gh-pages` to push your build files into it
+> `gh-pages` behind the scenes will create another branch called `gh-pages` to push your build files into it
 
-## Firebase
+### Firebase
 
 1. You need to create new project first on [firebase console](https://console.firebase.google.com/)
 
@@ -52,9 +61,9 @@ $ npm install -g firebase-tools
 
 4. Init firebase configuration for hosting `firebase init`
 
-5. When your website ready just type `firebase deploy` 
+5. When your website ready just type `firebase deploy`
 
-## Netlify
+### Netlify
 
 **How to use it ?**
 
@@ -82,10 +91,7 @@ $ netlify dev --live
 ```
 
 
-
-
-# Test Before publish
-## Local Server
+### Local Server
 
 - [HTTP Server](https://github.com/http-party/http-server)
 - [Live Server](https://github.com/tapio/live-server)
@@ -93,7 +99,7 @@ $ netlify dev --live
 - [BrowserSync](https://www.browsersync.io/)
 - [Express](https://www.express.com/)
 
-## Sharing work in progress
+### Your device as a server :)
 
 In case you want to expose your local server without worrying about deploy it on acutely server.
 
@@ -102,4 +108,3 @@ In case you want to expose your local server without worrying about deploy it on
 - [Vercel](https://vercel.com/)
 - [surge](https://surge.sh/)
 - [netlify dev](https://www.netlify.com/products/dev/)
-
