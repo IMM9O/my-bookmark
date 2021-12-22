@@ -5,7 +5,7 @@
 ## Resources
 > Links for comprehensive guides 🛣
 
-- [React.js cheatsheet](https://devhints.io/react)
+- [React.js Cheat Sheet](https://devhints.io/react)
 - [The React Handbook](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/)
 
 ## Articles
@@ -24,11 +24,9 @@
     - [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
     - [Understanding Higher Order Components](https://medium.freecodecamp.org/understanding-higher-order-components-6ce359d761b)
     - [The most important lessons I’ve learned after a year of working with React](https://medium.freecodecamp.org/mindset-lessons-from-a-year-with-react-1de862421981)
-    - [These React Fundamentals You Skip may be Killing You](https://medium.freecodecamp.org/these-react-fundamentals-you-skip-may-be-killing-you-7629fb87dd4a)
+    - [These React Fundamentals You Skip may be Killing You](https://www.freecodecamp.org/news/these-react-fundamentals-you-skip-may-be-killing-you-7629fb87dd4a/)
 
   - State Management
-    > Data fetching: Http, Socket and GraphQL
-    > Date Stores: redux, mobx, ...etc
 
   - Architecture & Performance
     > Covering topics like change detection(reconciliation), code splitting & Lazy load, PWA, SSR and SSG
@@ -38,7 +36,7 @@
     - [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf)
 
   - Static analytics
-    > All tools that won't effect the output production code: Testing, Debugging, Linting, Formating, ...etc
+    > All tools that won't effect the output production code: Testing, Debugging, Linting, Formatting, ...etc
 
     - [Live edit and debug your React apps directly from VS Code — without leaving the editor 🔥 🎉🎈](https://medium.com/@auchenberg/live-edit-and-debug-your-react-apps-directly-from-vs-code-without-leaving-the-editor-3da489ed905f)
 
