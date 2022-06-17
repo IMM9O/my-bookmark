@@ -31,11 +31,14 @@
 
 - [HTML Reference](http://htmlreference.io/)
 - [CSS Reference](http://cssreference.io/)
+- [Rico's cheat sheets](https://devhints.io/)
+- [30 seconds of code](https://www.30secondsofcode.org/)
 - [Head](https://htmlhead.dev/) - A simple guide to HTML `<head>` elements
 - [Can I use](https://caniuse.com/)
 - [Can I email](https://www.caniemail.com/)
 - [Can Include](https://caninclude.glitch.me/)
-
+- [What the tag](https://whatthetag.com/#/)
+- [BEM cheat sheet](https://9elements.com/bem-cheat-sheet/)
 - [1-Line Layouts\*](https://1linelayouts.glitch.me/)
 - [SmolCSS](https://smolcss.dev/) - Minimal snippets for modern CSS layouts and components
 - [Modern CSS](https://moderncss.dev/) - Modern CSS Solutions for old css problems
