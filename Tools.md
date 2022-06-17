@@ -1,6 +1,22 @@
+# Web Developments Tools
+
+A readme file to keep all useful tools for web developments.
+
+## Roadmaps
+
+- [Roadmap.sh](https://roadmap.sh/)
+- [Don’t be a Junior Developer: The Roadmap](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
+- [How to Learn Web Development in 2021](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/) - a Web Developer Roadmap.
+## Checklists
+
+- [Checklist Design](https://www.checklist.design/)
+- [Design System Checklist](https://www.designsystemchecklist.com/) - An open-source checklist to help you plan, build and grow your design system.
+- [Front-End Performance Checklist](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
+
 
 ## APIs
 
+- [Rapid API](https://rapidapi.com/) - A hub for many APIs.
 - [Unsplash API](https://source.unsplash.com/)
 
 
@@ -39,16 +55,6 @@
 - [Extract css](https://extractcss.com/)
 - [Unminify](https://unminify.com/)
 - [Smalldev](https://smalldev.tools/)
-
-
-## Improve Frontend Skills
-
-- [frontend mentor](https://www.frontendmentor.io/)
-- [Ace frontend](https://www.acefrontend.com/)
-- [100 Days CSS Challenge](https://100dayscss.com/)
-- [Codier](https://codier.io/)
-- [Coderbyte](https://coderbyte.com/)
-- [Code well](https://www.codewell.cc/)
 
 
 ## CDNs

@@ -1,6 +1,15 @@
 # Web Development Follow Up List 👨‍💻👨‍💻
 
-## Courses & Books 📚📺
+## Courses platforms
+
+- [Class Center](https://www.classcentral.com/) - Get the latest news and analysis in online education.
+- [Udacity](https://www.udacity.com)
+- [Udemy](https://www.udemy.com/courses/)
+- [Egghead](https://egghead.io/)
+- [Coursera](https://www.coursera.org/)
+- [Pluralsight](https://www.pluralsight.com/)
+
+## Courses, Videos, and Books 📚📺
 
 > Learn web development in depth
 
@@ -14,13 +23,9 @@
 - 📗 [HTML & CSS is Hard](https://internetingishard.com/html-and-css/) - A friendly web development tutorial for complete beginners.
 - 🔗 [Java5cript](https://www.java5cript.com/) - Free JavaScript Learning Resources.
 - 🔗 [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
-
-## Tools
-
-- [Checklist Design](https://www.checklist.design/)
-- [Roadmap.sh](https://roadmap.sh/)
-
-## References
+- 📗 [Patterns](https://www.patterns.dev/) - A free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.
+- [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+- [Interviews School](https://interviews.school/)
 
 > Sticky posts, articles and cheat sheets 📌
 
@@ -30,10 +35,7 @@
 - [Can I use](https://caniuse.com/)
 - [Can I email](https://www.caniemail.com/)
 - [Can Include](https://caninclude.glitch.me/)
-- [Design System Checklist](https://www.designsystemchecklist.com/) - An open-source checklist to help you plan, build and grow your design system.
 
-- [Don’t be a Junior Developer: The Roadmap](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
-- [How to Learn Web Development in 2021](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/) - a Web Developer Roadmap.
 - [1-Line Layouts\*](https://1linelayouts.glitch.me/)
 - [SmolCSS](https://smolcss.dev/) - Minimal snippets for modern CSS layouts and components
 - [Modern CSS](https://moderncss.dev/) - Modern CSS Solutions for old css problems
@@ -41,24 +43,60 @@
 - 📜 [CSS Grid Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Tricks.
 - 📜 [Flexbox Complete Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks.
 
+## Practice
+
+- [Leetcode](https://leetcode.com/)
+- [frontend mentor](https://www.frontendmentor.io/)
+- [Ace frontend](https://www.acefrontend.com/)
+- [100 Days CSS Challenge](https://100dayscss.com/)
+- [Codier](https://codier.io/)
+- [Code well](https://www.codewell.cc/)
+
+
 ## Keep learning
 
 > Keep yourself updated with the latest news about web development.
 
+### Newsletter 📫
+
+- 📫 [ZTM Newsletter](https://zerotomastery.io/blog/) - Monthly Newsletter for (Web Development, Python & Machine learning)
+- 📫 [Frontend Focus](https://frontendfoc.us/issues)
+- 📫 [JavaScript Weekly](https://javascriptweekly.com/issues)
+- 📫 [Bytes](https://bytes.dev/archives/)
+- 📫 [React Status](https://react.statuscode.com/issues)
+- 📫 [React Newsletter](https://reactnewsletter.com/issues)
+- 📫 [This Week In React](https://www.getrevue.co/profile/thisweekinreact)
+- 📫 [Pointer](https://www.pointer.io/archives/)
+- 📫 [Refactoring](https://refactoring.fm/archive)
+- 📫 [ByteByteGo](https://blog.bytebytego.com/archive)
+
 ### Blogs
 
+> Blogging platforms
+
+- [Medium](https://medium.com/)
+- [Dev Community](https://dev.to/)
+- [Daily Dev](https://daily.dev/)
+
+
+> Generic Blogs
+
 - [Web Dev](https://web.dev/)
+- [DZone](https://dzone.com/)
 - [CSS Tricks](https://css-tricks.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
-- [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) - ☑️ Youtube Channel.
-- [Free Code Camp](https://www.freecodecamp.org/news/)
-- [educative](https://www.educative.io/blog)
-- [Bit Blog](https://blog.bitsrc.io/)
-- [Digital Ocean Community](https://www.digitalocean.com/community)
-- [LogRocket Blog](https://blog.logrocket.com/)
 - [Ahmad Shadeed](https://ishadeed.com/) - In depth CSS & Design.
+- [Free Code Camp](https://www.freecodecamp.org/news/)
 
-### Browsers Updates (V8, Chrome, Firefox & Safari)
+
+> Companies Blogs
+
+- [Bit Blog](https://blog.bitsrc.io/)
+- [educative](https://www.educative.io/blog)
+- [LogRocket Blog](https://blog.logrocket.com/)
+- [Digital Ocean Community](https://www.digitalocean.com/community)
+
+> Browsers updates (V8, Chrome, Firefox & Safari)
 
 - [V8](https://v8.dev/) - ☑️ JavaScript engine.
 - [Chrome Dev blog](https://developer.chrome.com/blog/) - ☑️ Latest update from google chrome.
@@ -69,20 +107,11 @@
 
 - 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
 
-### Newsletter 📫
+### Youtube Channels 📺
 
-- 📫 [ZTM Newsletter](https://zerotomastery.io/blog/) - Monthly Newsletter for (Web Development, Python & Machine learning)
-- 📫 [Frontend Focus](http://frontendfoc.us/)
-- 📫 [JavaScript Weekly](http://javascriptweekly.com/)
-- 📫 [Bytes](https://bytes.dev/)
-- 📫 [React Status](http://react.statuscode.com/)
-- 📫 [React Newsletter](https://reactnewsletter.com/)
-- 📫 [This Week In React](https://www.getrevue.co/profile/thisweekinreact)
-- 📫 [Pointer](https://www.pointer.io/)
-- 📫 [Refactoring](https://refactoring.fm/)
+- [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) - ☑️ Youtube Channel.
 
 ## Web Development Frameworks
-
 
 ### React
 
@@ -139,5 +168,3 @@
 ### Static site generator
 
 - 📰 [11ty Rocks!](https://11ty.rocks/)
-
-
