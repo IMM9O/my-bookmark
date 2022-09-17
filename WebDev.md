@@ -54,6 +54,7 @@
 - [100 Days CSS Challenge](https://100dayscss.com/)
 - [Codier](https://codier.io/)
 - [Code well](https://www.codewell.cc/)
+- [Daily UI](https://www.dailyui.co/) - Daily UI is a series of daily Design Challenges Inspiration and Surprise Rewards!
 
 
 ## Keep learning
