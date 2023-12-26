@@ -4,7 +4,7 @@
 - [Web Development Follow Up List 👨‍💻👨‍💻](WebDev.md)
 - [Tools](Tools.md)
 
-## Technologies
+## Tech Stack
 
 - [React](technologies/react.md)
 - [Angular](technologies/angular.md)

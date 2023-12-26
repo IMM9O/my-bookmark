@@ -1,8 +1,6 @@
 # General Software Topics
-> All Links related to development process like management, editor, IDE, git ...etc.
+All Links related to development process like management, editor, IDE, git ...etc.
 
-
----
 ## Career Advice
 
 - [Master the JavaScript Interview: Soft Skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
@@ -14,9 +12,8 @@
 - [All I Really Need to Know About InfoSec, I learned from Mr. Robot](https://medium.freecodecamp.org/all-i-really-need-to-know-about-infosec-i-learned-from-mr-robot-7902cca6d729)
 
 
----
+## Skills & Tools
 
-## Tools
 ### Code editor
 
 - [25 VS Code Productivity Tips and Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI)
@@ -24,22 +21,15 @@
 - [Top 20 VS Code Shortcuts](https://www.youtube.com/watch?v=4xA5JePvCJc)
 - [Visual Studio Code Full Course - VS Code for Beginners](https://www.youtube.com/watch?v=UTQp6mvhb0Y)
 
-### GIT
+### GIT & GitHub
 
 - [Learn Git in 15 Minutes - Tutorialzine](https://tutorialzine.com/2016/06/learn-git-in-30-minutes)
 - [Learn Git in 15 Minutes - Official Tutorial](https://try.github.io/levels/1/challenges/1)
 - [How To Use Git And GitHub](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLwygftUY318GeCz26jz45yuMWazLgJmxZ) - Udacity
 
-### Markdown
+### Linux and CMD
 
-### Searching
-
-
-### CMD
-
-
-### Text Search && Manipulation
-
+### Text Search && Manipulation (regex)
 
 ### Artifacts
 
@@ -62,20 +52,12 @@
 ### Resources
 
 - [DEV RESOURCES](https://devresourc.es/)
-
-
----
-
-
-
-## Software Engineering
-
 - [Learn to think](https://brilliant.org/)
 - [CSS50](https://cs50.harvard.edu/)
 - [Refactoring](https://refactoring.guru/refactoring)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-## Data Structure & Algorithms
+## Problem Solving
 
 ![Algorithms Types](./_assets/types-of-algorithm.png)
 
@@ -86,34 +68,34 @@
 5. Backtracking - similarly to brute force, try to generate all possible solutions, but each time you generate next solution you test if it satisfies all conditions, and only then continue generating subsequent solutions. Otherwise, backtrack, and go on a different path of finding a solution. Normally the DFS traversal of state-space is being used.
 6. Recursive Algorithm
 
-### Courses & Books 📀 📚
 
 - [Algorithms and Data Structures - Full Course for Beginners from Treehouse](https://www.youtube.com/watch?v=8hly31xKli0)
 - [Understanding Sorting Algorithms](https://www.youtube.com/watch?v=l7-f9gS8VOs)
 - [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 - [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY)
 
----
-
-## Programming Paradigms
-
-### Object Oriented Programming
-
-- Encapsulation
-- Abstraction
-- Inheritance
-- Polymorphism
-
-### Functional Programming
-
-- Pure function
-- Immutability
-- No shared state
-- No Side effects
-
----
 
 ## Software Design & Architecture
+
+![Software Design & Architecture Stack](./_assets/software_design_and_architecture_stack.png)
+
+### Clean Code
+
+### Programming Paradigms
+
+* Object Oriented Programming
+
+    - Encapsulation
+    - Abstraction
+    - Inheritance
+    - Polymorphism
+
+* Functional Programming
+
+    - Pure function
+    - Immutability
+    - No shared state
+    - No Side effects
 
 ### Design Principles
 
@@ -132,12 +114,12 @@
 
 > In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design.
 
-- 
 ### Architecture Patterns
+
 ### Architecture Styles
+
 ### Architecture Principles
 
----
 
 ## Tech Communities in Egypt ( Facebook )
 
