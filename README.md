@@ -8,7 +8,5 @@
 
 - [React](technologies/react.md)
 - [Angular](technologies/angular.md)
-- [Vue](technologies/vue.md)
-- [Laravel](technologies/laravel.md)
 - [DevOps](technologies/devops.md)
 

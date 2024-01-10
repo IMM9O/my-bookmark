@@ -57,25 +57,23 @@ All Links related to development process like management, editor, IDE, git ...et
 - [Refactoring](https://refactoring.guru/refactoring)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-## Problem Solving
+## Computer Science 
 
-![Algorithms Types](./_assets/types-of-algorithm.png)
+Learn the science behind computer and network, how to think and solve problems (Algorithms)
 
-1. Greedy - choose the best option at the current time, without any consideration for the future.
-2. Brute Force - look at all the possibilities and selects the best solution.
-3. Divide and Conquer - divide the problem into smaller parts and then solve those parts.
-4. Dynamic Programming - build up a solution using previously found sub-solutions.
-5. Backtracking - similarly to brute force, try to generate all possible solutions, but each time you generate next solution you test if it satisfies all conditions, and only then continue generating subsequent solutions. Otherwise, backtrack, and go on a different path of finding a solution. Normally the DFS traversal of state-space is being used.
-6. Recursive Algorithm
+* Sorting
+* Searching
+* Graph Algorithms
+* Dynamic Programming
 
-
-- [Algorithms and Data Structures - Full Course for Beginners from Treehouse](https://www.youtube.com/watch?v=8hly31xKli0)
-- [Understanding Sorting Algorithms](https://www.youtube.com/watch?v=l7-f9gS8VOs)
-- [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
-- [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY)
+- [Harvard CS50 (2023)](https://www.youtube.com/watch?v=LfaMVlDaQ24)
+- [100+ Computer Science Concepts Explained](https://www.youtube.com/watch?v=-uleG_Vecis)
+- [Algorithms part1](https://www.coursera.org/learn/algorithms-part1)
+- [Algorithms part2](https://www.coursera.org/learn/algorithms-part2)
 
 
-## Software Design & Architecture
+
+## Software Engeninering
 
 ![Software Design & Architecture Stack](./_assets/software_design_and_architecture_stack.png)
 

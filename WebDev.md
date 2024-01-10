@@ -3,15 +3,15 @@
 ## Courses platforms
 
 - [Class Center](https://www.classcentral.com/) - Get the latest news and analysis in online education.
+- [Udemy](https://www.udemy.com/courses/) - 💰
 - [Udacity](https://www.udacity.com)
-- [Udemy](https://www.udemy.com/courses/)
-- [Egghead](https://egghead.io/)
 - [Coursera](https://www.coursera.org/)
-- [Pluralsight](https://www.pluralsight.com/)
+- [Pluralsight](https://www.pluralsight.com/) - 🎟️
+- [Egghead](https://egghead.io/) - 🎟️
 
 ## Courses, Videos, and Books 📚📺
 
-> Learn web development in depth
+**Learn web development in depth**
 
 - 🔖 [MDN Dev](https://developer.mozilla.org/en-US/)
 - 🔖 [JavaScript Info](https://javascript.info/)
@@ -27,7 +27,7 @@
 - [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
 - [Interviews School](https://interviews.school/)
 
-> Sticky posts, articles and cheat sheets 📌
+**Sticky posts, articles and cheat sheets 📌**
 
 - [HTML Reference](http://htmlreference.io/)
 - [CSS Reference](http://cssreference.io/)
@@ -57,118 +57,80 @@
 - [Daily UI](https://www.dailyui.co/) - Daily UI is a series of daily Design Challenges Inspiration and Surprise Rewards!
 
 
-## Keep learning
+## Keep Your self updated
 
 > Keep yourself updated with the latest news about web development.
 
-### Newsletter 📫
-
-- 📫 [ZTM Newsletter](https://zerotomastery.io/blog/) - Monthly Newsletter for (Web Development, Python & Machine learning)
-- 📫 [Frontend Focus](https://frontendfoc.us/issues)
-- 📫 [JavaScript Weekly](https://javascriptweekly.com/issues)
-- 📫 [Bytes](https://bytes.dev/archives/)
-- 📫 [React Status](https://react.statuscode.com/issues)
-- 📫 [React Newsletter](https://reactnewsletter.com/issues)
-- 📫 [This Week In React](https://www.getrevue.co/profile/thisweekinreact)
-- 📫 [Pointer](https://www.pointer.io/archives/)
-- 📫 [Refactoring](https://refactoring.fm/archive)
-- 📫 [ByteByteGo](https://blog.bytebytego.com/archive)
-
-### Blogs
-
-> Blogging platforms
+### Blogs 📰
 
 - [Medium](https://medium.com/)
 - [Dev Community](https://dev.to/)
 - [Daily Dev](https://daily.dev/)
-
-
-> Generic Blogs
-
 - [Web Dev](https://web.dev/)
 - [DZone](https://dzone.com/)
 - [CSS Tricks](https://css-tricks.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Ahmad Shadeed](https://ishadeed.com/) - In depth CSS & Design.
 - [Free Code Camp](https://www.freecodecamp.org/news/)
-
-
-> Companies Blogs
-
 - [Bit Blog](https://blog.bitsrc.io/)
 - [educative](https://www.educative.io/blog)
 - [LogRocket Blog](https://blog.logrocket.com/)
 - [Digital Ocean Community](https://www.digitalocean.com/community)
-
-> Browsers updates (V8, Chrome, Firefox & Safari)
-
 - [V8](https://v8.dev/) - ☑️ JavaScript engine.
 - [Chrome Dev blog](https://developer.chrome.com/blog/) - ☑️ Latest update from google chrome.
 - [Hacks Mozilla](https://hacks.mozilla.org/) - ☑️ Latest updates from Mozilla Firefox.
 - [Webkit](https://webkit.org/blog/) - ☑️ Latest updates from webkit technology.
+- [React Blog](https://reactjs.org/blog/) ☑️
+- [Overreacted](https://overreacted.io/)
+- [Kent C. Dodds's Blog](https://kentcdodds.com/blog)
+- [Official Angular Blog](https://blog.angular.io/) ☑️
+- [InDepth](https://indepth.dev/)
+- [Netbasal](https://netbasal.medium.com/)
+- [Todd Blog](https://ultimatecourses.com/blog/)
+- [Angular University](https://blog.angular-university.io/)
+- [Thoughtram](https://blog.thoughtram.io/categories/angular)
+- [Mgechev](http://blog.mgechev.com/)
+
+
+### Newsletter 📫
+
+- [ZTM Newsletter](https://zerotomastery.io/blog/) - Monthly Newsletter for (Web Development, Python & Machine learning)
+- [Frontend Focus](https://frontendfoc.us/issues)
+- [JavaScript Weekly](https://javascriptweekly.com/issues)
+- [Bytes](https://bytes.dev/archives/)
+- [React Status](https://react.statuscode.com/issues)
+- [React Newsletter](https://reactnewsletter.com/issues)
+- [This Week In React](https://www.getrevue.co/profile/thisweekinreact)
+- [Pointer](https://www.pointer.io/archives/)
+- [Refactoring](https://refactoring.fm/archive)
+- [ByteByteGo](https://blog.bytebytego.com/archive)
+- [React Status](https://react.statuscode.com/)
+
 
 ### Podcasts 🎙
 
-- 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
+- [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
+- [The Angular Show](https://www.spreaker.com/show/angular-show) ☑️
 
-### Youtube Channels 📺
+### Youtube Channels ▶️
 
-- [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) - ☑️ Youtube Channel.
+**Shows 🎬**
+- [Fireship](https://www.youtube.com/@Fireship)
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+- [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
+- [Angular](https://www.youtube.com/c/Angular/featured) ☑️
 
-## Web Development Frameworks
+**Tutorials 📺**
+- [Freecodecamp](https://www.youtube.com/@freecodecamp)
+- [Traversy Media](https://www.youtube.com/@TraversyMedia)
+- [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
+- [NetNinja](https://www.youtube.com/@NetNinja)
+- [Academind](https://www.youtube.com/@academind    )
 
-### React
-
-- 📰 [React Blog](https://reactjs.org/blog/) ☑️
-- 📫 [React Status](https://react.statuscode.com/)
-- 📰 [Overreacted](https://overreacted.io/)
-- 📰 [Kent C. Dodds's Blog](https://kentcdodds.com/blog)
-
-### Angular
-
-- 📰 [Official Angular Blog](https://blog.angular.io/) ☑️
-- 📺 [Official Youtube Channel](https://www.youtube.com/c/Angular/featured) ☑️
-- 📢 [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA) ☑️
-- 🎙 [The Angular Show](https://www.spreaker.com/show/angular-show) ☑️
-- 📺 [Demos with Angular](https://www.youtube.com/c/DemoswithAngular/videos) ☑️
-- 📰 [InDepth](https://indepth.dev/)
-- 📰 [Netbasal](https://netbasal.medium.com/)
-- 📰 [Todd Blog](https://ultimatecourses.com/blog/)
-- 📰 [Angular University](https://blog.angular-university.io/)
-- 📰 [Thoughtram](https://blog.thoughtram.io/categories/angular)
-- 📰 [Mgechev](http://blog.mgechev.com/)
-- 📢 [AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)
-
-### VueJs
-
-- 📰 [The vue point](https://medium.com/the-vue-point) ☑️
-- 📫 [Vuejs News](https://news.vuejs.org/) ☑️
-- 📰 [Vue Mastery](https://medium.com/vue-mastery)
-- 📰 [Vuejs Developers](https://vuejsdevelopers.com/)
-
-### Laravel
-
-- 📺 [Laracasts](https://laracasts.com/) ☑️
-- 📰 [Laravel News](https://laravel-news.com/) ☑️
-- 📰 [Mattstauffer Blog](https://mattstauffer.com/blog/)
-- 📰 [Freek.dev](https://freek.dev/)
-- 📰 [Laravel Article](https://laravelarticle.com/)
-- 📰 [Laravel Tricks](https://laravel-tricks.com/)
-- 📰 [Laravel Recipes](http://laravel-recipes.com/)
-- 📰 [Laravel Daily Team](https://laraveldaily.com/)
-- 📰 [Just Laravel](http://justlaravel.com/)
-- 📺 [خدمات ويب](https://5dmat-web.com/)
-
-### Cross platform Mobile (Android & IOS)
-
-- 📰 [Ionic Blog](http://blog.ionic.io/) ☑️
-- 📰 [devdactic](https://devdactic.com/devblog/)
-- 📰 [mcgivery](http://mcgivery.com/)
-- 📰 [gonehybrid](https://www.gonehybrid.com/)
-- 📰 [the polyglot developer](https://www.thepolyglotdeveloper.com/)
-- 📺 [joshmorony](https://www.youtube.com/c/JoshuaMorony/featured)
-- 📺 [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg) - 📹 Youtube Channel
-
-### Static site generator
-
-- 📰 [11ty Rocks!](https://11ty.rocks/)
+**Conferences 📢**
+- [JobStack](https://www.youtube.com/@jobstack8037)
+- [GOTO Conferences](https://www.youtube.com/@GOTO-)
+- [JavaScript Conferences by GitNation](https://www.youtube.com/@JavaScriptConferences)
+- [React Conferences by GitNation](https://www.youtube.com/@ReactConferences)
+- [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA) ☑️
+- [AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)
