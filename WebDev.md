@@ -108,7 +108,11 @@
 ### Podcasts 🎙
 
 - [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
-- [The Angular Show](https://www.spreaker.com/show/angular-show) ☑️
+- [JS Party](https://changelog.com/jsparty)
+- [Javascript Jabber](https://topenddevs.com/podcasts/javascript-jabber)
+- [Frontend happy hour](https://www.frontendhappyhour.com/)
+- [Shop talk show](https://shoptalkshow.com/)
+
 
 ### Youtube Channels ▶️
 
