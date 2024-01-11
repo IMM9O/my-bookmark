@@ -64,29 +64,29 @@
 
 - [Medium](https://medium.com/)
 - [Dev Community](https://dev.to/)
-- [DZone](https://dzone.com/)
+
 - [CSS Tricks](https://css-tricks.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
+- [Free Code Camp](https://www.freecodecamp.org/news/) - Completely for beginners.
 - [Ahmad Shadeed](https://ishadeed.com/) - In depth CSS & Design.
-- [Free Code Camp](https://www.freecodecamp.org/news/)
-- [Bit Blog](https://blog.bitsrc.io/)
-- [educative](https://www.educative.io/blog)
+- [Educative](https://www.educative.io/blog)
 - [LogRocket Blog](https://blog.logrocket.com/)
 - [Digital Ocean Community](https://www.digitalocean.com/community)
+
 - [V8](https://v8.dev/) - ✅ JavaScript engine.
 - [Chrome Dev blog](https://developer.chrome.com/blog/) - ✅ Latest update from google chrome.
 - [Hacks Mozilla](https://hacks.mozilla.org/) - ✅ Latest updates from Mozilla Firefox.
 - [Webkit](https://webkit.org/blog/) - ✅ Latest updates from webkit technology.
-- [React Blog](https://reactjs.org/blog/) ✅
-- [Overreacted](https://overreacted.io/)
-- [Kent C. Dodds's Blog](https://kentcdodds.com/blog)
-- [Official Angular Blog](https://blog.angular.io/) ✅
-- [InDepth](https://indepth.dev/)
-- [Netbasal](https://netbasal.medium.com/)
-- [Todd Blog](https://ultimatecourses.com/blog/)
-- [Angular University](https://blog.angular-university.io/)
-- [Thoughtram](https://blog.thoughtram.io/categories/angular)
-- [Mgechev](http://blog.mgechev.com/)
+
+- ⚛️ [React Blog](https://react.dev/blog) ✅
+- ⚛️ [Overreacted](https://overreacted.io/)
+- ⚛️ [Kent C. Dodds's Blog](https://kentcdodds.com/blog)
+- 🅰️ [Official Angular Blog](https://blog.angular.io/) ✅
+- 🅰️ [InDepth](https://angularindepth.com/)
+- 🅰️ [Todd Blog](https://ultimatecourses.com/blog/)
+- 🅰️ [Angular University](https://blog.angular-university.io/)
+- 🅰️ [Thoughtram](https://blog.thoughtram.io/categories/angular)
+- 🅰️ [Mgechev](http://blog.mgechev.com/)
 
 
 ### Newsletter 📫
@@ -131,15 +131,15 @@ Youtube is not good for learning but it good for exploring, and get latest updat
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
 - [Google for Developers](https://www.youtube.com/@GoogleDevelopers)
 - [Chrome for Developers](https://www.youtube.com/@ChromeDevs)
-- [Angular](https://www.youtube.com/@Angular) ✅🅰️
+- 🅰️ [Angular](https://www.youtube.com/@Angular) ✅
 
 **Conferences 📢**
 - [JobStack](https://www.youtube.com/@jobstack8037)
 - [GOTO Conferences](https://www.youtube.com/@GOTO-)
 - [JavaScript Conferences by GitNation](https://www.youtube.com/@JavaScriptConferences)
-- [React Conferences by GitNation](https://www.youtube.com/@ReactConferences) ⚛️
-- [ng-conf](https://www.youtube.com/@ngconfonline) ✅ 🅰️
-- [AngularConnect](https://www.youtube.com/@angularconnect9636) 🅰️
+- ⚛️ [React Conferences by GitNation](https://www.youtube.com/@ReactConferences)
+- 🅰️ [ng-conf](https://www.youtube.com/@ngconfonline) ✅
+- 🅰️ [AngularConnect](https://www.youtube.com/@angularconnect9636)
 
 **Tutorials 📺**
 - [Freecodecamp](https://www.youtube.com/@freecodecamp)
