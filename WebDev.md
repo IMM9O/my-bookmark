@@ -6,25 +6,25 @@
 - [Udemy](https://www.udemy.com/courses/) - 💰
 - [Udacity](https://www.udacity.com)
 - [Coursera](https://www.coursera.org/)
-- [Pluralsight](https://www.pluralsight.com/) - 🎟️
 - [Egghead](https://egghead.io/) - 🎟️
 - [Scrimba](https://scrimba.com/) - 🎟️
+- [Pluralsight](https://www.pluralsight.com/) - 🎟️
 
-## Courses, Tutorials, and Books
+## Courses, and Books
 
 - 🔗 [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
 - 🔖 [Web Dev](https://web.dev/)
 - 🔖 [MDN Dev](https://developer.mozilla.org/en-US/)
 - 🔖 [JavaScript Info](https://javascript.info/)
-- 🔖 [SABE](https://sabe.io/)
 - 📕 [Eloquent JavaScript](https://eloquentjavascript.net/)
 - 📕 [You don't know javascript](https://github.com/getify/You-Dont-Know-JS)
 - 📕 [Patterns](https://www.patterns.dev/)
-- 📕 [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- 📕 [Hackdesign](https://hackdesign.org)
-- 📕 [HTML & CSS is Hard](https://internetingishard.com/html-and-css/)
-- 📕 [Interviews School](https://interviews.school/)
-- 📕 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+- 📕 [Hack design](https://hackdesign.org)
+- 📕 [HTML & CSS is Hard](https://internetingishard.netlify.app/html-and-css/)
+- 📕 [Interviews School](https://interviews.school/) - Complete interview preparation guide (Algorithms & System Design).
+- 📕 [The odin project](https://www.theodinproject.com/) - The Fullstack web development (Ruby on Rails/NodeJs).
+- 📕 [Full Stack Open](https://fullstackopen.com/en/) - Deep Dive Into Modern Web Development.
+- 📕 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) - The Fullstack Tutorial for GraphQL.
 
 ## Cheat Cheats
 
@@ -48,8 +48,8 @@
 ## Practice
 
 - [Leetcode](https://leetcode.com/)
-- [frontend mentor](https://www.frontendmentor.io/)
-- [Ace frontend](https://www.acefrontend.com/)
+- [Frontend mentor](https://www.frontendmentor.io/)
+- [Ace Frontend](https://www.acefrontend.com/)
 - [100 Days CSS Challenge](https://100dayscss.com/)
 - [Codier](https://codier.io/)
 - [Code well](https://www.codewell.cc/)
@@ -73,14 +73,14 @@
 - [educative](https://www.educative.io/blog)
 - [LogRocket Blog](https://blog.logrocket.com/)
 - [Digital Ocean Community](https://www.digitalocean.com/community)
-- [V8](https://v8.dev/) - ☑️ JavaScript engine.
-- [Chrome Dev blog](https://developer.chrome.com/blog/) - ☑️ Latest update from google chrome.
-- [Hacks Mozilla](https://hacks.mozilla.org/) - ☑️ Latest updates from Mozilla Firefox.
-- [Webkit](https://webkit.org/blog/) - ☑️ Latest updates from webkit technology.
-- [React Blog](https://reactjs.org/blog/) ☑️
+- [V8](https://v8.dev/) - ✅ JavaScript engine.
+- [Chrome Dev blog](https://developer.chrome.com/blog/) - ✅ Latest update from google chrome.
+- [Hacks Mozilla](https://hacks.mozilla.org/) - ✅ Latest updates from Mozilla Firefox.
+- [Webkit](https://webkit.org/blog/) - ✅ Latest updates from webkit technology.
+- [React Blog](https://reactjs.org/blog/) ✅
 - [Overreacted](https://overreacted.io/)
 - [Kent C. Dodds's Blog](https://kentcdodds.com/blog)
-- [Official Angular Blog](https://blog.angular.io/) ☑️
+- [Official Angular Blog](https://blog.angular.io/) ✅
 - [InDepth](https://indepth.dev/)
 - [Netbasal](https://netbasal.medium.com/)
 - [Todd Blog](https://ultimatecourses.com/blog/)
@@ -107,32 +107,42 @@
 
 ### Podcasts 🎙
 
-- [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
-- [JS Party](https://changelog.com/jsparty)
-- [Javascript Jabber](https://topenddevs.com/podcasts/javascript-jabber)
-- [Frontend happy hour](https://www.frontendhappyhour.com/)
+I choose the podcasts based on
+
+* Posted regularly
+* Voice quality
+* Mentions links in the description
+* Timeline links
+* Transcript Availability
+
+- [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers. ⭐
 - [Shop talk show](https://shoptalkshow.com/)
+- [JS Party](https://changelog.com/jsparty) ⭐
+- [Frontend happy hour](https://www.frontendhappyhour.com/)
 
 
 ### Youtube Channels ▶️
 
+Youtube is not good for learning but it good for exploring, and get latest updates. 
+
 **Shows 🎬**
 - [Fireship](https://www.youtube.com/@Fireship)
+- [Beyond Fireship](https://www.youtube.com/@beyondfireship)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
-- [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
-- [Angular](https://www.youtube.com/c/Angular/featured) ☑️
+- [Google for Developers](https://www.youtube.com/@GoogleDevelopers)
+- [Chrome for Developers](https://www.youtube.com/@ChromeDevs)
+- [Angular](https://www.youtube.com/@Angular) ✅🅰️
+
+**Conferences 📢**
+- [JobStack](https://www.youtube.com/@jobstack8037)
+- [GOTO Conferences](https://www.youtube.com/@GOTO-)
+- [JavaScript Conferences by GitNation](https://www.youtube.com/@JavaScriptConferences)
+- [React Conferences by GitNation](https://www.youtube.com/@ReactConferences) ⚛️
+- [ng-conf](https://www.youtube.com/@ngconfonline) ✅ 🅰️
+- [AngularConnect](https://www.youtube.com/@angularconnect9636) 🅰️
 
 **Tutorials 📺**
 - [Freecodecamp](https://www.youtube.com/@freecodecamp)
 - [Traversy Media](https://www.youtube.com/@TraversyMedia)
 - [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
 - [NetNinja](https://www.youtube.com/@NetNinja)
-- [Academind](https://www.youtube.com/@academind    )
-
-**Conferences 📢**
-- [JobStack](https://www.youtube.com/@jobstack8037)
-- [GOTO Conferences](https://www.youtube.com/@GOTO-)
-- [JavaScript Conferences by GitNation](https://www.youtube.com/@JavaScriptConferences)
-- [React Conferences by GitNation](https://www.youtube.com/@ReactConferences)
-- [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA) ☑️
-- [AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)
