@@ -127,7 +127,6 @@ Youtube is not good for learning but it good for exploring, and get latest updat
 
 **Shows 🎬**
 - [Fireship](https://www.youtube.com/@Fireship)
-- [Beyond Fireship](https://www.youtube.com/@beyondfireship)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
 - [Google for Developers](https://www.youtube.com/@GoogleDevelopers)
 - [Chrome for Developers](https://www.youtube.com/@ChromeDevs)
@@ -138,6 +137,7 @@ Youtube is not good for learning but it good for exploring, and get latest updat
 - [GOTO Conferences](https://www.youtube.com/@GOTO-)
 - [JavaScript Conferences by GitNation](https://www.youtube.com/@JavaScriptConferences)
 - ⚛️ [React Conferences by GitNation](https://www.youtube.com/@ReactConferences)
+- ⚛️ [Next.Js Vercel](https://www.youtube.com/@VercelHQ) - ✅ Next.Js Official Conferences.
 - 🅰️ [ng-conf](https://www.youtube.com/@ngconfonline) ✅
 - 🅰️ [AngularConnect](https://www.youtube.com/@angularconnect9636)
 
@@ -146,3 +146,5 @@ Youtube is not good for learning but it good for exploring, and get latest updat
 - [Traversy Media](https://www.youtube.com/@TraversyMedia)
 - [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
 - [NetNinja](https://www.youtube.com/@NetNinja)
+- [Beyond Fireship](https://www.youtube.com/@beyondfireship)
+- [Academind](https://www.youtube.com/@academind)
