@@ -143,8 +143,9 @@ Youtube is not good for learning but it good for exploring, and get latest updat
 
 **Tutorials 📺**
 - [Freecodecamp](https://www.youtube.com/@freecodecamp)
+- [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
 - [Traversy Media](https://www.youtube.com/@TraversyMedia)
-- [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
 - [NetNinja](https://www.youtube.com/@NetNinja)
+- [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
 - [Beyond Fireship](https://www.youtube.com/@beyondfireship)
 - [Academind](https://www.youtube.com/@academind)
