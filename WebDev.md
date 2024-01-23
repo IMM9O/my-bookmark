@@ -13,17 +13,20 @@
 ## Courses, and Books
 
 - 🔗 [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
+- 🔖 [Web Dev](https://web.dev/)
 - 🔖 [MDN Dev](https://developer.mozilla.org/en-US/)
 - 🔖 [JavaScript Info](https://javascript.info/)
+
+- 📕 [Hack design](https://hackdesign.org)
+- 📕 [HTML & CSS is Hard](https://internetingishard.netlify.app/html-and-css/)
 - 📕 [Eloquent JavaScript](https://eloquentjavascript.net/)
 - 📕 [You don't know javascript](https://github.com/getify/You-Dont-Know-JS)
 - 📕 [Patterns](https://www.patterns.dev/)
-- 📕 [Hack design](https://hackdesign.org)
-- 📕 [HTML & CSS is Hard](https://internetingishard.netlify.app/html-and-css/)
-- 📕 [Interviews School](https://interviews.school/) - Complete interview preparation guide (Algorithms & System Design).
-- 📕 [The odin project](https://www.theodinproject.com/) - The Fullstack web development (Ruby on Rails/NodeJs).
-- 📕 [Full Stack Open](https://fullstackopen.com/en/) - Deep Dive Into Modern Web Development.
-- 📕 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) - The Fullstack Tutorial for GraphQL.
+
+- 💿 [The odin project](https://www.theodinproject.com/) - The Fullstack web development (Ruby on Rails/NodeJs).
+- 💿 [Full Stack Open](https://fullstackopen.com/en/) - Deep Dive Into Modern Web Development.
+- 💿 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) - The Fullstack Tutorial for GraphQL.
+- 💿 [Interviews School](https://interviews.school/) - Complete interview preparation guide (Algorithms & System Design).
 
 ## Cheat Cheats
 
@@ -61,7 +64,6 @@
 
 ### Blogs & Magazines 📰
 
-- [Web Dev](https://web.dev/)
 - [Medium](https://medium.com/)
 - [Dev Community](https://dev.to/)
 
