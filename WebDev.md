@@ -1,14 +1,27 @@
 # Web Development Follow Up List 👨‍💻👨‍💻
 
+**Legend explain**
+- 🎟️ Subscription plan to access all courses
+- 💰 On-time purchase for each course
+- 🔗 Link for resources
+- 🔖 A reference website
+- 📕 Book
+- 💿 Course video based or text based
+- 🅰️ Angular related
+- ⚛️  React related
+
 ## Courses platforms
+
 
 - [Class Center](https://www.classcentral.com/) - Get the latest news and analysis in online education.
 - [Udemy](https://www.udemy.com/courses/) - 💰
-- [Udacity](https://www.udacity.com)
 - [Coursera](https://www.coursera.org/)
-- [Egghead](https://egghead.io/) - 🎟️
-- [Scrimba](https://scrimba.com/) - 🎟️
+- [Udacity](https://www.udacity.com)
 - [Pluralsight](https://www.pluralsight.com/) - 🎟️
+- [Egghead](https://egghead.io/) - 🎟️ Short video corses
+- [Educative](https://www.educative.io/) - 🎟️ Text based courses
+- [Frontend Masters](https://frontendmasters.com/) 🎟️ Bootcamp
+- [Scrimba](https://scrimba.com/) - 🎟️ Bootcamp
 
 ## Courses, and Books
 
