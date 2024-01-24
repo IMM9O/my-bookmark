@@ -7,6 +7,10 @@
 - 🔖 A reference website
 - 📕 Book
 - 💿 Course video based or text based
+- 📝 Blog
+- 📰 Magazines
+- ✅ Official resources
+- ⭐ Highly recommended
 - 🅰️ Angular related
 - ⚛️  React related
 
@@ -14,30 +18,26 @@
 
 
 - [Class Center](https://www.classcentral.com/) - Get the latest news and analysis in online education.
-- [Udemy](https://www.udemy.com/courses/) - 💰
-- [Coursera](https://www.coursera.org/)
-- [Udacity](https://www.udacity.com)
-- [Pluralsight](https://www.pluralsight.com/) - 🎟️
-- [Egghead](https://egghead.io/) - 🎟️ Short video corses
-- [Educative](https://www.educative.io/) - 🎟️ Text based courses
-- [Frontend Masters](https://frontendmasters.com/) 🎟️ Bootcamp
-- [Scrimba](https://scrimba.com/) - 🎟️ Bootcamp
+- [Udemy](https://www.udemy.com/courses/) - 💰 ⭐
+- [Coursera](https://www.coursera.org/) - free without certificate
+- [Udacity](https://www.udacity.com) - free without certificate  
+- [Pluralsight](https://www.pluralsight.com/) - 🎟️ Generic platform
 
 ## Courses, and Books
 
 - 🔗 [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
-- 🔖 [Web Dev](https://web.dev/)
+- 🔖 [Web Dev](https://web.dev/) ⭐
 - 🔖 [MDN Dev](https://developer.mozilla.org/en-US/)
-- 🔖 [JavaScript Info](https://javascript.info/)
+- 🔖 [JavaScript Info](https://javascript.info/) ⭐
 
 - 📕 [Hack design](https://hackdesign.org)
 - 📕 [HTML & CSS is Hard](https://internetingishard.netlify.app/html-and-css/)
 - 📕 [Eloquent JavaScript](https://eloquentjavascript.net/)
 - 📕 [You don't know javascript](https://github.com/getify/You-Dont-Know-JS)
-- 📕 [Patterns](https://www.patterns.dev/)
+- 📕 [Patterns](https://www.patterns.dev/) ⭐
 
 - 💿 [The odin project](https://www.theodinproject.com/) - The Fullstack web development (Ruby on Rails/NodeJs).
-- 💿 [Full Stack Open](https://fullstackopen.com/en/) - Deep Dive Into Modern Web Development.
+- 💿 [Full Stack Open](https://fullstackopen.com/en/) - Deep Dive Into Modern Web Development. ⭐
 - 💿 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) - The Fullstack Tutorial for GraphQL.
 - 💿 [Interviews School](https://interviews.school/) - Complete interview preparation guide (Algorithms & System Design).
 
@@ -75,26 +75,24 @@
 
 > Keep yourself updated with the latest news about web development.
 
-### Blogs & Magazines 📰
+### Blogs & Magazines
 
-- [Medium](https://medium.com/)
-- [Dev Community](https://dev.to/)
+- 📝 [Medium](https://medium.com/)
+- 📝 [Dev Community](https://dev.to/)
+- 📝 [CSS Tricks](https://css-tricks.com/)
+- 📝 [Smashing Magazine](https://www.smashingmagazine.com/)
 
-- [CSS Tricks](https://css-tricks.com/)
-- [Smashing Magazine](https://www.smashingmagazine.com/)
-- [Free Code Camp](https://www.freecodecamp.org/news/) - Completely for beginners.
+- 📰 [ZTM Newsletter](https://zerotomastery.io/newsletters/web-development-monthly/1/)
+- 📰 [Bytes](https://bytes.dev/archives/)
+- 📰 [Nodejs Weekly](https://nodeweekly.com/issues)
+- 📰 [JavaScript Weekly](https://javascriptweekly.com/issues)
+- 📰 [Frontend Focus](https://frontendfoc.us/issues)
+- 📰 [React Status](https://react.statuscode.com/issues)
+- 📰 [This Week In React](https://thisweekinreact.com/newsletter)
 
-- [ZTM Newsletter](https://zerotomastery.io/newsletters/web-development-monthly/1/)
-- [Bytes](https://bytes.dev/archives/)
-- [Nodejs Weekly](https://nodeweekly.com/issues)
-- [JavaScript Weekly](https://javascriptweekly.com/issues)
-- [Frontend Focus](https://frontendfoc.us/issues)
-- [React Status](https://react.statuscode.com/issues)
-- [This Week In React](https://thisweekinreact.com/newsletter)
-
-- [ByteByteGo](https://blog.bytebytego.com/archive)
-- [Refactoring](https://refactoring.fm/archive)
-- [Pointer](https://www.pointer.io/archives/)
+- 📰 [ByteByteGo](https://blog.bytebytego.com/archive)
+- 📰 [Refactoring](https://refactoring.fm/archive)
+- 📰 [Pointer](https://www.pointer.io/archives/)
 
 - [V8](https://v8.dev/) - ✅ JavaScript engine.
 - [Chrome Dev blog](https://developer.chrome.com/blog/) - ✅ Latest update from google chrome.
@@ -122,23 +120,23 @@ I choose the podcasts based on
 Youtube is not good for learning but it good for exploring, and get latest updates. 
 
 **Shows 🎬**
-- [Fireship](https://www.youtube.com/@Fireship)
-- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+- [Fireship](https://www.youtube.com/@Fireship) ⭐
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo) ⭐
 - [Google for Developers](https://www.youtube.com/@GoogleDevelopers)
 - [Chrome for Developers](https://www.youtube.com/@ChromeDevs)
 
 **Conferences 📢**
 - [JobStack](https://www.youtube.com/@jobstack8037)
 - [GOTO Conferences](https://www.youtube.com/@GOTO-)
-- [JavaScript Conferences by GitNation](https://www.youtube.com/@JavaScriptConferences)
+- [JavaScript Conferences by GitNation](https://www.youtube.com/@JavaScriptConferences) ⭐
 - ⚛️ [React Conferences by GitNation](https://www.youtube.com/@ReactConferences)
 - ⚛️ [Next.Js Vercel](https://www.youtube.com/@VercelHQ) - ✅ Next.Js Official Conferences.
 - 🅰️ [ng-conf](https://www.youtube.com/@ngconfonline) ✅
 - 🅰️ [AngularConnect](https://www.youtube.com/@angularconnect9636)
 
 **Tutorials 📺**
-- [Freecodecamp](https://www.youtube.com/@freecodecamp)
-- [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+- [Freecodecamp](https://www.youtube.com/@freecodecamp) ⭐
+- [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) ⭐
 - [Traversy Media](https://www.youtube.com/@TraversyMedia)
 - [NetNinja](https://www.youtube.com/@NetNinja)
 - [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
