@@ -12,23 +12,22 @@
 - ✅ Official resources
 - ⭐ Highly recommended
 - 🅰️ Angular related
-- ⚛️  React related
+- ⚛️ React related
 
 ## Courses platforms
-
 
 - [Class Center](https://www.classcentral.com/) - Get the latest news and analysis in online education.
 - [Udemy](https://www.udemy.com/courses/) - 💰 ⭐
 - [Coursera](https://www.coursera.org/) - free without certificate
 - [Udacity](https://www.udacity.com) - free without certificate  
 - [Pluralsight](https://www.pluralsight.com/) - 🎟️ Generic platform
-
-## Courses, and Books
-
-- 🔗 [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
 - 🔖 [Web Dev](https://web.dev/) ⭐
 - 🔖 [MDN Dev](https://developer.mozilla.org/en-US/)
 - 🔖 [JavaScript Info](https://javascript.info/) ⭐
+
+## Books, and Courses
+
+- 🔗 [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
 
 - 📕 [Hack design](https://hackdesign.org)
 - 📕 [HTML & CSS is Hard](https://internetingishard.netlify.app/html-and-css/)
@@ -36,8 +35,8 @@
 - 📕 [You don't know javascript](https://github.com/getify/You-Dont-Know-JS)
 - 📕 [Patterns](https://www.patterns.dev/) ⭐
 
-- 💿 [The odin project](https://www.theodinproject.com/) - The Fullstack web development (Ruby on Rails/NodeJs).
 - 💿 [Full Stack Open](https://fullstackopen.com/en/) - Deep Dive Into Modern Web Development. ⭐
+- 💿 [The odin project](https://www.theodinproject.com/) - The Fullstack web development (Ruby on Rails/NodeJs).
 - 💿 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) - The Fullstack Tutorial for GraphQL.
 - 💿 [Interviews School](https://interviews.school/) - Complete interview preparation guide (Algorithms & System Design).
 
@@ -82,7 +81,8 @@
 - 📝 [CSS Tricks](https://css-tricks.com/)
 - 📝 [Smashing Magazine](https://www.smashingmagazine.com/)
 
-**Software Development Magazines**
+<br/>
+
 - 📰 [ZTM Newsletter](https://zerotomastery.io/newsletters/web-development-monthly/1/)
 - 📰 [Bytes](https://bytes.dev/archives/)
 - 📰 [Nodejs Weekly](https://nodeweekly.com/issues)
@@ -91,13 +91,15 @@
 - 📰 [React Status](https://react.statuscode.com/issues)
 - 📰 [This Week In React](https://thisweekinreact.com/newsletter)
 
-**Software Engineering & Leadership Magazines**
+<br/>
+
 - 📰 [ByteByteGo](https://blog.bytebytego.com/archive)
 - 📰 [Amigoscode](https://blog.amigoscode.com/)
 - 📰 [Refactoring](https://refactoring.fm/archive)
 - 📰 [Pointer](https://www.pointer.io/archives/)
 
-**Official Updates**
+<br/>
+
 - [V8](https://v8.dev/) - ✅ JavaScript engine.
 - [ECMA262](https://tc39.es/ecma262/) - ✅ ECMAScript® Language Specification.
 - [Chrome Dev blog](https://developer.chrome.com/blog/) - ✅ Latest update from google chrome.
