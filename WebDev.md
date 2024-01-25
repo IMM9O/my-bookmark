@@ -28,12 +28,14 @@
 ## Books, and Courses
 
 - 🔗 [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
+<br/>
 
 - 📕 [Hack design](https://hackdesign.org)
 - 📕 [HTML & CSS is Hard](https://internetingishard.netlify.app/html-and-css/)
 - 📕 [Eloquent JavaScript](https://eloquentjavascript.net/)
 - 📕 [You don't know javascript](https://github.com/getify/You-Dont-Know-JS)
 - 📕 [Patterns](https://www.patterns.dev/) ⭐
+<br/>
 
 - 💿 [Full Stack Open](https://fullstackopen.com/en/) - Deep Dive Into Modern Web Development. ⭐
 - 💿 [The odin project](https://www.theodinproject.com/) - The Fullstack web development (Ruby on Rails/NodeJs).
