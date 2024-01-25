@@ -99,7 +99,7 @@
 - [Chrome Dev blog](https://developer.chrome.com/blog/) - ✅ Latest update from google chrome.
 <br />
 
-- [Syntax](https://syntax.fm/) - 🎙 A Tasty Treats Podcast for Web Developers. ⭐
+- 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers. ⭐
 
 ### Youtube Channels ▶️
 
