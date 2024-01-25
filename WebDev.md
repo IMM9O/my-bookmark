@@ -4,29 +4,26 @@
 - 🎟️ Subscription plan to access all courses
 - 💰 On-time purchase for each course
 - 🔗 Link for resources
-- 🔖 A reference website
+- 🔖 A reference or doc website
 - 📕 Book
 - 💿 Course video based or text based
 - 📝 Blog
+- 🎙 Podcast
 - 📰 Magazines
 - ✅ Official resources
 - ⭐ Highly recommended
-- 🅰️ Angular related
-- ⚛️ React related
 
-## Courses platforms
+## Books, and Courses
 
 - [Class Center](https://www.classcentral.com/) - Get the latest news and analysis in online education.
 - [Udemy](https://www.udemy.com/courses/) - 💰 ⭐
 - [Coursera](https://www.coursera.org/) - free without certificate
 - [Udacity](https://www.udacity.com) - free without certificate  
-- [Pluralsight](https://www.pluralsight.com/) - 🎟️ Generic platform
+<br />
+
 - 🔖 [Web Dev](https://web.dev/) ⭐
 - 🔖 [MDN Dev](https://developer.mozilla.org/en-US/)
 - 🔖 [JavaScript Info](https://javascript.info/) ⭐
-
-## Books, and Courses
-
 - 🔗 [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
 <br/>
 
@@ -82,45 +79,27 @@
 - 📝 [Dev Community](https://dev.to/)
 - 📝 [CSS Tricks](https://css-tricks.com/)
 - 📝 [Smashing Magazine](https://www.smashingmagazine.com/)
-
 <br/>
 
-- 📰 [ZTM Newsletter](https://zerotomastery.io/newsletters/web-development-monthly/1/)
-- 📰 [Bytes](https://bytes.dev/archives/)
-- 📰 [Nodejs Weekly](https://nodeweekly.com/issues)
+- 📰 [Bestofjs](https://bestofjs.org/) - A place to find the best open source projects related to the web platform
 - 📰 [JavaScript Weekly](https://javascriptweekly.com/issues)
-- 📰 [Frontend Focus](https://frontendfoc.us/issues)
-- 📰 [React Status](https://react.statuscode.com/issues)
+- 📰 [Nodejs Weekly](https://nodeweekly.com/issues)
 - 📰 [This Week In React](https://thisweekinreact.com/newsletter)
-
+- 📰 [ZTM Newsletter](https://zerotomastery.io/newsletters/web-development-monthly/1/)
 <br/>
 
 - 📰 [ByteByteGo](https://blog.bytebytego.com/archive)
-- 📰 [Amigoscode](https://blog.amigoscode.com/)
+- 📰 [Amigoscode](https://blog.amigoscode.com/archive)
 - 📰 [Refactoring](https://refactoring.fm/archive)
 - 📰 [Pointer](https://www.pointer.io/archives/)
-
 <br/>
 
 - [V8](https://v8.dev/) - ✅ JavaScript engine.
 - [ECMA262](https://tc39.es/ecma262/) - ✅ ECMAScript® Language Specification.
 - [Chrome Dev blog](https://developer.chrome.com/blog/) - ✅ Latest update from google chrome.
+<br />
 
-### Podcasts 🎙
-
-I choose the podcasts based on
-
-* Posted regularly
-* Voice quality
-* Mentions links in the description
-* Timeline links
-* Transcript Availability
-
-- [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers. ⭐
-- [JS Party](https://changelog.com/jsparty) ⭐
-- [Shop talk show](https://shoptalkshow.com/)
-- [Frontend happy hour](https://www.frontendhappyhour.com/)
-
+- [Syntax](https://syntax.fm/) - 🎙 A Tasty Treats Podcast for Web Developers. ⭐
 
 ### Youtube Channels ▶️
 
@@ -129,17 +108,7 @@ Youtube is not good for learning but it good for exploring, and get latest updat
 **Shows 🎬**
 - [Fireship](https://www.youtube.com/@Fireship) ⭐
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo) ⭐
-- [Google for Developers](https://www.youtube.com/@GoogleDevelopers)
-- [Chrome for Developers](https://www.youtube.com/@ChromeDevs)
-
-**Conferences 📢**
-- [JobStack](https://www.youtube.com/@jobstack8037)
-- [GOTO Conferences](https://www.youtube.com/@GOTO-)
-- [JavaScript Conferences by GitNation](https://www.youtube.com/@JavaScriptConferences) ⭐
-- ⚛️ [React Conferences by GitNation](https://www.youtube.com/@ReactConferences)
-- ⚛️ [Next.Js Vercel](https://www.youtube.com/@VercelHQ) - ✅ Next.Js Official Conferences.
-- 🅰️ [ng-conf](https://www.youtube.com/@ngconfonline) ✅
-- 🅰️ [AngularConnect](https://www.youtube.com/@angularconnect9636)
+- [Chrome for Developers](https://www.youtube.com/@ChromeDevs) ✅
 
 **Tutorials 📺**
 - [Freecodecamp](https://www.youtube.com/@freecodecamp) ⭐
@@ -149,3 +118,11 @@ Youtube is not good for learning but it good for exploring, and get latest updat
 - [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
 - [Beyond Fireship](https://www.youtube.com/@beyondfireship)
 - [Academind](https://www.youtube.com/@academind)
+
+**Conferences 📢**
+- [JobStack](https://www.youtube.com/@jobstack8037)
+- [GOTO Conferences](https://www.youtube.com/@GOTO-)
+- [JavaScript Conferences by GitNation](https://www.youtube.com/@JavaScriptConferences) ⭐
+- ⚛️ [React Conferences by GitNation](https://www.youtube.com/@ReactConferences)
+- ⚛️ [Next.Js Vercel](https://www.youtube.com/@VercelHQ) - ✅ Next.Js Official Conferences.
+
