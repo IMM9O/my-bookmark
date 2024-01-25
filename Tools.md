@@ -2,13 +2,8 @@
 
 A readme file to keep all useful tools for web developments.
 
-### Cheat Sheet
-
-### Roadmaps
-
-- [Roadmap.sh](https://roadmap.sh/)
-- [Don’t be a Junior Developer: The Roadmap](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
-- [How to Learn Web Development in 2021](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/) - a Web Developer Roadmap.
+- [Learn to think](https://brilliant.org/)
+- [DEV RESOURCES](https://devresourc.es/)
 
 ### Checklists
 

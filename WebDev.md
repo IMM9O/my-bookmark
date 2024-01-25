@@ -3,15 +3,15 @@
 **Legend explain**
 - 🎟️ Subscription plan to access all courses
 - 💰 On-time purchase for each course
-- 🔗 Link for resources
-- 🔖 A reference or doc website
+- 🔗 Resources
+- 🔖 Reference
 - 📕 Book
-- 💿 Course video based or text based
+- 💿 Course
 - 📝 Blog
 - 🎙 Podcast
 - 📰 Magazines
-- ✅ Official resources
-- ⭐ Highly recommended
+- ✅ Official
+- ⭐ Recommended
 
 ## Books, and Courses
 
@@ -22,19 +22,21 @@
 <br />
 
 - 🔖 [Web Dev](https://web.dev/) ⭐
-- 🔖 [Chrome Dev](https://developer.chrome.com/) ⭐✅
+- 🔖 [Chrome Dev](https://developer.chrome.com/) ⭐ ✅
 - 🔖 [MDN Dev](https://developer.mozilla.org/en-US/) ⭐
 - 🔖 [JavaScript Info](https://javascript.info/) ⭐
+- 🔗 [Roadmap.sh](https://roadmap.sh/)
 - 🔗 [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
 <br/>
 
 - 📕 [Hack design](https://hackdesign.org)
 - 📕 [HTML & CSS is Hard](https://internetingishard.netlify.app/html-and-css/)
-- 📕 [Eloquent JavaScript](https://eloquentjavascript.net/)
-- 📕 [You don't know javascript](https://github.com/getify/You-Dont-Know-JS)
 - 📕 [Patterns](https://www.patterns.dev/)
+- 📕 [Refactoring](https://refactoring.guru/refactoring)
 <br/>
 
+- 💿 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- 💿 [CSS50](https://cs50.harvard.edu/)
 - 💿 [Full Stack Open](https://fullstackopen.com/en/) - Deep Dive Into Modern Web Development.
 - 💿 [The odin project](https://www.theodinproject.com/) - The Fullstack web development (Ruby on Rails/NodeJs).
 - 💿 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) - The Fullstack Tutorial for GraphQL.
