@@ -64,12 +64,10 @@
 ## Practice
 
 - [Leetcode](https://leetcode.com/)
-- [Frontend mentor](https://www.frontendmentor.io/)
-- [Ace Frontend](https://www.acefrontend.com/)
 - [100 Days CSS Challenge](https://100dayscss.com/)
-- [Codier](https://codier.io/)
 - [Code well](https://www.codewell.cc/)
-- [Daily UI](https://www.dailyui.co/) - Daily UI is a series of daily Design Challenges Inspiration and Surprise Rewards!
+- [Daily UI](https://www.dailyui.co/)
+- [Frontend mentor](https://www.frontendmentor.io/)
 
 
 ## Keep Your self updated
