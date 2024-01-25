@@ -22,7 +22,7 @@
 <br />
 
 - 🔖 [Web Dev](https://web.dev/) ⭐
-- 🔖 [MDN Dev](https://developer.mozilla.org/en-US/)
+- 🔖 [MDN Dev](https://developer.mozilla.org/en-US/) ⭐
 - 🔖 [JavaScript Info](https://javascript.info/) ⭐
 - 🔗 [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
 <br/>
@@ -31,10 +31,10 @@
 - 📕 [HTML & CSS is Hard](https://internetingishard.netlify.app/html-and-css/)
 - 📕 [Eloquent JavaScript](https://eloquentjavascript.net/)
 - 📕 [You don't know javascript](https://github.com/getify/You-Dont-Know-JS)
-- 📕 [Patterns](https://www.patterns.dev/) ⭐
+- 📕 [Patterns](https://www.patterns.dev/)
 <br/>
 
-- 💿 [Full Stack Open](https://fullstackopen.com/en/) - Deep Dive Into Modern Web Development. ⭐
+- 💿 [Full Stack Open](https://fullstackopen.com/en/) - Deep Dive Into Modern Web Development.
 - 💿 [The odin project](https://www.theodinproject.com/) - The Fullstack web development (Ruby on Rails/NodeJs).
 - 💿 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) - The Fullstack Tutorial for GraphQL.
 - 💿 [Interviews School](https://interviews.school/) - Complete interview preparation guide (Algorithms & System Design).
@@ -77,29 +77,29 @@
 
 - 📝 [Medium](https://medium.com/)
 - 📝 [Dev Community](https://dev.to/)
-- 📝 [CSS Tricks](https://css-tricks.com/)
-- 📝 [Smashing Magazine](https://www.smashingmagazine.com/)
+- 📝 [CSS Tricks](https://css-tricks.com/) ⭐
+- 📝 [Smashing Magazine](https://www.smashingmagazine.com/) ⭐
 <br/>
 
-- 📰 [Bestofjs](https://bestofjs.org/) - A place to find the best open source projects related to the web platform
+- 📰 [Bestofjs](https://bestofjs.org/) - ⭐ A place to find the best open source projects related to the web platform
 - 📰 [JavaScript Weekly](https://javascriptweekly.com/issues)
 - 📰 [Nodejs Weekly](https://nodeweekly.com/issues)
 - 📰 [This Week In React](https://thisweekinreact.com/newsletter)
-- 📰 [ZTM Newsletter](https://zerotomastery.io/newsletters/web-development-monthly/1/)
+- 📰 [ZTM Newsletter](https://zerotomastery.io/newsletters/web-development-monthly/1/) ⭐
 <br/>
 
 - 📰 [ByteByteGo](https://blog.bytebytego.com/archive)
 - 📰 [Amigoscode](https://blog.amigoscode.com/archive)
 - 📰 [Refactoring](https://refactoring.fm/archive)
 - 📰 [Pointer](https://www.pointer.io/archives/)
+<br />
+
+- 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers. ⭐
 <br/>
 
 - [V8](https://v8.dev/) - ✅ JavaScript engine.
 - [ECMA262](https://tc39.es/ecma262/) - ✅ ECMAScript® Language Specification.
 - [Chrome Dev blog](https://developer.chrome.com/blog/) - ✅ Latest update from google chrome.
-<br />
-
-- 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers. ⭐
 
 ### Youtube Channels ▶️
 
