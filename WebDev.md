@@ -6,14 +6,14 @@
 - 🔗 Resources
 - 🔖 Reference
 - 📕 Book
-- 💿 Course
+- 💿 Course or Tutorial
 - 📝 Blog
 - 🎙 Podcast
 - 📰 Magazines
 - ✅ Official
 - ⭐ Recommended
 
-## Books, and Courses
+## Books, Courses, and Tutorial
 
 - [Class Center](https://www.classcentral.com/) - Get the latest news and analysis in online education.
 - [Udemy](https://www.udemy.com/courses/) - 💰 ⭐
@@ -29,18 +29,18 @@
 - 🔗 [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
 <br/>
 
-- 📕 [Hack design](https://hackdesign.org)
-- 📕 [HTML & CSS is Hard](https://internetingishard.netlify.app/html-and-css/)
 - 📕 [Patterns](https://www.patterns.dev/)
 - 📕 [Refactoring](https://refactoring.guru/refactoring)
 <br/>
 
-- 💿 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - 💿 [CSS50](https://cs50.harvard.edu/)
+- 💿 [Hack design](https://hackdesign.org)
+- 💿 [HTML & CSS is Hard](https://internetingishard.netlify.app/html-and-css/)
 - 💿 [Full Stack Open](https://fullstackopen.com/en/) - Deep Dive Into Modern Web Development.
 - 💿 [The odin project](https://www.theodinproject.com/) - The Fullstack web development (Ruby on Rails/NodeJs).
 - 💿 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) - The Fullstack Tutorial for GraphQL.
 - 💿 [Interviews School](https://interviews.school/) - Complete interview preparation guide (Algorithms & System Design).
+- 💿 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## Cheat Cheats
 
