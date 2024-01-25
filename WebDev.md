@@ -42,34 +42,6 @@
 - 💿 [Interviews School](https://interviews.school/) - Complete interview preparation guide (Algorithms & System Design).
 - 💿 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-## Cheat Cheats
-
-- [Head](https://htmlhead.dev/) - A simple guide to HTML `<head>` elements
-- [HTML Reference](http://htmlreference.io/)
-- [CSS Reference](http://cssreference.io/)
-- [Rico's cheat sheets](https://devhints.io/)
-- [30 seconds of code](https://www.30secondsofcode.org/)
-- [Can I use](https://caniuse.com/)
-- [Can I email](https://www.caniemail.com/)
-- [Can Include](https://caninclude.glitch.me/)
-- [What the tag](https://whatthetag.com/#/)
-- [BEM cheat sheet](https://bem-cheat-sheet.9elements.com/)
-- [SmolCSS](https://smolcss.dev/) - Minimal snippets for modern CSS layouts and components
-- [Modern CSS](https://moderncss.dev/) - Modern CSS Solutions for old css problems
-- [1-Line Layouts](https://1linelayouts.glitch.me/)
-- [CSS Grid Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Tricks.
-- [Flexbox Complete Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS Tricks.
-- [A comprehensive guide to font loading strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
-
-## Practice
-
-- [Leetcode](https://leetcode.com/)
-- [100 Days CSS Challenge](https://100dayscss.com/)
-- [Code well](https://www.codewell.cc/)
-- [Daily UI](https://www.dailyui.co/)
-- [Frontend mentor](https://www.frontendmentor.io/)
-
-
 ## Keep Your self updated
 
 > Keep yourself updated with the latest news about web development.
