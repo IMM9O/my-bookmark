@@ -82,6 +82,7 @@
 - 📝 [CSS Tricks](https://css-tricks.com/)
 - 📝 [Smashing Magazine](https://www.smashingmagazine.com/)
 
+**Software Development Magazines**
 - 📰 [ZTM Newsletter](https://zerotomastery.io/newsletters/web-development-monthly/1/)
 - 📰 [Bytes](https://bytes.dev/archives/)
 - 📰 [Nodejs Weekly](https://nodeweekly.com/issues)
@@ -90,14 +91,16 @@
 - 📰 [React Status](https://react.statuscode.com/issues)
 - 📰 [This Week In React](https://thisweekinreact.com/newsletter)
 
+**Software Engineering & Leadership Magazines**
 - 📰 [ByteByteGo](https://blog.bytebytego.com/archive)
+- 📰 [Amigoscode](https://blog.amigoscode.com/)
 - 📰 [Refactoring](https://refactoring.fm/archive)
 - 📰 [Pointer](https://www.pointer.io/archives/)
 
+**Official Updates**
 - [V8](https://v8.dev/) - ✅ JavaScript engine.
+- [ECMA262](https://tc39.es/ecma262/) - ✅ ECMAScript® Language Specification.
 - [Chrome Dev blog](https://developer.chrome.com/blog/) - ✅ Latest update from google chrome.
-- [Hacks Mozilla](https://hacks.mozilla.org/) - ✅ Latest updates from Mozilla Firefox.
-- [Webkit](https://webkit.org/blog/) - ✅ Latest updates from webkit technology.
 
 ### Podcasts 🎙
 
