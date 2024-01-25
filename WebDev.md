@@ -22,6 +22,7 @@
 <br />
 
 - 🔖 [Web Dev](https://web.dev/) ⭐
+- 🔖 [Chrome Dev](https://developer.chrome.com/) ⭐✅
 - 🔖 [MDN Dev](https://developer.mozilla.org/en-US/) ⭐
 - 🔖 [JavaScript Info](https://javascript.info/) ⭐
 - 🔗 [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
@@ -77,14 +78,9 @@
 
 - 📝 [Medium](https://medium.com/)
 - 📝 [Dev Community](https://dev.to/)
-- 📝 [CSS Tricks](https://css-tricks.com/) ⭐
-- 📝 [Smashing Magazine](https://www.smashingmagazine.com/) ⭐
 <br/>
 
 - 📰 [Bestofjs](https://bestofjs.org/) - ⭐ A place to find the best open source projects related to the web platform
-- 📰 [JavaScript Weekly](https://javascriptweekly.com/issues)
-- 📰 [Nodejs Weekly](https://nodeweekly.com/issues)
-- 📰 [This Week In React](https://thisweekinreact.com/newsletter)
 - 📰 [ZTM Newsletter](https://zerotomastery.io/newsletters/web-development-monthly/1/) ⭐
 <br/>
 
@@ -95,11 +91,6 @@
 <br />
 
 - 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers. ⭐
-<br/>
-
-- [V8](https://v8.dev/) - ✅ JavaScript engine.
-- [ECMA262](https://tc39.es/ecma262/) - ✅ ECMAScript® Language Specification.
-- [Chrome Dev blog](https://developer.chrome.com/blog/) - ✅ Latest update from google chrome.
 
 ### Youtube Channels ▶️
 
