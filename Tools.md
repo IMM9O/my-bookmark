@@ -2,8 +2,22 @@
 
 A readme file to keep all useful tools for web developments.
 
-- [Learn to think](https://brilliant.org/)
-- [DEV RESOURCES](https://devresourc.es/)
+
+### AI Chats
+
+- [Google Gemini](https://gemini.google.com/app)
+- [Microsoft Copilot](https://copilot.microsoft.com/)
+- [Chat GPT](https://chatgpt.com/)
+- [BlackBox AI](https://www.blackbox.ai/)
+- [Araby AI](https://www.araby.ai/)
+
+
+### AI Agent
+
+- [Firebase Studio](https://firebase.studio/)
+- [Lovable](https://lovable.dev/)
+- [Cursor](https://www.cursor.com/)
+
 
 ### Checklists
 
