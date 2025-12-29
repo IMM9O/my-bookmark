@@ -1,37 +1,29 @@
 # Web Development Follow Up List 👨‍💻👨‍💻
 
-**Legend explain**
-- 🎟️ Subscription plan to access all courses
-- 💰 On-time purchase for each course
-- 🔗 Resources
-- 🔖 Reference
-- 📕 Book
-- 💿 Course or Tutorial
-- 📝 Blog
-- 🎙 Podcast
-- 📰 Magazines
-- ✅ Official
-- ⭐ Recommended
+## Bookmarks
 
-## Books, Courses, and Tutorial
+> Bookmark these websites for quick reference and easy access whenever you need to revisit important resources.
 
 - 🔗 [Learn to think](https://brilliant.org/)
 - 🔗 [DEV RESOURCES](https://devresourc.es/)
 - 🔗 [Roadmap.sh](https://roadmap.sh/)
 - 🔗 [Web Skills](https://andreasbm.github.io/web-skills/) - Resources for learning web development.
 - 🔗 [Tech Interview Q/A](https://www.fullstack.cafe/)
-- 🔗 [Springer](https://link.springer.com/) - Books
-<br />
-
 - 🔖 [MDN Dev](https://developer.mozilla.org/en-US/) ⭐
 - 🔖 [Web Dev](https://web.dev/) ⭐
-- 🔖 [Chrome Dev](https://developer.chrome.com/) ⭐ ✅
+- 🔖 [Chrome Dev](https://developer.chrome.com/) ⭐
 - 🔖 [JavaScript Info](https://javascript.info/) ⭐
 <br />
 
+## Books
+
+- 🔗 [Springer](https://link.springer.com/) - Books
 - 📕 [Patterns](https://www.patterns.dev/)
 - 📕 [Refactoring](https://refactoring.guru/refactoring)
 <br />
+
+
+## Courses 
 
 - 💿 [CSS50](https://cs50.harvard.edu/)
 - 💿 [Hack design](https://hackdesign.org)
@@ -46,7 +38,7 @@
 <br />
 
 
-## Blogs & Magazines
+## Newsletters & Podcasts 
 
 > Keep yourself updated with the latest news about web development.
 
