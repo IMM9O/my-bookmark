@@ -23,12 +23,6 @@
 - 🔗 [Springer](https://link.springer.com/) - Books
 <br />
 
-- 💿 [Class Center](https://www.classcentral.com/) - Get the latest news and analysis in online education.
-- 💿 [Udemy](https://www.udemy.com/courses/) - 💰 ⭐
-- 💿 [Coursera](https://www.coursera.org/) - free without certificate
-- 💿 [Udacity](https://www.udacity.com) - free without certificate
-<br />
-
 - 🔖 [MDN Dev](https://developer.mozilla.org/en-US/) ⭐
 - 🔖 [Web Dev](https://web.dev/) ⭐
 - 🔖 [Chrome Dev](https://developer.chrome.com/) ⭐ ✅
@@ -56,12 +50,14 @@
 
 > Keep yourself updated with the latest news about web development.
 
-- 📰 [Bestofjs](https://bestofjs.org/) - ⭐ A place to find the best open source projects related to the web platform
 - 📰 [ZTM Newsletter](https://zerotomastery.io/newsletters/web-development-monthly/1/) ⭐
+- 📰 [JavaScript Weekly](https://javascriptweekly.com/issues)
+- 📰 [NodeJs Weekly](https://nodeweekly.com/issues)
 - 📰 [ByteByteGo](https://blog.bytebytego.com/archive)
 - 📰 [Amigoscode](https://blog.amigoscode.com/archive)
 - 📰 [Refactoring](https://refactoring.fm/archive)
 - 📰 [Pointer](https://www.pointer.io/archives/)
+
 - 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers. ⭐
 
 
