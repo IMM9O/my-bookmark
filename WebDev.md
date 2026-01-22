@@ -43,17 +43,15 @@
 > Keep yourself updated with the latest news about web development.
 
 - 📰 [ZTM Newsletter](https://zerotomastery.io/newsletters/web-development-monthly/1/) ⭐
-
 - 📰 [Frontend Focus](https://frontendfoc.us/issues)
 - 📰 [JavaScript Weekly](https://javascriptweekly.com/issues)
 - 📰 [React Status](https://react.statuscode.com/issues)
 - 📰 [NodeJs Weekly](https://nodeweekly.com/issues)
 - 📰 [Postgres Weekly](https://postgresweekly.com/issues)
-
+- 📰 [Bytes Dev](https://bytes.dev/archives)
 - 📰 [ByteByteGo](https://blog.bytebytego.com/archive)
 - 📰 [Amigoscode](https://blog.amigoscode.com/archive)
 - 📰 [Refactoring](https://refactoring.fm/archive)
-
 - 📰 [Pointer](https://www.pointer.io/archives/)
 - 🎙 [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers. ⭐
 
